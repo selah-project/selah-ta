@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "கேரோசின் மக்கள், சியாவின் மக்கள், பாதோனின் மக்கள்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "கேரோஸ்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "சியா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "பாதோன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:41.888924443Z",
+  "model": "glm-5.3"
+}

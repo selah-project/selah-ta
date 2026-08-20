@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "நாங்கள் பெத்-பெவோருக்கு எதிரே பள்ளத்தாக்கில் தங்கியிருந்தோம்.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "தங்கியிருந்தோம்"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "பள்ளத்தாக்கில்"
+    },
+    {
+      "surface": "מול",
+      "gloss": "எதிரே"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பெத்"
+    },
+    {
+      "surface": "தעור",
+      "gloss": "பெவோர்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:17:50.077888355Z",
+  "model": "glm-5.3"
+}

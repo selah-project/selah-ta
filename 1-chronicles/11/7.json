@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "தாவீது அரணில் வாசம் செய்தான்; ஆகையால் அதை தாவீது நகரம் என்று அழைத்தனர்.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "வாசம் செய்தான்"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "தாவீது"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "அரணில்"
+    },
+    {
+      "surface": "על",
+      "gloss": "அதன் மேல்"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ஆகையால்"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "அழைத்தனர்"
+    },
+    {
+      "surface": "לו",
+      "gloss": "அதை"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "நகரம்"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "தாவீது"
+    }
+  ],
+  "timestamp": "2026-08-20T04:46:30.308574519Z",
+  "model": "glm-5.3"
+}

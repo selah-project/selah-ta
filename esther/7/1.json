@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "அரசனும் ஆமானும் எஸ்தர் அரசியுடன் பானம் அருந்த வந்தார்கள்.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "வந்தார்கள்"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ஆமானும்"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "பானம் அருந்த"
+    },
+    {
+      "surface": "עם",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "எஸ்தர்"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "அரசி"
+    }
+  ],
+  "timestamp": "2026-08-20T02:56:40.581877240Z",
+  "model": "glm-5.3"
+}

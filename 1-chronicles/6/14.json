@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "மெராரியின் புதல்வர்: மாஹ்லி; அவன் மகன் லிப்னி, அவன் மகன் சிம்இ, அவன் மகன் உஸ்ஸா.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "மெராரியின்"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "மாஹ்லி"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "லிப்னி"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "சிம்இ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "உஸ்ஸா"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:29.176895017Z",
+  "model": "glm-5.3"
+}

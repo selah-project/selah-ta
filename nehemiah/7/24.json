@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "யரிபின் புதல்கள் — நூற்று பன்னிரண்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "யரிப்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "இரண்டு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:18:57.505082189Z",
+  "model": "glm-5.3"
+}

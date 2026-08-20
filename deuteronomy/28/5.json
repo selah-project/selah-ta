@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 28,
+  "translation": "ஆசிர்வதிக்கப்பட்டது உன் கூடையும் உன் பிசையும் கலனும்.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ஆசிர்வதிக்கப்பட்டது"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "உன் கூடை"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "மற்றும் உன் பிசைகலன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:28:08.753974865Z",
+  "model": "glm-5.3"
+}

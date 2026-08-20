@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "பிறக்க ஒரு காலம், இறக்க ஒரு காலம்; நடவ ஒரு காலம், நடப்பட்டதைப் பிடுங்க ஒரு காலம்.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ஒரு காலம்"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "பிறக்க"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "மற்றும் ஒரு காலம்"
+    },
+    {
+      "surface": "למות",
+      "gloss": "இறக்க"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ஒரு காலம்"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "நடவ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "மற்றும் ஒரு காலம்"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "பிடுங்க"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "நடப்பட்டதை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:48:40.039289056Z",
+  "model": "glm-5.3"
+}

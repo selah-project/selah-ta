@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "தூய இருதயத்தை நேசிப்பவன் — அவன் உதட்டின் அருளே — அரசன் அவன் நண்பன்.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "நேசிப்பவன்"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "தூய"
+    },
+    {
+      "surface": "לב",
+      "gloss": "இருதயத்தை"
+    },
+    {
+      "surface": "חן",
+      "gloss": "அருள்"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "அவன் உதட்டின்"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "அவன் நண்பன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:12:32.270009243Z",
+  "model": "glm-5.3"
+}

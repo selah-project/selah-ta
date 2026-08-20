@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "எத்னியின் மகன், செராக்கின் மகன், அதாயாவின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "எத்னி"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "செராக்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "அதாயா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:38.342284668Z",
+  "model": "glm-5.3"
+}

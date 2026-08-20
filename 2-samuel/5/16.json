@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "எலீஷாமா, எலியாதா, எலிப்பாலெத்.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "எலீஷாமா"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "எலியாதா"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "எலிப்பாலெத்"
+    }
+  ],
+  "timestamp": "2026-08-19T23:10:12.386044208Z",
+  "model": "glm-5.3"
+}

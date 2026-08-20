@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "ஹபராயிம், ஷியோன், அனாஹரத் ஆகியவையும்.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "ஹபராயிம்"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "ஷியோன்"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "அனாஹரத்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:51.417939143Z",
+  "model": "glm-5.3"
+}

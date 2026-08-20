@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "அபிஷுவா, நாமான், அஹோஹா.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "அபிஷுவா"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "நாமான்"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "அஹோஹா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:18.680978486Z",
+  "model": "glm-5.3"
+}

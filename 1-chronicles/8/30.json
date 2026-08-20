@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "அவருடைய தலைமகன் அவ்தோன்; மேலும் த்சூர், கிஷ், பால், நதாப்.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "அவருடைய மகன்"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "தலைமகன்"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "அவ்தோன்"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "த்சூர்"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "கிஷ்"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "பால்"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "நதாப்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:32.880284893Z",
+  "model": "glm-5.3"
+}

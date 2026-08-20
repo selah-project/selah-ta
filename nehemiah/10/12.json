@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மிக்கா, ரெச்சோவ், சஷவ்யா.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "மிக்கா"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "ரெச்சோவ்"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "சஷவ்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:23.154462077Z",
+  "model": "glm-5.3"
+}

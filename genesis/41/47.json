@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 41,
+  "translation": "ஏழு நிறைவு ஆண்டுகளில் நிலம் பிடிபிடியாக விளைந்தது.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "விளைந்தது"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "நிலம்"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ஆண்டுகளில்"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "நிறைவு"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "பிடிபிடியாக"
+    }
+  ],
+  "timestamp": "2026-08-19T21:21:40.036419888Z",
+  "model": "glm-5.3"
+}

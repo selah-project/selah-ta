@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஏபெர் முப்பத்து நான்கு ஆண்டுகள் வாழ்ந்து ⟨את⟩ பெலெகைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "வாழ்ந்தான்"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ஏபெர்"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "நான்கு"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ஆண்டுகள்"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "பெலெகை"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "பெலெக்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:25.926109218Z",
+  "model": "glm-5.3"
+}

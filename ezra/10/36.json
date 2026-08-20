@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "வன்யா, மெரெமோத், எல்யாசிப்.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "வன்யா"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "மெரெமோத்"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "எல்யாசிப்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:14:21.030229670Z",
+  "model": "glm-5.3"
+}

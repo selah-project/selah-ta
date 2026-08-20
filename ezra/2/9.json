@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஸக்காயின் புத்திரர் ஏழு நூற்று அறுபது.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ஸக்காயின்"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "அறுபது"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:53.370970155Z",
+  "model": "glm-5.3"
+}

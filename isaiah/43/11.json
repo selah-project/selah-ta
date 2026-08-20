@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 43,
+  "translation": "நானே, நானே யாவே; என்னையல்லாமல் இரட்சகர் இல்லை.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "நானே"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "நானே"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "என்னையல்லாமல்"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "இரட்சகர்"
+    }
+  ],
+  "timestamp": "2026-08-20T00:01:34.720155773Z",
+  "model": "glm-5.3"
+}

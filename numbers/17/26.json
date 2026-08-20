@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 17,
+  "translation": "யாவே அவருக்குக் கட்டளையிட்டபடி மோஷே செய்தார்; ⟨את⟩ அப்படியே செய்தார்.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "செய்தார்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "஛אשר",
+      "gloss": "படி"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "கட்டளையிட்ட"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ அவரை",
+      "marks": "மோஷே"
+    },
+    {
+      "surface": "כן",
+      "gloss": "அப்படியே"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "செய்தார்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:07:01.610894331Z",
+  "model": "glm-5.3"
+}

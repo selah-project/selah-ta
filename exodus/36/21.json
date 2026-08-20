@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 36,
+  "translation": "பத்து முழ நீளம் ⟨கட்டைக்கு⟩, ஒரு முழ அரை முழ அகலம் ஒரு கட்டைக்கு.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "முழ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "நீளம்"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "கட்டைக்கு"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ஒரு முழ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "அரை"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "முழ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "அகலம்"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "கட்டை"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ஒரு"
+    }
+  ],
+  "timestamp": "2026-08-19T21:42:30.294658560Z",
+  "model": "glm-5.3"
+}

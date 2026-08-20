@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "சாசோர், ராமா, கித்தயிம் —",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "சாசோர்"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ராமா"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "கித்தயிம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:50.282287891Z",
+  "model": "glm-5.3"
+}

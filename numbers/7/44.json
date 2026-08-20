@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பொன் கரண்டி ஒன்று, பத்து சேக்கல், தூபத்திரவியம் நிரம்ப.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "கரண்டி"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ஒன்று"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "பொன்"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "நிரம்ப"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "தூபத்திரவியம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:02:28.728633857Z",
+  "model": "glm-5.3"
+}

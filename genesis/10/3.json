@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "கோமெரின் மக்கள்: அஷ்கெனாஸ், ரீபாத், தோகர்மா.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "கோமெரின்"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "அஷ்கெனாஸ்"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ரீபாத்"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "தோகர்மா"
+    }
+  ],
+  "timestamp": "2026-08-19T21:05:48.015403065Z",
+  "model": "glm-5.3"
+}

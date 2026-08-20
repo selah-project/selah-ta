@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "யாவே சேனைகளின் வார்த்தை உண்டாகி ⟨என்று⟩ சொன்னது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "உண்டாகிற்று"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "சேனைகளின்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லும்படி"
+    }
+  ],
+  "timestamp": "2026-08-20T04:35:14.569026090Z",
+  "model": "glm-5.3"
+}

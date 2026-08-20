@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "தாநாக்கின் அரசன் ஒருவன்; மெகித்தோவின் அரசன் ஒருவன்.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "தாநாக்கின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "மெகித்தோவின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:36:37.881709708Z",
+  "model": "glm-5.3"
+}

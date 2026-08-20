@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "நெத்சீயாக்கின் புதல்கள், ஹத்தீபாவின் புதல்கள்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "நெத்சீயாக்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ஹத்தீபா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:17.354398551Z",
+  "model": "glm-5.3"
+}

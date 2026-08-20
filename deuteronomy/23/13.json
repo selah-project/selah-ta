@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "பாசறைக்கு வெளியே உனக்கு ஒரு இடம் இருக்கவேண்டும், அங்கே நீ வெளியே செல்வாய்.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "மேலும் ஒரு இடம்"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "இருக்கவேண்டும்"
+    },
+    {
+      "surface": "לך",
+      "gloss": "உனக்கு"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "வெளியே"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "பாசறைக்கு"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "செல்வாய்"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "அங்கே"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "வெளியே"
+    }
+  ],
+  "timestamp": "2026-08-19T22:26:34.303442728Z",
+  "model": "glm-5.3"
+}

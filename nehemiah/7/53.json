@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பக்பூக்கின் புதல்கள், ஹகுப்பாவின் புதல்கள், ஹர்ஹூரின் புதல்கள்,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "பக்பூக்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ஹகுப்பா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ஹர்ஹூர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:17.353190737Z",
+  "model": "glm-5.3"
+}

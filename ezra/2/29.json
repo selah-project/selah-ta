@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "நெபோவின் புதல்லர் — ஐம்பத்திரண்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்லர்"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "நெபோ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "மற்றும் இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:40.773054631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "அனாத்தோத்திலும், நோபிலும், அனன்யாவிலும் ⟨இருந்தனர்⟩",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "அனாத்தோத்திலும்"
+    },
+    {
+      "surface": "נב",
+      "gloss": "நோபிலும்"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "அனன்யாவிலும்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:56.332989510Z",
+  "model": "glm-5.3"
+}

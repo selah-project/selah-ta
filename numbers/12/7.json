@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "அப்படி அல்ல என் ஊழியக்காரர் மோஷே; என் முழு வீட்டிலும் அவர் நம்பகர்.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "அல்ல"
+    },
+    {
+      "surface": "כן",
+      "gloss": "அப்படி"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "என் ஊழியக்காரர்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "முழு"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "என் வீட்டிலும்"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "நம்பகர்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவர்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:04:44.774985990Z",
+  "model": "glm-5.3"
+}

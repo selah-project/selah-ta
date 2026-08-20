@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "லேவியின் புதல்கள்: கெர்ஷோன், கெஹாத், மற்றும் மெராரி.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "லேவியின்"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "கெர்ஷோன்"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "கெஹாத்"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "மற்றும் மெராரி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:43.713922647Z",
+  "model": "glm-5.3"
+}

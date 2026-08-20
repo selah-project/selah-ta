@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 28,
+  "translation": "இரண்டாவது வரிசை — மரகதம், நீலமணி, வைரம்.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "வரிசை"
+    },
+    {
+      "surface": "השני",
+      "gloss": "இரண்டாவது"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "மரகதம்"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "நீலமணி"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "வைரம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:38:08.929731700Z",
+  "model": "glm-5.3"
+}

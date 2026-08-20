@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 37,
+  "translation": "அவர்களிடம் சொன்னான்: இப்போது கேளுங்கள், நான் கண்ட இந்த கனவை —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "அவர்களிடம்"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "கேளுங்கள்"
+    },
+    {
+      "surface": "נא",
+      "gloss": "இப்போது"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "இந்த கனவை"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "இந்த"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "எதை"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "நான் கண்டேன்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:18:21.938257565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 97,
+  "translation": "யாவே அரசாண்டார் — மகிழ்க ⟨the⟩ பூமி; களிக்கவும் தீவுகள் பல.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசாண்டார்"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "மகிழ்க"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "பூமி"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "களிக்கவும்"
+    },
+    {
+      "surface": "איים",
+      "gloss": "தீவுகள்"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "பல"
+    }
+  ],
+  "timestamp": "2026-08-20T01:47:56.810022414Z",
+  "model": "glm-5.3"
+}

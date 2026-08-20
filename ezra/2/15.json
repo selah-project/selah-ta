@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஆதினின் புதல்கள் நானூற்று ஐம்பத்தாறு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ஆதினின்"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "நான்கு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "மற்றும் நான்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:58.557830391Z",
+  "model": "glm-5.3"
+}

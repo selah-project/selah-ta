@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "சீயோன் மலை பாழானதால் — நரிகள் அதில் நடந்து திரிகின்றன.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "காக"
+    },
+    {
+      "surface": "הר",
+      "gloss": "மலை"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "சீயோன்"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "பாழானதால்"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "நரிகள்"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "நடந்து திரிகின்றன"
+    },
+    {
+      "surface": "בו",
+      "gloss": "அதில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:33.814995320Z",
+  "model": "glm-5.3"
+}

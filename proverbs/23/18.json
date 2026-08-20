@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "ஏனெனில் ⟨எதிர்காலம்⟩ உண்டு; உன் நம்பிக்கை அறுபடாது.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "אם",
+      "gloss": "நிச்சயமாக"
+    },
+    {
+      "surface": "יש",
+      "gloss": "உண்டு"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "எதிர்காலம்"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "உன் நம்பிக்கை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "அறுபடாது"
+    }
+  ],
+  "timestamp": "2026-08-20T02:14:59.044348704Z",
+  "model": "glm-5.3"
+}

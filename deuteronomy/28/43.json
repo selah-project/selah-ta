@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 28,
+  "translation": "உன் நடுவில் இருக்கிற அந்நியன் உன்மேல் மேலே மேலே ஏறுவான், நீயோ கீழே கீழே இறங்குவாய்.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "அந்நியன்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "என்பவன்"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "உன் நடுவில் இருக்கிற"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ஏறுவான்"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "உன்மேல்"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "மேலே"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "மேலே"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "நீயோ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "இறங்குவாய்"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "கீழே"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "கீழே"
+    }
+  ],
+  "timestamp": "2026-08-19T22:28:37.144719821Z",
+  "model": "glm-5.3"
+}

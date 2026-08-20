@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "சிறுமையானவர்களின் கை ஆளும்; சோம்பல் கப்பம் கட்டுவதாகும்.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "கை"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "சிறுமையானவர்களின்"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "ஆளும்"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "சோம்பல்"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ஆகும்"
+    },
+    {
+      "surface": "למס",
+      "gloss": "கப்பத்திற்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:08:04.669575078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "நோவாக்கோ யாவேவின் கண்களில் கிருபையைக் கண்டான்.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "நோவாக்கோ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "கண்டான்"
+    },
+    {
+      "surface": "חן",
+      "gloss": "கிருபையை"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "கண்களில்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:04:55.193963351Z",
+  "model": "glm-5.3"
+}

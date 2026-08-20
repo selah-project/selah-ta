@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "அந்த வாதைக்குப் பின்பு ஆனது.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆனது"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "பின்பு"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "அந்த வாதைக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T22:11:05.414198754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "சாஷூமின் புதல்கள் — இருநூற்று இருபத்து மூன்று.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "சாஷூமின்"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "இருநூற்று"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபத்து"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "மூன்று"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:48.193020713Z",
+  "model": "glm-5.3"
+}

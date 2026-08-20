@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மெஷேசபெல், சாதோக், யத்தூவா,",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "மெஷேசபெல்"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "சாதோக்"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "யத்தூவா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:20:59.892872774Z",
+  "model": "glm-5.3"
+}

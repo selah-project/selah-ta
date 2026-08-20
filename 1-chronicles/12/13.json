@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "யோஹானான் எட்டாமவன், எல்சாபாத் ஒன்பதாமவன்.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "யோஹானான்"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "எட்டாமவன்"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "எல்சாபாத்"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "ஒன்பதாமவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:34:05.601564618Z",
+  "model": "glm-5.3"
+}

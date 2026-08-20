@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 28,
+  "translation": "காற்றுக்கு எடை செய்ய, நீர்களை அளவால் அளந்தார்.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "செய்ய"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "காற்றுக்கு"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "எடை"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "நீர்களை"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "அளந்தார்"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "அளவால்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:30:50.490054115Z",
+  "model": "glm-5.3"
+}

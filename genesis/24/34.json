@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "அவன் சொன்னான்: நான் அவ்ராஹாமின் அடிமை.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "அடிமை"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "அவ்ராஹாமின்"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "நான்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:12:30.182284364Z",
+  "model": "glm-5.3"
+}

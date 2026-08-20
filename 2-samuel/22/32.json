@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "ஏனெனில் யாவையன்றி யார் ஏல்? நம் எலோஹீமையன்றி யார் பாறை?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ஏல்"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "அன்றி"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவைய"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "צור",
+      "gloss": "பாறை"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "அன்றி"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "நம் எலோஹீமைய"
+    }
+  ],
+  "timestamp": "2026-08-19T23:18:16.291020948Z",
+  "model": "glm-5.3"
+}

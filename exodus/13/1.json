@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "யாவே மோஷேயிடம் பேசினார், கூறுகிறார்:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்... உடன்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுகிறார்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:31:28.034846412Z",
+  "model": "glm-5.3"
+}

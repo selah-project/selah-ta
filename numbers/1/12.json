@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "தானுக்கு — அஹியெசெர், அம்மிஷத்தாயின் மகன்.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "தானுக்கு"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "அஹியெசெர்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "அம்மிஷத்தாயின்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:57:55.040191933Z",
+  "model": "glm-5.3"
+}

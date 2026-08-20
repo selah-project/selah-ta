@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "ஷ்லோமோ ⟨את⟩ வீட்டைக் கட்டி அதை முடித்தான்.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "கட்டினான்"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ஷ்லோமோ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "வீட்டை"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "வீட்டை"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "அதை முடித்தான்"
+    }
+  ],
+  "timestamp": "2026-08-19T23:23:03.849351599Z",
+  "model": "glm-5.3"
+}

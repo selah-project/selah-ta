@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "படைமுகாலில் இரவில் பனிபொழிந்தபோது, அதன்மேல் மன்னா இறங்கிறது.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "பொழிந்தபோது"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "பனி"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "படைமுகால்"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "இரவில்"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "இறங்குகிறது"
+    },
+    {
+      "surface": "המן",
+      "gloss": "மன்னா"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "அதன்மேல்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:05:19.754000590Z",
+  "model": "glm-5.3"
+}

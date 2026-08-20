@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பாடகர்: ஆசாபின் புதல்கள் — நூறு, நாற்பத்தெட்டு.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "பாடகர்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ஆசாபின்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "நாற்பது"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "மற்றும் எட்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:00.041927248Z",
+  "model": "glm-5.3"
+}

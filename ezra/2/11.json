@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "பேபாயின் புத்திரர் ஆறு நூற்று இருபத்து மூன்று.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "பேபாயின்"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "மூன்று"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:53.371329919Z",
+  "model": "glm-5.3"
+}

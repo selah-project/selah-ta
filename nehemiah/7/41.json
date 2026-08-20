@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பஷ்ஹூரின் புதல்கள் — ஆயிரம், இருநூறு, நாற்பத்தேழு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "பஷ்ஹூரின்"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "இருநூறு"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "நாற்பது"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "மற்றும் ஏழு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:00.041482217Z",
+  "model": "glm-5.3"
+}

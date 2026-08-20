@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "சாரீம், மெரெமோத், ஒவத்யா,",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "சாரீம்"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "மெரெமோத்"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ஒவத்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:50.505786860Z",
+  "model": "glm-5.3"
+}

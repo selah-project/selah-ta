@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "சேமின் புதல்வர்: ஏலாம், அசூர், அர்பக்ஷத், லூத், அராம்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "שם",
+      "gloss": "சேமின்"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ஏலாம்"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "அசூர்"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "அர்பக்ஷத்"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "லூத்"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "அராம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:09.915835238Z",
+  "model": "glm-5.3"
+}

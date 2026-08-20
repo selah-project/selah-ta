@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "அது குற்றம்; அவன் யாவேயிடம் மெத்தக் குற்றவாளி.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "குற்றம்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அது"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "குற்றவாளி"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "மெத்தக் குற்றவாளி"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "யாவேயிடம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:46:37.662277453Z",
+  "model": "glm-5.3"
+}

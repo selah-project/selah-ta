@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "அப்பொழுது யாவே எனக்குச் சொன்னார்: அவர்கள் சொன்னது நன்றாய் உள்ளது.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "நன்றாய் உள்ளது"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "எதை"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "அவர்கள் சொன்னது"
+    }
+  ],
+  "timestamp": "2026-08-19T22:24:55.866495720Z",
+  "model": "glm-5.3"
+}

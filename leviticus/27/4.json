@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 27,
+  "translation": "பெண் என்றால் — உன் மதிப்பீடு முப்பது சேக்கல் என இருக்கும்.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "என்றால்"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "பெண்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவள்"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "இருக்கும்"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "உன் மதிப்பீடு"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "சேக்கல்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:58:46.379887916Z",
+  "model": "glm-5.3"
+}

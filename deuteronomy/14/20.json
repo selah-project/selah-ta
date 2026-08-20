@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "சுத்தமான எந்தப் பறவையையும் நீங்கள் உண்ணலாம்",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "எல்லா\/எந்த"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "பறவை"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "சுத்தமான"
+    },
+    {
+      "surface": "பאכלו",
+      "gloss": "நீங்கள் உண்ணுங்கள்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:22:34.029175589Z",
+  "model": "glm-5.3"
+}

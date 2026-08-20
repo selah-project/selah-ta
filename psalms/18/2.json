@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "அவன் சொன்னான்: பரிவு கொள்வேன் உன்னை, யாவே, என் பலமே.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "பரிவு கொள்வேன் உன்னை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "என் பலம்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:25:37.077707727Z",
+  "model": "glm-5.3"
+}

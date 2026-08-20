@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பெசாயின் புதல்கள் — மூன்று நூற்று இருபத்து நான்கு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "பெசாய்"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "மூன்று"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "மற்றும் நான்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:18:57.504975760Z",
+  "model": "glm-5.3"
+}

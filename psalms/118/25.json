@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 118,
+  "translation": "ஆ! யாவே, இரட்சித்தருளும், ஆ! யாவே, வாழ்த்துநலம் தரும்.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ஆ!"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "இரட்சித்தருளும்"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ஆ!"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ஆ!"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "வாழ்த்துநலம் தரும்"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ஆ!"
+    }
+  ],
+  "timestamp": "2026-08-20T01:55:14.887428353Z",
+  "model": "glm-5.3"
+}

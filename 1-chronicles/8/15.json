@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "மற்றும் செபத்யா, அரத், மற்றும் ஏதேர்.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "மற்றும் செபத்யா"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "அரத்"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "மற்றும் ஏதேர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:00.634146151Z",
+  "model": "glm-5.3"
+}

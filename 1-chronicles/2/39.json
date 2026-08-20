@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "அசர்யா ⟨את⟩ கெலெஸைப் பெற்றான், கெலெஸ் ⟨את⟩ எல்ஆசாவைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "அசர்யா"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "கெலெஸை"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "கெலெஸ்"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "கெலெஸ்"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "எல்ஆசாவை"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "எல்ஆசா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:51.995559739Z",
+  "model": "glm-5.3"
+}

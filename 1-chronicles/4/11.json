@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "கெலூப் — சூகாவின் சகோதரன் — ⟨את⟩ மெகீரைப் பெற்றான்; அவன் எஷ்தோனின் தந்தை.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "மற்றும் கெலூப்"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "சகோதரன்"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "சூகாவின்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "மெகீரை"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "மெகீர்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவன்"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "தந்தை"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "எஷ்தோனின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:57.548545114Z",
+  "model": "glm-5.3"
+}

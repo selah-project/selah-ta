@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "யெபுன்னேயின் மகன் காலேபின் புதல்கள்: ஈரு, ஏலா, நாம்; ஏலாவின் புதல்கள்: கெனஸ்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "காலேபின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "யெபுன்னேயின்"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ஈரு"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ஏலா"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "நாம்"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ஏலாவின்"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "கெனஸ்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:29.348501517Z",
+  "model": "glm-5.3"
+}

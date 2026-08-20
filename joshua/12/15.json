@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "லிப்னாவின் அரசன் ஒருவன்; அதுல்லாமின் அரசன் ஒருவன்.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "லிப்னா"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "அதுல்லாம்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:36:24.281253924Z",
+  "model": "glm-5.3"
+}

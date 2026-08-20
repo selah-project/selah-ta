@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "பூமியிலுள்ள எந்த மிருகத்தின் சாயல், வானங்களில் பறக்கும் எந்த செட்டைப் பறவையின் சாயல் —",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "சாயல்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எந்த"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "மிருகத்தின்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "எது"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "பூமியில்"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "சாயல்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எந்த"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "பறவையின்"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "செட்டை"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "எது"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "பறக்கின்ற"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "வானங்களில்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:18:39.440301250Z",
+  "model": "glm-5.3"
+}

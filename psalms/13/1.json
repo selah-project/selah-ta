@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "இசைத்தலைவருக்கு, தாவீதின் மீட்சிப் பாடல்.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத்தலைவருக்கு"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "மீட்சிப் பாடல்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதின்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:34:10.661642444Z",
+  "model": "glm-5.3"
+}

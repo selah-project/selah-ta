@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "கூஷின் மக்கள்: செபா, ஹவிலா, சப்தா, ராமா, சப்தெகா; ராமாவின் மக்கள்: செபா, தெதான்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "கூஷ்"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "செபா"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "ஹவிலா"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "சப்தா"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "ராமா"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "சப்தெகா"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "ராமா"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "செபா"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "தெதான்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:34.441306112Z",
+  "model": "glm-5.3"
+}

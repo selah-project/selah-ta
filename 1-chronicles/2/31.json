@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "அப்பாயிமின் மக்கள் யிஷ்யி; யிஷ்யியின் மக்கள் ஷேஷான்; ஷேஷானின் மக்கள் அக்லாய்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "அப்பாயிம்"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "யிஷ்யி"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "யிஷ்யி"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "ஷேஷான்"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "ஷேஷான்"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "அக்லாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:25:24.366322853Z",
+  "model": "glm-5.3"
+}

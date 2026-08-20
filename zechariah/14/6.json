@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "அந்த நாளில் விலைமதிப்பான ஒளி இராது — ⟨அது⟩ உறைந்துவிடும்.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ஆகும்"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "நாளில்"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "அந்த"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "இருக்கும்"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ஒளி"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "விலைமதிப்பான(ஒளிகள்)"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "உறைந்துவிடும்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:21:45.141995198Z",
+  "model": "glm-5.3"
+}

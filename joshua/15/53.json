@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "யானும், பெய்த்-தப்புவாக், அப்பேக்கா",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "யானும்"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "பெய்த்"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "தப்புவாக்"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "அப்பேக்கா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:14.161600468Z",
+  "model": "glm-5.3"
+}

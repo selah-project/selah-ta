@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "இரா ⟨யித்ரியன்⟩, காரேபு ⟨யித்ரியன்⟩,",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "இரா"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "யித்ரியன்"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "காரேபு"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "யித்ரியன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:30:49.097474635Z",
+  "model": "glm-5.3"
+}

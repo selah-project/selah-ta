@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "வா-அசர்யாஹு ஒதேதின் மகன்மீது எலோஹீமின் ஆவி இருந்தது.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "வா-அசர்யாஹு"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ஒதேதின்"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "இருந்தது"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "அவர்மீது"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ஆவி"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "எலோஹீமின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:51:26.049932666Z",
+  "model": "glm-5.3"
+}

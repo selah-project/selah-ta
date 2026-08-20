@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "நீதியின் பாதையில் நடப்பேன்; நியாயப் பாதைகளின் நடுவே.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "பாதையில்"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "நீதியின்"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "நடப்பேன்"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "நடுவே"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "பாதைகளின்"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "நியாயத்தின்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:06:16.893889659Z",
+  "model": "glm-5.3"
+}

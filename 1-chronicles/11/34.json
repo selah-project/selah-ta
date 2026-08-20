@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "கிசோனியனாகிய ஹாஷேமின் மக்கள், ஹராரியனாகிய ஷாகேவின் மகன் யோநாதான்,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ஹாஷேம்"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "கிசோனியன்"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "யோநாதான்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ஷாகே"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ஹராரியன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:26.210351381Z",
+  "model": "glm-5.3"
+}

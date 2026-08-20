@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "கிப்பாரின் புதல்கள் — தொண்ணூற்று ஐந்து.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "கிப்பாரின்"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "தொண்ணூற்று"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ஐந்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:48.193151378Z",
+  "model": "glm-5.3"
+}

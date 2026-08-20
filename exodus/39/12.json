@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 39,
+  "translation": "மூன்றாவது வரிசை — லெஷெம், ஷெவோ, அச்லாமா.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "வரிசை"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "மூன்றாவது"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "லெஷெம்"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ஷெவோ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "அச்லாமா"
+    }
+  ],
+  "timestamp": "2026-08-19T21:42:49.529748254Z",
+  "model": "glm-5.3"
+}

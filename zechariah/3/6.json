@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "யாவேயின் தூதர் யிஹோஷுவாவுக்குச் சாட்சியம் கூறினார்:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "சாட்சியம் கூறினார்"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "தூதர்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேயின்"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "யிஹோஷுவாவுக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லும்படி"
+    }
+  ],
+  "timestamp": "2026-08-20T01:18:26.114111850Z",
+  "model": "glm-5.3"
+}

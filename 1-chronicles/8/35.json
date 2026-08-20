@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "மீகாவின் மக்கள்: பீத்தோன், மெலெக், தாரெவா, அகாஸ்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "மீகாவின்"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "பீத்தோன்"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "மெலெக்"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "தாரெவா"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "அகாஸ்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:30:17.017092008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 72,
+  "translation": "முடிந்தன தாவீதின் செபங்கள், யிஷாயின் மகன்.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "முடிந்தன"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "செபங்கள்"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "தாவீதின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "யிஷாயின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:40:34.316858122Z",
+  "model": "glm-5.3"
+}

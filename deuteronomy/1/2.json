@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "பதினொரு நாள் — ஹோரேபிலிருந்து, சேயீர் மலையின் வழியாக, காதேஷ் பர்னியா வரை.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ஒன்று"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "יום",
+      "gloss": "நாள்"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ஹோரேபிலிருந்து"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "வழியாக"
+    },
+    {
+      "surface": "הר",
+      "gloss": "மலை"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "சேயீர்"
+    },
+    {
+      "surface": "עד",
+      "gloss": "வரை"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "காதேஷ்"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "பர்னியா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:16:53.125289040Z",
+  "model": "glm-5.3"
+}

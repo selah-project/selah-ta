@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "மலைப் பிரதேசத்திலும்: ஷாமீர், யத்தீர், ஷோகோ.",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "மலையிலும்"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ஷாமீர்"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "யத்தீரும்"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "ஷோகோவும்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:13:29.313792006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "நோவாஹ் மூன்று மகன்களைப் பெற்றான் — ⟨את⟩ ஷேமை, ⟨את⟩ ஹாமை, ⟨את⟩ யாபேத்தை.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "נח",
+      "gloss": "நோவாஹ்"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "மூன்று"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "மகன்களை"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஷேம்"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ஷேம்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஹாம்"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ஹாம்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "யாபேத்"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "யாபேத்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:04:32.605012947Z",
+  "model": "glm-5.3"
+}

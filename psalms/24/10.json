@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "இவர் யார் — மகிமையின் அரசன்? படைகளின் யாவே — அவரே மகிமையின் அரசன். செலா.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "இவர்"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இவர்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "மகிமையின்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "படைகளின்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவரே"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "மகிமையின்"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "செலா"
+    }
+  ],
+  "timestamp": "2026-08-20T01:27:24.044472143Z",
+  "model": "glm-5.3"
+}

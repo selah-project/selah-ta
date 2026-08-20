@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "அவன் சொன்னான்: யாவே ⟨is⟩ என் பாறை, என் அரண், என் இரட்சகர்.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "அவன் சொன்னான்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "என் பாறை"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "என் அரண்"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "என் இரட்சகர்"
+    },
+    {
+      "surface": "לי",
+      "gloss": "எனக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T23:17:10.614985040Z",
+  "model": "glm-5.3"
+}

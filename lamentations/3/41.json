@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "நம்முடைய இருதயத்தை கைகளுடன் ஏலுகிறோம், வானங்களில் இருக்கிற ஏலிடம்.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "நாம் ஏலுகிறோம்"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "நம்முடைய இருதயத்தை"
+    },
+    {
+      "surface": "אל",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "கைகள்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ஏல்"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "வானங்களில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:50.232505897Z",
+  "model": "glm-5.3"
+}

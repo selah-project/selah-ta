@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "⟨את⟩ பேத் சூரையும் ⟨את⟩ சோக்கோவையும் ⟨את⟩ அதுல்லாமையும்.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "பேத் சூர்"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்"
+    },
+    {
+      "surface": "צור",
+      "gloss": "சூர்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "சோக்கோ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "சோக்கோ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "அதுல்லாம்"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "அதுல்லாம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:46:52.522292065Z",
+  "model": "glm-5.3"
+}

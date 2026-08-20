@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "யிப்ஹார், எலிஷாமா, எலிப்பேலெத்.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "யிப்ஹார்"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "எலிஷாமா"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "எலிப்பேலெத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:15.984793380Z",
+  "model": "glm-5.3"
+}

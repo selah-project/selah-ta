@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "நான் என் காதலனுடையவள், என்மேல் அவனுடைய ஏக்கம் ⟨இருக்கிறது⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "என் காதலனுடையவள்"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "என்மேல்"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "அவனுடைய ஏக்கம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:41:07.248265619Z",
+  "model": "glm-5.3"
+}

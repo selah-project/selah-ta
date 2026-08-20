@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 38,
+  "translation": "ஒளி வாசம் செய்யும் வழி எங்கே? இருளுக்கு அதன் இடம் எங்கே?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "எங்கே"
+    },
+    {
+      "surface": "זה",
+      "gloss": "அது"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "வழி"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "வாசம் செய்யும்"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ஒளி"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "மற்றும் இருளுக்கு"
+    },
+    {
+      "surface": "אי",
+      "gloss": "எங்கே"
+    },
+    {
+      "surface": "஖ה",
+      "gloss": "அது"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "அதன் இடம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:37:07.586120726Z",
+  "model": "glm-5.3"
+}

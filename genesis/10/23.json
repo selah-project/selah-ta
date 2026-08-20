@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "அராமின் புதல்வர்: ஊஸ், ஊல், கெத்தேர், மாஷ்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "அராமின்"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ஊஸ்"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ஊல்"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "கெத்தேர்"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "மாஷ்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:09.916048335Z",
+  "model": "glm-5.3"
+}

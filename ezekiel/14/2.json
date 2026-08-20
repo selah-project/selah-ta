@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "யாவேவின் வார்த்தை எனக்கு வந்தது, ⟨கூறுவதாவது⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆனது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவதாவது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:41:37.308902771Z",
+  "model": "glm-5.3"
+}

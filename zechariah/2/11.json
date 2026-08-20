@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஓ! சீயோனே, தப்பியோடு — பாபிலோன் மகளுடன் குடியிருப்பவளே.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ஓ!"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "சீயோனே"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "தப்பியோடு"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "குடியிருப்பவளே"
+    },
+    {
+      "surface": "בת",
+      "gloss": "மகளுடன்"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "பாபிலோன்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:35:24.956273087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "ஐந்தாமவன் மல்கிய்யாவுக்கு, ஆறாமவன் மிய்யாமீனுக்கு.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "மல்கிய்யாவுக்கு"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ஐந்தாமவன்"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "மிய்யாமீனுக்கு"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ஆறாமவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:38:40.268499690Z",
+  "model": "glm-5.3"
+}

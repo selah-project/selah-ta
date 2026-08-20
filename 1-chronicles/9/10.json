@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "கோஹேன்களில் இருந்து: யதஆயா, யிஹோயாரிவ், யாக்கீன்.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "இருந்து"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "கோஹேன்களில்"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "யதஆயா"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "யிஹோயாரிவ்"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "யாக்கீன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:30:24.048736643Z",
+  "model": "glm-5.3"
+}

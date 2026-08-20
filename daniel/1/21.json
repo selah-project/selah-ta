@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "தானியேல் கோரேஷ் அரசனின் முதலாம் ஆண்டு வரை இருந்தான்.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆனால் இருந்தான்"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "தானியேல்"
+    },
+    {
+      "surface": "עד",
+      "gloss": "வரை"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ஆண்டு"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "முதலாம்"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "கோரேஷுக்கு"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "அரசன்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:55:26.082313474Z",
+  "model": "glm-5.3"
+}

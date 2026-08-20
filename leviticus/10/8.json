@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "யாவே அஹரோனிடம் பேசினார், சொல்லுகிறார்:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "அஹரோனிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லுகிறார்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:48:45.342381876Z",
+  "model": "glm-5.3"
+}

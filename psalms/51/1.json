@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 51,
+  "translation": "இசைத்தலைவனுக்கு. தாவீதின் மஜமூர்.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத்தலைவனுக்கு"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "மஜமூர்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதின்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:35:51.751313693Z",
+  "model": "glm-5.3"
+}

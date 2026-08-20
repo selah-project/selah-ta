@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "சாதோக் அவன் குமாரன், அகிமாஸ் அவன் குமாரன்.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "சாதோக்"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் குமாரன்"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "அகிமாஸ்"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் குமாரன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:35.548289499Z",
+  "model": "glm-5.3"
+}

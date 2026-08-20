@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "முகம் முகத்திற்கு முகமாக யாவே மலையில், அக்கினியின் நடுவிலிருந்து உங்களுடன் பேசினார்.",
+  "tokens": [
+    {
+      "surface": "தமிழ் placeholder — removed",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-19T22:18:26.852176693Z",
+  "model": "glm-5.3"
+}

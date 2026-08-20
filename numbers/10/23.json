@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மனாசே புத்திரரின் கோத்திரத்தின் படைக்கு மேல் பெதாஸூரின் மகன் கமலியேல் ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "படைக்கு"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "கோத்திரத்தின்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புத்திரரின்"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "மனாசே"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "கமலியேல்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "பெதா"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ஸூரின்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:03:45.786130305Z",
+  "model": "glm-5.3"
+}

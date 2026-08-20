@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "இம்மேரின் மகன்களில்: ஹனனி, ஸெபத்யா.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "மகன்களில்"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "இம்மேரின்"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ஹனனி"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ஸெபத்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:14:27.588892780Z",
+  "model": "glm-5.3"
+}

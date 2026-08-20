@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "செரஹ்யாவின் மகன், உஸ்ஸியின் மகன், புக்கியின் மகன் —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "செரஹ்யா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "உஸ்ஸி"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "புக்கி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:12:39.946119526Z",
+  "model": "glm-5.3"
+}

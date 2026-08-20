@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "தோட்டங்களின் ஊற்று, சீவல் நீர்க் கிணறு, லெபனோனிலிருந்து வழிந்தோடுபவை.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ஊற்று"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "தோட்டங்களின்"
+    },
+    {
+      "surface": "באר",
+      "gloss": "கிணறு"
+    },
+    {
+      "surface": "מים",
+      "gloss": "நீர்"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "சீவல்"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "வழிந்தோடுபவை"
+    },
+    {
+      "surface": "מן",
+      "gloss": "இருந்து"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "லெபனோன்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:39:35.844345896Z",
+  "model": "glm-5.3"
+}

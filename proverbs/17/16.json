@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 17,
+  "translation": "ஏன் இது — மதியீனன் கையில் விலை, ஞானத்தை வாங்குவதற்கு, ஆனால் அறிவு இல்லையே?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ஏன்"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இது"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "விலை"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "கையில்"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "மதியீனன்"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "வாங்குவதற்கு"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ஞானத்தை"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ஆனால் அறிவு"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லையே"
+    }
+  ],
+  "timestamp": "2026-08-20T02:10:43.563035067Z",
+  "model": "glm-5.3"
+}

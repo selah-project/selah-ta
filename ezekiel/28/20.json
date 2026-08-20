@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 28,
+  "translation": "யாவேவின் வார்த்தை எனக்கு உண்டாகி, சொல்லப்பட்டது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆகி"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லப்பட்டது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:50:03.916557025Z",
+  "model": "glm-5.3"
+}

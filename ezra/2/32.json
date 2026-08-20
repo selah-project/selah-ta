@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "சாரீமின் புதல்லர் — முந்நூற்று இருபது.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்லர்"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "சாரீம்"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "மூன்று"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "மற்றும் இருபது"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:40.773559378Z",
+  "model": "glm-5.3"
+}

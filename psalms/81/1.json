@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 81,
+  "translation": "இசைத்தலைவனுக்கு, கித்தித்து மேல், அசாபுக்கு",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத்தலைவனுக்கு"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "கித்தித்து"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "அசாபுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T01:44:08.557284823Z",
+  "model": "glm-5.3"
+}

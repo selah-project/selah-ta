@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பிக்வாயின் புத்திரர் — இரண்டாயிரம் அறுபத்தேழு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "பிக்வாய்"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "இரண்டாயிரம்"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "அறுபது"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ஏழு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:15.491648721Z",
+  "model": "glm-5.3"
+}

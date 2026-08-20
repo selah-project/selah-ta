@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "இருள்களில் என்னை வைத்தார், பழங்காலத்து பிணங்களைப் போல.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "இருள்களில்"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "என்னை வைத்தார்"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "பிணங்களைப் போல"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "பழங்காலத்து"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:49.844194606Z",
+  "model": "glm-5.3"
+}

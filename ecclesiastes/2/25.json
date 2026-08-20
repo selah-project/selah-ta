@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஏனெனில் சாப்பிடுவது யார்? என்னைவிட்டு வெளியே உவகை கொள்வது யார்?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "சாப்பிடுவது"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "மற்றும் யார்"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "உவகை கொள்வது"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "வெளியே"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "என்னைவிட்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:39.357657271Z",
+  "model": "glm-5.3"
+}

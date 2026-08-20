@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "நான் யாவே அதை மூட்டினேன் என்று சகல சதையும் காண்பார்கள்; அது அணையாது.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "மற்றும் காண்பார்கள்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "சதையும்"
+    },
+    {
+      "surface": "כי",
+      "gloss": "என்று"
+    },
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "அதை மூட்டினேன்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "அணையும்"
+    }
+  ],
+  "timestamp": "2026-08-20T00:45:44.348929524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "கெத்ஸ்ரோ ⟨ஹா⟩கர்மேலி; பஆராய் ⟨ஹா⟩அர்பி.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "கெத்ஸ்ரோ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨ஹா⟩கர்மேலி"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "பஆராய்"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "⟨ஹா⟩அர்பி"
+    }
+  ],
+  "timestamp": "2026-08-19T23:18:55.096647089Z",
+  "model": "glm-5.3"
+}

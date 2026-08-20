@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மக்பியாஷ், மெஷுல்லாம், செசீர்,",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "மக்பியாஷ்"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "மெஷுல்லாம்"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "செசீர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:20:59.892649167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஷெபத்யாவின் புதல்கள் — மூன்று நூற்று எழுபத்திரண்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ஷெபத்யாவின்"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "மூன்று"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "எழுபது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "மற்றும் இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:17:39.294925784Z",
+  "model": "glm-5.3"
+}

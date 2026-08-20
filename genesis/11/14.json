@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஷெலாக் முப்பது ஆண்டுகள் வாழ்ந்து ⟨את⟩ ஏபெரைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ஷெலாக்கோ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "வாழ்ந்து"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ஆண்டுகள்"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஏபெரை"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ஏபெர்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:25.925667592Z",
+  "model": "glm-5.3"
+}

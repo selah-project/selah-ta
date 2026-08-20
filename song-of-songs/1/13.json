@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "என் காதலர் எனக்கு மோர் மூட்டை; என் மார்மச்சலைகளுக்கு இடையே அவர் இரவு தங்குவார்.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "மூட்டை"
+    },
+    {
+      "surface": "המר",
+      "gloss": "மோர்"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "என் காதலர்"
+    },
+    {
+      "surface": "לי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "בין",
+      "gloss": "இடையே"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "என் மார்மச்சலைகள்"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "தங்குவார்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:38:24.940083234Z",
+  "model": "glm-5.3"
+}

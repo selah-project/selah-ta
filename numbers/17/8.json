@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 17,
+  "translation": "மோஷேயும் அஹரோனும் சந்திப்புக் கூடாரத்தின் முகப்புக்கு வந்தனர்.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "வந்தனர்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "மற்றும் அஹரோன்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "நோக்கி"
+    },
+    {
+      "surface": "פני",
+      "gloss": "முகப்பு"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "கூடாரம்"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "சந்திப்பு"
+    }
+  ],
+  "timestamp": "2026-08-19T22:07:37.570001919Z",
+  "model": "glm-5.3"
+}

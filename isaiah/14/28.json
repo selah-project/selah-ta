@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "அரசன் ஆகாஸ் இறந்த ஆண்டிலே இந்தச் சுமை உண்டாயிற்று.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ஆண்டிலே"
+    },
+    {
+      "surface": "מות",
+      "gloss": "இறந்த"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ஆகாஸ்"
+    },
+    {
+      "surface": "היה",
+      "gloss": "உண்டாயிற்று"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "சுமை"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "இந்த"
+    }
+  ],
+  "timestamp": "2026-08-19T23:49:36.524628645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "மேலும் மனித ஆத்துமாக்கள் பதினாறாயிரம்;",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "மேலும் ஆத்துமாக்கள்"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "மனித"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:10:31.321188691Z",
+  "model": "glm-5.3"
+}

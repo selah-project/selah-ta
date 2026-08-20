@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "இருந்தது எதுவோ அது தூரமாய் இருக்கிறது; ஆழமே ஆழம் — அதை யார் கண்டுபிடிப்பார்?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "தூரமாய்"
+    },
+    {
+      "surface": "מה",
+      "gloss": "எதுவோ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "இருந்தது"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "மற்றும் ஆழம்"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ஆழம்"
+    },
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "அதை கண்டுபிடிப்பார்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:22.529858273Z",
+  "model": "glm-5.3"
+}

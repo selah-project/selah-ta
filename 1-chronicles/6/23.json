@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "யிட்சாரின் மகன், கெஹாத்தின் மகன், லேவியின் மகன், யிஸ்ராயேலின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "யிட்சாரின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "கெஹாத்தின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "லேவியின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "யிஸ்ராயேலின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:24.607483811Z",
+  "model": "glm-5.3"
+}

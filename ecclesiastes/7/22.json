@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஏனெனில் பல தடவைகள் உன் இருதயம் அறியும் — நீ கூட ⟨את⟩ மற்றவர்களைச் சபித்திருக்கிறாய் என்று",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "גם",
+      "gloss": "கூட"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "தடவைகள்"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "பல"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "அறியும்"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "உன் இருதயம்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "என்று"
+    },
+    {
+      "surface": "גם",
+      "gloss": "கூட"
+    },
+    {
+      "surface": "את",
+      "gloss": "நீ"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "சபித்திருக்கிறாய்"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "மற்றவர்களை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:22.529507727Z",
+  "model": "glm-5.3"
+}

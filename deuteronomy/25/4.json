@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "தானியத்தை கவடால் விளைக்கும் மாட்டின் வாயை மூடக் கூடாது.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "கூடாது"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "வாயை மூட"
+    },
+    {
+      "surface": "שור",
+      "gloss": "மாட்டின்"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "தானியத்தை கவடால் விளைக்கையில்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:26:48.108389346Z",
+  "model": "glm-5.3"
+}

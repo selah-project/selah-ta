@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "ஏனெனில் அவர்கள் துன்பம் திடீரென எழும்; இருவருடைய அழிவை அறிவது யார்?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "திடீரென"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "எழும்"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "அவர்கள் துன்பம்"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "அழிவு"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "இருவருடைய"
+    },
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "அறிவது"
+    }
+  ],
+  "timestamp": "2026-08-20T02:15:04.866321702Z",
+  "model": "glm-5.3"
+}

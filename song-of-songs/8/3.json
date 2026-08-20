@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "அவன் இடக்கை என் தலைக்குக் கீழே, அவன் வலக்கை என்னை அணைக்கிறது.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "அவன் இடக்கை"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "கீழே"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "என் தலை"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "அவன் வலக்கை"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "என்னை அணைக்கிறது"
+    }
+  ],
+  "timestamp": "2026-08-20T04:40:28.454635975Z",
+  "model": "glm-5.3"
+}

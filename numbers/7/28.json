@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஆட்டுக்கிடா ஒன்று, பாவநிவாரணப் பலிக்கு.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ஆட்டுக்கிடா"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "வெள்ளாட்டு"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒன்று"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "பாவநிவாரணப் பலிக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T22:01:56.810187888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "ஷம்மா ⟨ஹா⟩ஹராரி; அகியாம் ஷராரின் மகன் ⟨ஹா⟩அராரி.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ஷம்மா"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨ஹா⟩ஹராரி"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "அகியாம்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "ஷரார்"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "⟨ஹா⟩அராரி"
+    }
+  ],
+  "timestamp": "2026-08-19T23:18:55.096300921Z",
+  "model": "glm-5.3"
+}

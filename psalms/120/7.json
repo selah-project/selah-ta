@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 120,
+  "translation": "நான் சமாதானம்; ஆனால் நான் பேசும்போது, அவர்கள் போருக்கே.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "சமாதானம்"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ஆனால்"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "பேசும்போது"
+    },
+    {
+      "surface": "המה",
+      "gloss": "அவர்கள்"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "போருக்கே"
+    }
+  ],
+  "timestamp": "2026-08-20T01:57:26.699839963Z",
+  "model": "glm-5.3"
+}

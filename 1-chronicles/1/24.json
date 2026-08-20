@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "ஷேம், அர்பக்ஷத், ஷெலா.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ஷேம்"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "அர்பக்ஷத்"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ஷெலா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:23:58.616916683Z",
+  "model": "glm-5.3"
+}

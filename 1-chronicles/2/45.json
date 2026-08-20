@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஷம்மாயின் மகன் மாவோன்; மாவோன் ⟨ஆனார்⟩ பேய்த்-சூரின் தந்தை.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "மற்றும் மகன்"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ஷம்மாய்"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "மாவோன்"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "மற்றும் மாவோன்"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "தந்தை"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேய்த்"
+    },
+    {
+      "surface": "צור",
+      "gloss": "சூர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:25:11.466478917Z",
+  "model": "glm-5.3"
+}

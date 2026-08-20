@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "மனுஷனே, இரண்டு ஸ்திரிகள் — ஒரே தாயின் புதல்விகள் — இருந்தனர்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "புத்திரனே"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "மனுஷனே"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "இரண்டு"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ஸ்திரிகள்"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "புதல்விகள்"
+    },
+    {
+      "surface": "אם",
+      "gloss": "தாயின்"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ஒரே"
+    },
+    {
+      "surface": "היו",
+      "gloss": "இருந்தனர்"
+    }
+  ],
+  "timestamp": "2026-08-20T00:47:32.735878706Z",
+  "model": "glm-5.3"
+}

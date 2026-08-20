@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "இசைத்தலைவருக்கு ⟨ஆக⟩; தாவீதின் கீதம்.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத்தலைவருக்கு"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "கீதம்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:28:43.282487299Z",
+  "model": "glm-5.3"
+}

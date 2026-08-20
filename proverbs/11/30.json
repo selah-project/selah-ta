@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "நீதிமானின் கனி வாழ்க்கை மரம்; ஆத்துமாக்களை வெல்லுகிறவன் ஞானி.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "கனி"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "நீதிமானின்"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "மரம்"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "வாழ்க்கை"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "வெல்லுகிறவன்"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "ஆத்துமாக்களை"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ஞானி"
+    }
+  ],
+  "timestamp": "2026-08-20T02:08:34.041542563Z",
+  "model": "glm-5.3"
+}

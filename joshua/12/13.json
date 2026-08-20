@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 12:13",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "தெபீரின் அரசன் ஒருவன்; கேதேரின் அரசன் ஒருவன்.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "தெபீர்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "கேதேர்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:36:24.280933798Z",
+  "model": "glm-5.3"
+}

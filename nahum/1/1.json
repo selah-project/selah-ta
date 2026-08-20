@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "நினிவேயின் சுமை; எல்கோஷியான நாகூமின் தரிசனத்தின் சுவடி.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "சுமை"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "நினிவே"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "சுவடி"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "தரிசனம்"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "நாகூம்"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "எல்கோஷியான"
+    }
+  ],
+  "timestamp": "2026-08-20T01:13:32.812303234Z",
+  "model": "glm-5.3"
+}

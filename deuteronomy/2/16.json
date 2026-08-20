@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "போர்வீரர் அனைவரும் மக்களின் நடுவிலிருந்து செத்து முடிந்தபோது நிகழ்ந்தது.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "நிகழ்ந்தது"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "எப்போது"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "முடிந்தபோது"
+    },
+    {
+      "surface": "כל",
+      "gloss": "அனைவரும்"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "வீரர்"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "போர்"
+    },
+    {
+      "surface": "למות",
+      "gloss": "செத்து"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "நடுவிலிருந்து"
+    },
+    {
+      "surface": "העם",
+      "gloss": "மக்களின்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:17:29.539510046Z",
+  "model": "glm-5.3"
+}

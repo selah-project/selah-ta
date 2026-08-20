@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "யெஹூதாவுக்கு — அம்மினதாபின் மகன் நச்சோன்.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "யெஹூதாவுக்கு"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "நச்சோன்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "அம்மினதாப்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:58:05.888537661Z",
+  "model": "glm-5.3"
+}

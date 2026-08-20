@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "அஹித்தூப் ⟨את⟩ சாதோக்கைப் பெற்றார்; சாதோக் ⟨את⟩ ஷல்லூமைப் பெற்றார்.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "அஹித்தூப்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "சாதோக்"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "சாதோக்"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "சாதோக்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஷல்லூம்"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ஷல்லூம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:07.432336451Z",
+  "model": "glm-5.3"
+}

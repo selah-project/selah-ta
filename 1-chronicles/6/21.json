@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "எல்க்கானாவின் மகன், யோவேலின் மகன், அசர்யாவின் மகன், செபன்யாவின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "எல்க்கானாவின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "யோவேலின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "அசர்யாவின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "செபன்யாவின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:24.607113115Z",
+  "model": "glm-5.3"
+}

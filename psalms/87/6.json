@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 87,
+  "translation": "யாவே எண்ணுவார், ஜாதிகளை எழுதும்போது: இவன் அங்கே பிறந்தான். செலா.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "எண்ணுவார்"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "எழுதும்போது"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ஜாதிகளை"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இவன்"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பிறந்தான்"
+    },
+    {
+      "surface": "שם",
+      "gloss": "அங்கே"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "செலா"
+    }
+  ],
+  "timestamp": "2026-08-20T01:45:10.075051699Z",
+  "model": "glm-5.3"
+}

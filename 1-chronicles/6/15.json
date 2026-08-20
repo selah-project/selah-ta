@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "அவன் மகன் சிம்ஆ, அவன் மகன் ஹக்கியா, அவன் மகன் அசயா.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "சிம்ஆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "ஹக்கியா"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "அசயா"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:29.177039820Z",
+  "model": "glm-5.3"
+}

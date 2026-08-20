@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஏத்தானின் மக்கள்: அசரியா.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மற்றும் மக்கள்"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ஏத்தான்"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "அசரியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:25.696137616Z",
+  "model": "glm-5.3"
+}

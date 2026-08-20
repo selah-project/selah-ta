@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "என் படுக்கையில் மூர், அகில், கிராம்பு ஆகியவற்றைத் தூவினேன்.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "தூவினேன்"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "என் படுக்கையில்"
+    },
+    {
+      "surface": "מר",
+      "gloss": "மூர்"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "அகில்"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "கிராம்பு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:06:05.719772783Z",
+  "model": "glm-5.3"
+}

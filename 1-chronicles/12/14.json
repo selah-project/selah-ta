@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "யிர்மெயாஹூ பத்தாமவன், மக்பன்நாய் பதினொன்றாமவன்.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "யிர்மெயாஹூ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "பத்தாமவன்"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "மக்பன்நாய்"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "பதின்"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ஒன்று"
+    }
+  ],
+  "timestamp": "2026-08-20T03:34:05.601815149Z",
+  "model": "glm-5.3"
+}

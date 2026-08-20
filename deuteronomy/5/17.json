@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "கொலை செய்யாதே.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "கொலை செய்வாய்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:18:36.053983536Z",
+  "model": "glm-5.3"
+}

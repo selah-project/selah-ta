@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "மூஷியின் புதல்கள்: மஹ்லி, ஏதேர், யெரெமோத் — மூன்று.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "மூஷியின்"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "மஹ்லி"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "மற்றும் ஏதேர்"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "மற்றும் யெரெமோத்"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "மூன்று"
+    }
+  ],
+  "timestamp": "2026-08-20T03:40:04.827450178Z",
+  "model": "glm-5.3"
+}

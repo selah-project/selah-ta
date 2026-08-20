@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 92,
+  "translation": "யாவே நேர்மையானவர் என்று அறிவிக்க; அவரே என் பாறை, அவரில் அநீதி இல்லை.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "அறிவிக்க"
+    },
+    {
+      "surface": "כי",
+      "gloss": "என்று"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "நேர்மையானவர்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "என் பாறை"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "அநீதி"
+    },
+    {
+      "surface": "בו",
+      "gloss": "அவரில்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:47:05.577000551Z",
+  "model": "glm-5.3"
+}

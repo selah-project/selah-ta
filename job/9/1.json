@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "அப்பொழுது யோவாப் பதிலளித்து சொன்னான்:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "பதிலளித்து"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "யோவாப்"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:22:15.174167270Z",
+  "model": "glm-5.3"
+}

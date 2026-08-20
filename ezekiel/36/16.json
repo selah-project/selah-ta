@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 36,
+  "translation": "யாவேவுடைய வார்த்தை எனக்கு வந்தது, சொல்லும்படி:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "மற்றும்-ஆயிற்று"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவுடைய"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லும்படி"
+    }
+  ],
+  "timestamp": "2026-08-20T00:53:15.053440884Z",
+  "model": "glm-5.3"
+}

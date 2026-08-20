@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "மற்றொரு நெபோவின் மனிதர்கள் — ஐம்பத்து இரண்டு.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "மனிதர்கள்"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "நெபோ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "மற்றொரு"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:06.618255095Z",
+  "model": "glm-5.3"
+}

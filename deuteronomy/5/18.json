@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "விபசாரம் செய்யாதே.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "மற்றும் இல்லை"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "விபசாரம் செய்வாய்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:18:36.054219959Z",
+  "model": "glm-5.3"
+}

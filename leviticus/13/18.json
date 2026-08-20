@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "மேலும் சதையில், அதன் தோலில், ஒரு கொப்புண் இருந்து அது ஆறியிருந்தால் —",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "சதையில்"
+    },
+    {
+      "surface": "כי",
+      "gloss": "எனின்"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "இருந்தால்"
+    },
+    {
+      "surface": "בו",
+      "gloss": "அதில்"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "அதன் தோலில்"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "கொப்புண்"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "ஆறியிருந்தால்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:50:31.830243049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "பானி, பின்னுய், ஷிம்ஈ,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "பானி"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "பின்னுய்"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ஷிம்ஈ"
+    }
+  ],
+  "timestamp": "2026-08-20T03:13:54.416376994Z",
+  "model": "glm-5.3"
+}

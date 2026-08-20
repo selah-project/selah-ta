@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "ஹோசேயா, சானன்யா, சஷ்ஷூப்.",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "ஹோசேயா"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "சானன்யா"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "சஷ்ஷூப்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:20:59.893090190Z",
+  "model": "glm-5.3"
+}

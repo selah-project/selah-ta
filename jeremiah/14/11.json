@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "யாவே எனக்குச் சொன்னார்: இந்த மக்களுக்காக நன்மையாக வேண்டாதே.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "אל",
+      "gloss": "வேண்டா"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "வேண்டாதே"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "…க்காக"
+    },
+    {
+      "surface": "העם",
+      "gloss": "மக்களுக்கு"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "இந்த"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "நன்மையாக"
+    }
+  ],
+  "timestamp": "2026-08-20T00:17:40.362114404Z",
+  "model": "glm-5.3"
+}

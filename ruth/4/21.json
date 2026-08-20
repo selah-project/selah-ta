@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "சல்மோன் போவாஸைப் பெற்றான், போவாஸ் ⟨את⟩ ஓவேதைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "சல்மோன்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "போவாஸ்"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "போவாஸ்"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "போவாஸ்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஓவேத்"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ஓவேத்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:40:38.895232466Z",
+  "model": "glm-5.3"
+}

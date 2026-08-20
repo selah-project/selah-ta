@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "மேலும் ⟨את⟩ ஓபீர், ⟨את⟩ ஹவிலா, ⟨את⟩ யோவாவ்; இவர்கள் அனைவரும் யோக்தானின் மக்கள்.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "மேலும் ⟨את⟩",
+      "marks": "ஓபீர்"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ஓபீர்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ஹவிலா"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ஹவிலா"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "யோவாவ்"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "யோவாவ்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "அனைவரும்"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "இவர்கள்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "யோக்தானின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:23:58.616708566Z",
+  "model": "glm-5.3"
+}

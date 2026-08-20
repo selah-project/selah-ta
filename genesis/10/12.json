@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மேலும் ⟨את⟩ ரெசெனையும் — நினிவேக்கும் கலாவுக்கும் இடையே; அது ⟨தான்⟩ பெரிய நகரம்.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ரெசெனை"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ரெசென்"
+    },
+    {
+      "surface": "בין",
+      "gloss": "இடையே"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "நினிவே"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "மறுபுறம்"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "கலா"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அது"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "நகரம்"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "பெரிய"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:16.039863075Z",
+  "model": "glm-5.3"
+}

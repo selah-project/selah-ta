@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "யாவே மோஷேயிடம் பேசினார், கூறுக:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுக"
+    }
+  ],
+  "timestamp": "2026-08-19T21:55:35.188567819Z",
+  "model": "glm-5.3"
+}

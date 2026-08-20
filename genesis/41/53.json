@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 41,
+  "translation": "எகிப்து தேசத்தில் இருந்த செழுமையான ஏழு வருடங்களும் முடிந்தன.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "முடிந்தன"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "שני",
+      "gloss": "வருடங்கள்"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "செழுமையான"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அவை"
+    },
+    {
+      "surface": "היה",
+      "gloss": "இருந்த"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "தேசத்தில்"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "எகிப்து"
+    }
+  ],
+  "timestamp": "2026-08-19T21:20:55.553840893Z",
+  "model": "glm-5.3"
+}

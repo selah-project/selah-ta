@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 46,
+  "translation": "ரூபனின் மக்கள்: சநோக்கு, பல்லு, செட்சோன், கர்மி.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ரூபனின்"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "சநோக்கு"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "பல்லு"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "செட்சோன்"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "கர்மி"
+    }
+  ],
+  "timestamp": "2026-08-19T21:22:54.402466839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 17,
+  "translation": "அவன் கையின்கீழ் யெஹோசானான் சார், அவனுடன் இருநூற்று எண்பது ஆயிரம்.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "கீழ்"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "அவன் கையின்"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "யெஹோசானான்"
+    },
+    {
+      "surface": "השר",
+      "gloss": "சார்"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "அவனுடன்"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "இருநூறு"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "எண்பது"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:50:12.135892227Z",
+  "model": "glm-5.3"
+}

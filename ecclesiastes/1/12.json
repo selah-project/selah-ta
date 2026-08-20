@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "நான் கொஹெலெத், யிஸ்ராயேலின் மீது யெருஷாலயிமில் அரசனாக இருந்தேன்.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "கொஹெலெத்"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "இருந்தேன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "על",
+      "gloss": "மீது"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "யிஸ்ராயேலின்"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "யெருஷாலயிமில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:39.801480991Z",
+  "model": "glm-5.3"
+}

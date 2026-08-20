@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "பாலைவனத்திலே: பேத்-ஹ-அராபா, மித்தீன், செகாக்கா;",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "பாலைவனத்திலே"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்"
+    },
+    {
+      "surface": "הערבஔ",
+      "gloss": "ஹ-அராபா"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "மித்தீன்"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "செகாக்கா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:48.529756347Z",
+  "model": "glm-5.3"
+}

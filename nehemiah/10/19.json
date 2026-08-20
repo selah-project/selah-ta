@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 10:19",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "ஹோதியா, காஷூம், பெய்சாய்,",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ஹோதியா"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "காஷூம்"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "பெய்சாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:32.554248151Z",
+  "model": "glm-5.3"
+}

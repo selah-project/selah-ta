@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "ஊரியா ⟨ה⟩ ஹித்தியன் — எல்லாம் முப்பத்தேழு பேர்.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ஊரியா"
+    },
+    {
+      "surface": "஘חתי",
+      "gloss": "ஹித்தியன்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எல்லாம்"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ஏழு"
+    }
+  ],
+  "timestamp": "2026-08-19T23:18:39.594342227Z",
+  "model": "glm-5.3"
+}

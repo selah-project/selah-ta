@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "யெருஷாலயிமின் அரசன் ஒருவன்; செப்ரோனின் அரசன் ஒருவன்;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "யெருஷாலயிமின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "செப்ரோனின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:36:28.859913585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "இரா ⟨ה⟩ யித்ரியன், காரேப் ⟨ה⟩ யித்ரியன்;",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "இரா"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "யித்ரியன்"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "காரேப்"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "யித்ரியன்"
+    }
+  ],
+  "timestamp": "2026-08-19T23:18:39.594239946Z",
+  "model": "glm-5.3"
+}

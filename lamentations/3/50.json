@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "யாவே வானங்களிலிருந்து சாய்ந்து பார்த்துக் காணும் வரை.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "வரை"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "சாய்ந்து பார்த்து"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "காணும்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "மஷமிம்",
+      "gloss": "வானங்களிலிருந்து"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:16.231272058Z",
+  "model": "glm-5.3"
+}

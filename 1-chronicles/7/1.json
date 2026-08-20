@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "இச்சாக்காரின் புத்திரர் — தோலா, புவா, யாஷூப், ஷிம்ரோன் — நால்வர்.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "இச்சாக்கார்"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "தோலா"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "புவா"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "யாஷூப்"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ஷிம்ரோன்"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "நால்வர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:57.755495545Z",
+  "model": "glm-5.3"
+}

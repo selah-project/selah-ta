@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "யக்கோன்யா-அசிரின் புதல்வர்: ஷஆல்தியேல் அவன் மகன்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "யக்கோன்யா"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "அசிர்"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ஷஆல்தியேல்"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:55.580048999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "சத்தூஷ், ஷெவன்யா, மல்லூக்,",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "சத்தூஷ்"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ஷெவன்யா"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "மல்லூக்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:50.505473367Z",
+  "model": "glm-5.3"
+}

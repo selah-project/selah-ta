@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "மிஷ்மன்னா நான்காமவன், யிர்மெயா ஐந்தாமவன்.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "மிஷ்மன்னா"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "நான்காமவன்"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "யிர்மெயா"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ஐந்தாமவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:41.853020824Z",
+  "model": "glm-5.3"
+}

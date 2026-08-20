@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "மிஷ்மா, தூமா, மாசா.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "மற்றும் மிஷ்மா"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "மற்றும் தூமா"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "மற்றும் மாசா"
+    }
+  ],
+  "timestamp": "2026-08-19T21:11:39.495995344Z",
+  "model": "glm-5.3"
+}

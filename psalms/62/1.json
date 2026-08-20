@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 62,
+  "translation": "இசைத் தலைவனுக்கு, யெதூதூன் மேல் ஏற்ப — தாவீதின் பாடல்.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத் தலைவனுக்கு"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "யெதூதூன்"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "பாடல்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:38:55.660888094Z",
+  "model": "glm-5.3"
+}

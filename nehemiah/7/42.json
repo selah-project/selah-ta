@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஹாரிமின் புதல்கள் — ஆயிரம், பதினேழு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ஹாரிமின்"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:00.041683832Z",
+  "model": "glm-5.3"
+}

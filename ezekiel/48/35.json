@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 48,
+  "translation": "சுற்றிலும் பதினெட்டாயிரம்; அந்நாளிலிருந்து நகரின் பெயர் யாவே ஷாமா ⟨shall be⟩.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "சுற்றிலும்"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "பதினெட்டு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "பெயர்"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "நகரின்"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "அந்நாளிலிருந்து"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ஷாமா"
+    }
+  ],
+  "timestamp": "2026-08-20T00:59:31.770532410Z",
+  "model": "glm-5.3"
+}

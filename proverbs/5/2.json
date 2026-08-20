@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "விவேகத்தைக் காக்கவும், அறிவு உன் உதடுகளைக் காக்கவும் ⟨இதற்காக⟩.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "காக்கவும்"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "விவேகத்தை"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "அறிவு"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "உன் உதடுகளை"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "காக்கும்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:04:34.509008661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 91,
+  "translation": "நீ இரவின் பயத்தைக் காலையில் பறக்கும் அம்பையும் பயப்பட மாட்டாய்.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "மாட்டாய்"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "பயப்பட"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "பயத்தை"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "இரவின்"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "அம்பை"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "பறக்கும்"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "காலையில்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:47:38.697092572Z",
+  "model": "glm-5.3"
+}

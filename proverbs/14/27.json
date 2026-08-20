@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "யாவேவை அஞ்சுதல் ஜீவ ஊற்று; மரணக் கண்ணிகளை விட்டு விலகும்படி.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "அஞ்சுதல்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவை"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ஊற்று"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ஜீவ"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "விலகும்படி"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "கண்ணிகளை விட்டு"
+    },
+    {
+      "surface": "מות",
+      "gloss": "மரணக்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:10:05.886727075Z",
+  "model": "glm-5.3"
+}

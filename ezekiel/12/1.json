@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "யாவேவிடமிருந்து ஒரு வார்த்தை எனக்கு வந்தது, கூறுவதாவது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆனது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவதாவது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:40:16.547224716Z",
+  "model": "glm-5.3"
+}

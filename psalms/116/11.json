@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 116,
+  "translation": "அவசரத்தில் நான் சொன்னேன்: மனிதர் யாவரும் பொய்யர்.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "சொன்னேன்"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "அவசரத்தில்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "யாவரும்"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "மனிதர்"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "பொய்யர்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:54:31.921816945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 16,
+  "translation": "ஆகையால், வேசியே, யாவேயுடைய வார்த்தையைக் கேள்.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ஆகையால்"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "வேசியே"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "கேள்"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தையை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேயுடைய"
+    }
+  ],
+  "timestamp": "2026-08-20T00:42:22.463506779Z",
+  "model": "glm-5.3"
+}

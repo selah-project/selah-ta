@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "பாம்பு மந்திரம் இல்லாமல் கடித்தால், நாக்கின் எசமானுக்கு சிறப்பு இல்லை.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "என்றால்"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "கடித்தால்"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "பாம்பு"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "இல்லாமல்"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "மந்திரம்"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "சிறப்பு"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "எசமானுக்கு"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "நாக்கின்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:21.651470935Z",
+  "model": "glm-5.3"
+}

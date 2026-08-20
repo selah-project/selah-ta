@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "உம் மிஸ்பா, உம் கெபீரா, உம் மோஸா",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "உம் மிஸ்பா"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "உம் கெபீரா"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "உம் மோஸா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:06.342709240Z",
+  "model": "glm-5.3"
+}

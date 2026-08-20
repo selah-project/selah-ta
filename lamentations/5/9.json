@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "நம் உயிரால் நாம் நம் அப்பத்தைப் பெறுகிறோம், பாலைவனப் பட்டயத்தின் முன்பாக.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "நம் உயிரால்"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "நாம் பெறுகிறோம்"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "நம் அப்பம்"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "முன்பாக"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "பட்டயம்"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "பாலைவனம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:15.425041287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "சாசுமின் புதல்கள் — மூன்று நூற்று இருபத்து எட்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "சாசும்"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "மூன்று"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "மற்றும் எட்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:18:57.504864473Z",
+  "model": "glm-5.3"
+}

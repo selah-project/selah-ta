@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "ஒரு மனிதன் எவனே மனித உயிரை அடித்தால் அவன் மரணமாக மரிக்கப்படுவான்.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ஒரு மனிதனும்"
+    },
+    {
+      "surface": "כי",
+      "gloss": "எவனே"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "அடித்தால்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எந்த"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "உயிரை"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "மனித"
+    },
+    {
+      "surface": "מות",
+      "gloss": "மரணமாக"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "மரிக்கப்படுவான்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:56:35.525860442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "ஏனெனில் வீணாய் வந்து, இருளில் செல்கிறான், இருளில் அவன் பெயர் மூடப்படும்.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "வீணாய்"
+    },
+    {
+      "surface": "בא",
+      "gloss": "வந்து"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "மற்றும் இருளில்"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "செல்கிறான்"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "மற்றும் இருளில்"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "அவன் பெயர்"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "மூடப்படும்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:51:53.421939319Z",
+  "model": "glm-5.3"
+}

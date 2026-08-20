@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "அவர் என் ஜீவனைக் குழியில் அழித்து, என்மேல் ஒரு கல்லை எறிந்தனர்.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "அழித்தனர்"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "குழியில்"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "என் ஜீவனை"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "எறிந்தனர்"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "கல்லை"
+    },
+    {
+      "surface": "בי",
+      "gloss": "என்மேல்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:53.678287009Z",
+  "model": "glm-5.3"
+}

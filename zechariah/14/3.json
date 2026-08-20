@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "யாவே புறப்பட்டு, அந்த ஜாதிகளுடன் போராடுவார், போர் நாளில் போராடியதுபோல.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "புறப்பட்டு"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "போராடுவார்"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ஜாதிகளுடன்"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "அந்த"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "நாளைப் போல"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "போராடிய"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "நாளில்"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "போர்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:20:52.375674922Z",
+  "model": "glm-5.3"
+}

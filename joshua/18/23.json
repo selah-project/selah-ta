@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "அவ்வீம், பாரா, மற்றும் ஒப்ரா.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "அவ்வீம்"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "பாரா"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ஒப்ரா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:06.487976937Z",
+  "model": "glm-5.3"
+}

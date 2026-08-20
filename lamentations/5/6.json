@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "மிஸ்ரயிமுக்கு நாம் கை கொடுத்தோம்; அஷூருக்கு — அப்பம் திருப்தியாகச் சாப்பிடப் பெற.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "மிஸ்ரயிம்"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "நாம் கொடுத்தோம்"
+    },
+    {
+      "surface": "יד",
+      "gloss": "கை"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "அஷூர்"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "திருப்தியடைய"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "அப்பம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:13.262699548Z",
+  "model": "glm-5.3"
+}

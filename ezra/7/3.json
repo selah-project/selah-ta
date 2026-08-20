@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "அமர்யாவின் மகன், அஸர்யாவின் மகன், மெராயோத்தின் மகன் —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "அமர்யா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "அஸர்யா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "மெராயோத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:12:39.946012297Z",
+  "model": "glm-5.3"
+}

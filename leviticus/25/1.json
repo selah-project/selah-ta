@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "யாவே மோஷேயிடம் சீனாய் மலையிலே பேசினார், சொல்லக் கருதி:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடத்தில்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "மலையிலே"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "சீனாய்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லக் கருதி"
+    }
+  ],
+  "timestamp": "2026-08-20T04:08:29.178463699Z",
+  "model": "glm-5.3"
+}

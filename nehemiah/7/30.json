@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ராமா மற்றும் கெபாவின் புருஷர் — அறுநூற்று இருபத்து ஒன்று.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "புருஷர்"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ராமா"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "மற்றும் கெபா"
+    },
+    {
+      "surface": "שש",
+      "gloss": "அறு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ஒன்று"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:15.327461919Z",
+  "model": "glm-5.3"
+}

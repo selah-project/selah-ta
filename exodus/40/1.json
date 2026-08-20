@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 40,
+  "translation": "யாவே மோஷேவை நோக்கிப் பேசினார், கூறுவது என்னவென்றால்:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "நோக்கி"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேவை"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவது என்றால்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:44:07.812058980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "யாவேவின் வார்த்தை எனக்கு வந்தது, சொல்லுகிறது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "வந்தது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லுகிறது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:46:15.373732382Z",
+  "model": "glm-5.3"
+}

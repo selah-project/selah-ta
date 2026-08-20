@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 34,
+  "translation": "ஆகவே, இடையர்களே, யாவேவின் வார்த்தையைக் ⟨את⟩ கேளுங்கள்.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ஆகவே"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "இடையர்களே"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "கேளுங்கள்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "வார்த்தையை"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தையை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:30:41.172761907Z",
+  "model": "glm-5.3"
+}

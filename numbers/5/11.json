@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "யாவே மோஷேயுடன் பேசி, சொல்லக்கடவது என்று கூறினார்.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லக்கடவது என்று"
+    }
+  ],
+  "timestamp": "2026-08-19T22:01:12.511011930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 36,
+  "translation": "ஏசாவ் சேயீர் மலையில் குடியிருந்தான்; ஏசாவே எதோம்.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "குடியிருந்தான்"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ஏசாவ்"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "மலையில்"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "சேயீர்"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ஏசாவே"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவனே"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "எதோம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:18:18.397662362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "மேலும் ⟨את⟩ ஏவால், ⟨את⟩ அபிமாயேல், ⟨את⟩ ஷெபா.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "மேலும் ⟨את⟩",
+      "marks": "ஏவால்"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ஏவால்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "அபிமாயேல்"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "அபிமாயேல்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ஷெபா"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ஷெபா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:23:58.616406855Z",
+  "model": "glm-5.3"
+}

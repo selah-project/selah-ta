@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "கீனா, தீமோனா, அத்அதா.",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "கீனா"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "தீமோனா"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "அத்அதா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:57.589912565Z",
+  "model": "glm-5.3"
+}

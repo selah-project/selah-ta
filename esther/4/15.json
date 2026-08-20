@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "எஸ்தர் மொர்தெக்கயுக்கு மறுமொழி அனுப்பினாள்:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "சொன்னாள்"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "எஸ்தர்"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "மறுமொழி அனுப்ப"
+    },
+    {
+      "surface": "אל",
+      "gloss": "க்கு"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "மொர்தெக்கய்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:54:15.973025954Z",
+  "model": "glm-5.3"
+}

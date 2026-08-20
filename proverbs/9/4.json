@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "\"எவன் அறியான்? அவன் இங்கே திரும்புக!\" இதயம் குறைந்தவனுக்கு அது சொல்கிறது:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "அறியான்"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "திரும்புக"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "இங்கே"
+    },
+    {
+      "surface": "க஡ர",
+      "gloss": "குறைந்தவன்"
+    },
+    {
+      "surface": "לב",
+      "gloss": "இதயம்"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "சொல்கிறது"
+    },
+    {
+      "surface": "לו",
+      "gloss": "அவனுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:06:47.890165701Z",
+  "model": "glm-5.3"
+}

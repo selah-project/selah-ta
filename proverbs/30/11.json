@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 30,
+  "translation": "ஒரு சந்ததி — தந்தையைச் சபிக்கிறது, மேலும் ⟨את⟩ தாயை ஆசிர்வதிக்கவில்லை.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "சந்ததி"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "தந்தையை"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "சபிக்கிறது"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "தாயை"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "தாயை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ஆசிர்வதிக்க"
+    }
+  ],
+  "timestamp": "2026-08-20T02:17:42.187745416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "மக்பீஷின் புதல்லர் — நூற்று ஐம்பத்தாறு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்லர்"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "மக்பீஷ்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "மற்றும் ஆறு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:40.773276164Z",
+  "model": "glm-5.3"
+}

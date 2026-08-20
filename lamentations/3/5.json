@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "எனக்கு எதிராக எழுப்பினார், கசப்பையும் வருத்தத்தையும் சூழ்ந்தார்.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "எழுப்பினார்"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "எனக்கு எதிராக"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "சூழ்ந்தார்"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "கசப்பு"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "வருத்தம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:49.843948153Z",
+  "model": "glm-5.3"
+}

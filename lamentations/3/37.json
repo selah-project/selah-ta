@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "யார் ⟨இவன்⟩ சொன்னான், அது ⟨ஆனது⟩ — அதோனாய் கட்டளையிடாதிருந்தால்?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨இவன்⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "அது ⟨ஆனது⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாய்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "கட்டளையிடாதிருந்தால்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:21.101293303Z",
+  "model": "glm-5.3"
+}

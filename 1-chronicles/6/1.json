@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "லேவியின் புத்திரர்: கெர்ஷோம், கெஹாத் மற்றும் மெராரி.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "லேவியின்"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "கெர்ஷோம்"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "கெஹாத்"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "மற்றும் மெராரி"
+    }
+  ],
+  "timestamp": "2026-08-20T04:45:18.797372829Z",
+  "model": "glm-5.3"
+}

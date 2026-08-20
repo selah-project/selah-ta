@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "குருவோ எண்ணெயிலிருந்து தன் இடது கையின் உள்ளங்கையில் ஊற்றுவான்.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "இருந்து"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "எண்ணெயில்"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ஊற்றுவான்"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "குரு"
+    },
+    {
+      "surface": "על",
+      "gloss": "இல்"
+    },
+    {
+      "surface": "כף",
+      "gloss": "உள்ளங்கையின்"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "குருவின்"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "இடது"
+    }
+  ],
+  "timestamp": "2026-08-19T21:51:02.929013188Z",
+  "model": "glm-5.3"
+}

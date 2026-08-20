@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "சீனாய் வனாந்தரத்தில் யாவே மோஷேயிடம் பேசினார், கூறுவது:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேயிடம்"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "வனாந்தரத்தில்"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "சீனாய்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவது"
+    }
+  ],
+  "timestamp": "2026-08-19T21:59:59.653032071Z",
+  "model": "glm-5.3"
+}

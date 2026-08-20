@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஞானியின் கண்டனையைக் கேட்பதே நல்லது, கீழ்ப்பானவன் ஒருவன் பாடலைக் கேட்பதைவிட.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "நல்லது"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "கேட்பதே"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "கண்டனையை"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ஞானியின்"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ஒருவனைவிட"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "கேட்பது"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "பாடலை"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "கீழ்ப்பானவர்களின்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:49:22.160804836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஏன் ஒரு மனிதன் — சீவனுள்ளவன், பலவான் — ⟨தன்⟩ பாவத்தின்மேல் முணுமுணக்கொண்றுவான்?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ஏன்"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "முணுமுணக்கொண்றுவான்"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "மனிதன்"
+    },
+    {
+      "surface": "חי",
+      "gloss": "சீவனுள்ளவன்"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "பலவான்"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "அவன் பாவம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:21.101811737Z",
+  "model": "glm-5.3"
+}

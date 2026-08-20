@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "யாவேவின் வார்த்தை செகர்யாவிடம் வந்தது, சொல்லுவது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "மற்றும் ஆனது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "செகர்யா"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லுவது"
+    }
+  ],
+  "timestamp": "2026-08-20T01:18:06.927620564Z",
+  "model": "glm-5.3"
+}

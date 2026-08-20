@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "சிம்யோன் கோத்திரத்திற்கு சாபாத், ஹோரியின் மகன்.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "கோத்திரத்திற்கு"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "சிம்யோன்"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "சாபாத்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ஹோரி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:04:28.433235971Z",
+  "model": "glm-5.3"
+}

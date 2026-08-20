@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "அர்பக்ஷத் ⟨את⟩ சலாவைப் பெற்றான், சலா ⟨את⟩ ஏபேரைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "அர்பக்ஷத்"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "சலாவை"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "சலா"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "சலா"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஏபேரை"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ஏபேர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:25:12.115432904Z",
+  "model": "glm-5.3"
+}

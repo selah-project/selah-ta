@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "யாவேவிடமிருந்து எனக்கு ஒரு வார்த்தை வந்தது, கூறுவதாவது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆக இருந்தது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவதாவது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:10:06.956202371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "என் கண் பொழிந்து ஓடுகிறது, ஓய்வு இல்லாமல் அது நிற்பதில்லை, இடைவிடாமையால்.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "என் கண்"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "பொழிந்து ஓடுகிறது"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "நிற்பதில்லை"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "இல்லாமல்"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ஓய்வு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:16.231012700Z",
+  "model": "glm-5.3"
+}

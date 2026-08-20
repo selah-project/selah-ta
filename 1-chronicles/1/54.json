@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "தலைவன் மக்தீயேல், தலைவன் ஈராம் — இவர்களே எதோமின் தலைவர்கள்.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "தலைவன்"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "மக்தீயேல்"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "தலைவன்"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ஈராம்"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "இவர்களே"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "தலைவர்கள்"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "எதோம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:23:56.768532890Z",
+  "model": "glm-5.3"
+}

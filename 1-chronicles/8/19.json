@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "மேலும் யாக்கீம், மேலும் ஸிக்ரி, மேலும் ஸப்தி —",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "மேலும் யாக்கீம்"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "மேலும் ஸிக்ரி"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "மேலும் ஸப்தி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:48.341027262Z",
+  "model": "glm-5.3"
+}

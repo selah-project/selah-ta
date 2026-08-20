@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "அரக்கின் புதல்கள் — ஆறு நூற்று ஐம்பத்திரண்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "அரக்கின்"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "மற்றும் இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:17:39.295267723Z",
+  "model": "glm-5.3"
+}

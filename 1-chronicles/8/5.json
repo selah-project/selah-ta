@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "மற்றும் கேரா, மற்றும் ஷெபூபான், மற்றும் கூராம்.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "மற்றும் கேரா"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "மற்றும் ஷெபூபான்"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "மற்றும் கூராம்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:46:25.621724424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 73,
+  "translation": "இதை அறியச் சிந்தித்தேன் — அது என் கண்களுக்குச் சிரமமானது.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "சிந்தித்தேன்"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "அறிய"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "இதை"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "சிரமமானது"
+    },
+    {
+      "surface": "היא",
+      "gloss": "அது"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "என் கண்களுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T01:42:15.140802293Z",
+  "model": "glm-5.3"
+}

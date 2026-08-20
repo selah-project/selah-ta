@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "அதாயா, பெராயா, ஷிம்ரத் — இவர்கள் ஷிம்இயின் மக்கள்.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "அதாயா"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "பெராயா"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ஷிம்ரத்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ஷிம்இ"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:47.367813791Z",
+  "model": "glm-5.3"
+}

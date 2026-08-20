@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "இருவரும் ஒருவரைவிட நல்லவர்கள்; ஏனெனில் அவர்கள் தங்கள் உழைப்பில் நல்ல பலன் ⟨உண்டு⟩.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "நல்லவர்கள்"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "இருவரும்"
+    },
+    {
+      "surface": "מן",
+      "gloss": "விட"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ஒருவரை"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "יש",
+      "gloss": "உண்டு"
+    },
+    {
+      "surface": "להם",
+      "gloss": "அவர்களுக்கு"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "பலன்"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "நல்ல"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "தங்கள் உழைப்பில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:48:40.386055707Z",
+  "model": "glm-5.3"
+}

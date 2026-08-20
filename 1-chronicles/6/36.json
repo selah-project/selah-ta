@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "புக்கி அவன் குமாரன், உஸ்ஸி அவன் குமாரன், செரக்யா அவன் குமாரன்.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "புக்கி"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் குமாரன்"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "உஸ்ஸி"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் குமாரன்"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "செரக்யா"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் குமாரன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:31.846860546Z",
+  "model": "glm-5.3"
+}

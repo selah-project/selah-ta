@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "நோஹா நான்காமவன், ராபா ஐந்தாமவன்.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "நோஹா"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "நான்காமவன்"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ராபா"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ஐந்தாமவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:18.680655373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "என் காதலர் எனக்கு ஏய்ன்-கெதி திராட்சைத் தோப்புகளில் கோபர் கொத்து.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "கொத்து"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "கோபர்"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "என் காதலர்"
+    },
+    {
+      "surface": "לי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "தோப்புகளில்"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ஏய்ன்"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "கெதி"
+    }
+  ],
+  "timestamp": "2026-08-20T02:38:24.940266022Z",
+  "model": "glm-5.3"
+}

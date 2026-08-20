@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 3:18",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "மல்கிராம், பதாயா, ஷெனாஸ்ஸர், யக்கம்யா, ஹோஷாமா, நதப்யா.",
+  "tokens": [
+    {
+      "surface": "ומלכירם",
+      "gloss": "மல்கிராம்"
+    },
+    {
+      "surface": "ופדיה",
+      "gloss": "பதாயா"
+    },
+    {
+      "surface": "ושנאצר",
+      "gloss": "ஷெனாஸ்ஸர்"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "யக்கம்யா"
+    },
+    {
+      "surface": "הושמע",
+      "gloss": "ஹோஷாமா"
+    },
+    {
+      "surface": "ונדביה",
+      "gloss": "நதப்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:55.580281584Z",
+  "model": "glm-5.3"
+}

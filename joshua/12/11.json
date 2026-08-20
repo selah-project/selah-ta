@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "யர்மூத்தின் அரசன் ஒருவன்; லாகீஷின் அரசன் ஒருவன்;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "யர்மூத்தின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "லாகீஷின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:36:28.860032147Z",
+  "model": "glm-5.3"
+}

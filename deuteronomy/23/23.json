@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "நேர்ச்சை செய்வதை நீ விட்டுவிட்டால், உன்னில் பாவம் இருக்காது.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ஆனால் எப்போது"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "நீ விட்டுவிடுவாய்"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "நேர்ச்சை செய்வதை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "இருக்கும்"
+    },
+    {
+      "surface": "בך",
+      "gloss": "உன்னில்"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "பாவம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:26:22.130368906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 23:1",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "யாவேவின் வார்த்தை எனக்கு வந்தது, சொல்லும்படி:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆக இருந்தது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லும்படி"
+    }
+  ],
+  "timestamp": "2026-08-20T00:47:32.735563790Z",
+  "model": "glm-5.3"
+}

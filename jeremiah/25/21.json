@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "எதோமையும் ⟨את⟩ மோவாபையும் ⟨את⟩ அம்மோனின் புதல்களையும் ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "எதோம்"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "எதோம்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "மோவாப்"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "மோவாப்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "அம்மோனின் புதல்கள்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "அம்மோன்"
+    }
+  ],
+  "timestamp": "2026-08-20T00:21:18.265420016Z",
+  "model": "glm-5.3"
+}

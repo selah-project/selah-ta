@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "மெய்யாகவே, நீங்களே ⟨the⟩ ஜனம்; உங்களுடன் ஞானம் சாகும்.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "மெய்யாகவே"
+    },
+    {
+      "surface": "כי",
+      "gloss": "நிச்சயமாக"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "நீங்கள்"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ஜனம்"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "உங்களுடன்"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "சாகும்"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ஞானம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:24:28.051097398Z",
+  "model": "glm-5.3"
+}

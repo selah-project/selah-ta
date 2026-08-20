@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "ஆனால் அவனில் புதுச் சதை காணப்படும் நாளில் அவன் தீட்டானவனாகிறான்.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "நாளில்"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "காணப்படும்"
+    },
+    {
+      "surface": "בו",
+      "gloss": "அவனில்"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "சதை"
+    },
+    {
+      "surface": "חי",
+      "gloss": "புது"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "தீட்டானவனாகிறான்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:50:14.021451941Z",
+  "model": "glm-5.3"
+}

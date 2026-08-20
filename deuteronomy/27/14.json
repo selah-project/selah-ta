@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 27,
+  "translation": "லேவியர் பதிலளித்து இஸ்ரவேலர் அனைத்து மனிதருக்கும் உரத்த குரலில் சொல்வார்கள்:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "பதிலளித்து"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "லேவியர்"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "சொல்வார்கள்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "அனைத்து"
+    },
+    {
+      "surface": "איש",
+      "gloss": "மனிதருக்கும்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேல்"
+    },
+    {
+      "surface": "קול",
+      "gloss": "குரலில்"
+    },
+    {
+      "surface": "רם",
+      "gloss": "உரத்த"
+    }
+  ],
+  "timestamp": "2026-08-19T22:27:42.957536797Z",
+  "model": "glm-5.3"
+}

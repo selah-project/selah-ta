@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "யாவே மோஷேவிடம் பேசினார், கூறுவது என்று.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவது என்று"
+    }
+  ],
+  "timestamp": "2026-08-19T21:39:58.609581572Z",
+  "model": "glm-5.3"
+}

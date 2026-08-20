@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஷல்மா — பேத்லெகெமின் தந்தை; ஹரெஃப் — பேத்-காதெரின் தந்தை.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "ஷல்மா"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "தந்தை"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "லெகெம்"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ஹரெஃப்"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "தந்தை"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "காதெர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:25:26.228364016Z",
+  "model": "glm-5.3"
+}

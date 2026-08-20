@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "யாவே மோஷேவையும் அஹரோனையும் பேசினார், கூறுவது:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடத்தில்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேவையும்"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "மேலும் இடத்தில்"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "அஹரோனையும்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவது"
+    }
+  ],
+  "timestamp": "2026-08-19T22:00:35.386759065Z",
+  "model": "glm-5.3"
+}

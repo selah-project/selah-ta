@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "உங்கள் தேவனாகிய யாவேவுக்கு இப்படிச் செய்யாதேகள்.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "செய்யாதேகள்"
+    },
+    {
+      "surface": "כן",
+      "gloss": "இப்படி"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "யாவேவுக்கு"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "உங்கள் தேவனாகிய"
+    }
+  ],
+  "timestamp": "2026-08-20T04:11:18.309474073Z",
+  "model": "glm-5.3"
+}

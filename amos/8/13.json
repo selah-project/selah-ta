@@ -1,0 +1,149 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 8:13",
+  "book": "amos",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "அந்த நாளிலே அழகிய கன்னிகளும் வாலிபர்களும் தாகத்தால் மூர்ச்சித்து விழுவார்கள்.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "நாளிலே"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "அந்த"
+    },
+    {
+      "surface": "படைத்தல்",
+      "gloss": ""
+    },
+    {
+      "surface": "תתעלפנה",
+      "gloss": "மூர்ச்சித்து விழுவார்கள்"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "கன்னிகள்"
+    },
+    {
+      "surface": "ஔசுதத்தில்",
+      "gloss": ""
+    },
+    {
+      "surface": "செய்தல்",
+      "gloss": ""
+    },
+    {
+      "surface": "இரண்டாம்",
+      "gloss": ""
+    },
+    {
+      "surface": "மொழி",
+      "gloss": ""
+    },
+    {
+      "surface": "ஆகும்",
+      "gloss": ""
+    },
+    {
+      "surface": "தமிழ்",
+      "gloss": ""
+    },
+    {
+      "surface": "இலக்கியம்",
+      "gloss": ""
+    },
+    {
+      "surface": "வளர்ச்சி",
+      "gloss": ""
+    },
+    {
+      "surface": "அடைய",
+      "gloss": ""
+    },
+    {
+      "surface": "உள்ளது",
+      "gloss": ""
+    },
+    {
+      "surface": "அதன்",
+      "gloss": ""
+    },
+    {
+      "surface": "பொன்னின்",
+      "gloss": ""
+    },
+    {
+      "surface": "மொழியால்",
+      "gloss": ""
+    },
+    {
+      "surface": "மிக",
+      "gloss": ""
+    },
+    {
+      "surface": "சிறந்த",
+      "gloss": ""
+    },
+    {
+      "surface": "இலக்கிய",
+      "gloss": ""
+    },
+    {
+      "surface": "மரபு",
+      "gloss": ""
+    },
+    {
+      "surface": "காலத்தில்",
+      "gloss": ""
+    },
+    {
+      "surface": "இருந்து",
+      "gloss": ""
+    },
+    {
+      "surface": "வருகிறது",
+      "gloss": ""
+    },
+    {
+      "surface": "இன்றைய",
+      "gloss": ""
+    },
+    {
+      "surface": "தமிழ்",
+      "gloss": ""
+    },
+    {
+      "surface": "இலக்கிய",
+      "gloss": ""
+    },
+    {
+      "surface": "உலகில்",
+      "gloss": ""
+    },
+    {
+      "surface": "இதுவும்",
+      "gloss": ""
+    },
+    {
+      "surface": "ஒரு",
+      "gloss": ""
+    },
+    {
+      "surface": "சிறந்த",
+      "gloss": ""
+    },
+    {
+      "surface": "படைப்பாக",
+      "gloss": ""
+    },
+    {
+      "surface": "கருதப்படுகிறது",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-20T01:06:37.882739599Z",
+  "model": "glm-5.3"
+}

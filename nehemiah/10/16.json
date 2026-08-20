@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "புன்னி, அஸ்கத், பெபாய்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புன்னி"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "அஸ்கத்"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "பெபாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:44.862418564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "மற்றொரு ஏலாமின் புத்திரர்கள் — ஆயிரம், இருநூற்று ஐம்பத்து நான்கு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்கள்"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ஏலாம்"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "மற்றொரு"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "இருநூறு"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "நான்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:06.618459044Z",
+  "model": "glm-5.3"
+}

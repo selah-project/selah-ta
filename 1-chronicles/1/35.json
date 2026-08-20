@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "ஏசாவின் புதல்வர்: எலிப்பாஸ், ரெவூயேல், யெயூஷ், யாலாம், கோராக்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ஏசாவின்"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "எலிப்பாஸ்"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ரெவூயேல்"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "யெயூஷ்"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "யாலாம்"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "கோராக்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:57.606647826Z",
+  "model": "glm-5.3"
+}

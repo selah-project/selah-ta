@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "வரப்பா அவர் மகன், வரெஷெப் வரதெலா அவன் மகன், வரதஹான் அவன் மகன்.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "வரப்பா"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவர் மகன்"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "வரெஷெப்"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "வரதெலா"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "வரதஹான்"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:28.648060913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "ஸல்மோன் அகோகியன், மகராய் நெத்தோபாத்தியன்.",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ஸல்மோன்"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "அகோகியன்"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "மகராய்"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "நெத்தோபாத்தியன்"
+    }
+  ],
+  "timestamp": "2026-08-19T23:18:53.701314711Z",
+  "model": "glm-5.3"
+}

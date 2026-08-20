@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மாஅஸ்யா, பில்காய், ஷெமாயா — இவர்கள் ⟨இ⟩ கோஹானியர்.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "மாஅஸ்யா"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "பில்காய்"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ஷெமாயா"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "இவர்கள்"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "கோஹானியர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:23.153817456Z",
+  "model": "glm-5.3"
+}

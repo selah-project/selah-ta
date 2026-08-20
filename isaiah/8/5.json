@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "யாவே பேசுவதற்கு என்னிடம் மேலும் கூட்டினார், சொல்லக்கூற:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "கூட்டினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "பேசுவதற்கு"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "என்னிடம்"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "மேலும்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லக்கூற"
+    }
+  ],
+  "timestamp": "2026-08-19T23:49:08.372277958Z",
+  "model": "glm-5.3"
+}

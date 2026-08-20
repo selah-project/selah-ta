@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "ரூபன், சிமெயோன், லேவி, யெஹூதா.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ரூபன்"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "சிமெயோன்"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "லேவி"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "யெஹூதா"
+    }
+  ],
+  "timestamp": "2026-08-19T21:26:05.062230280Z",
+  "model": "glm-5.3"
+}

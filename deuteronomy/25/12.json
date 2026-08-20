@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "அவளுடைய கையை ⟨את⟩ வெட்டிவிடுவாய்; உன் கண் அவளுக்கு இரங்கக் கூடாது.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "வெட்டிவிடுவாய்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "அவளுடைய கையை"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "அவளுடைய கையை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "கூடாது"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "இரங்க"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "உன் கண்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:27:09.379121202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "எல்ஆசா ⟨את⟩ சிஸ்மாயைப் பெற்றான், சிஸ்மாய் ⟨את⟩ ஷல்லூமைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "எல்ஆசா"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "சிஸ்மாயை"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "சிஸ்மாய்"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "சிஸ்மாய்"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஷல்லூமை"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ஷல்லூம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:51.995706797Z",
+  "model": "glm-5.3"
+}

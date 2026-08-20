@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "வெள்ளி எனக்கே, தங்கமும் எனக்கே, படைகளின் யாவேவின் அருளுரை.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "வெள்ளி"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "எனக்கே"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "தங்கம்"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "அருளுரை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "படைகளின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:16:26.384045599Z",
+  "model": "glm-5.3"
+}

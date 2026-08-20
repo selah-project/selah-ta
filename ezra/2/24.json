@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "அஸ்மாவேத் மக்கள் — நாற்பத்து இரண்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "அஸ்மாவேத்"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "நாற்பது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:07:59.127292948Z",
+  "model": "glm-5.3"
+}

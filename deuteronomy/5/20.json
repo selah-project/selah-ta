@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "உன் அயலானுக்கு எதிராகப் பொய்ச் சாட்சி சொல்லாதே.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "மற்றும் இல்லை"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "பதிலளிப்பாய்"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "உன் அயலானுக்கு எதிராக"
+    },
+    {
+      "surface": "עד",
+      "gloss": "சாட்சி"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "பொய்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:18:36.054510678Z",
+  "model": "glm-5.3"
+}

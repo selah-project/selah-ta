@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஒரு பல்லக்கை அவருக்குச் செய்தார் அரசன் ஷலோமோ, லெபனோனின் மரங்களால்.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "பல்லக்கு"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "செய்தார்"
+    },
+    {
+      "surface": "לו",
+      "gloss": "அவருக்கு"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ஷலோமோ"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "மரங்களால்"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "லெபனோன்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:38:56.263124719Z",
+  "model": "glm-5.3"
+}

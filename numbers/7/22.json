@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பாவநிவாரண காணிக்கையாக ஆட்டுக்கிடாக்களில் ஒன்று.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ஆட்டுக்கிடா"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "வெள்ளாட்டு"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒன்று"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "பாவத்திற்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T22:01:58.812948292Z",
+  "model": "glm-5.3"
+}

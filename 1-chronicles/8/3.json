@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "பேலாவுக்குப் புத்திரர் இருந்தனர் — அத்தார், கேரா, அபிஹூத்.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "இருந்தனர்"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "பேலாவுக்கு"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "அத்தார்"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "கேரா"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "அபிஹூத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:18.680848732Z",
+  "model": "glm-5.3"
+}

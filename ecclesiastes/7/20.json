@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஏனெனில் பூமியில் நன்மை செய்து பாவம் செய்யாத ஒரு நீதிமானும் இல்லை.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "மனிதன்"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "நீதிமான்"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "பூமியில்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அவன்"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "செய்து"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "நன்மை"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "மற்றும் இல்லை"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "பாவம் செய்யாத"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:27.648665518Z",
+  "model": "glm-5.3"
+}

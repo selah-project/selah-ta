@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஷம்மோத் ஹரோரியன், கேலெட்ஸ் பெலோனியன்.",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ஷம்மோத்"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ஹரோரியன்"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "கேலெட்ஸ்"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "பெலோனியன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:40.283790057Z",
+  "model": "glm-5.3"
+}

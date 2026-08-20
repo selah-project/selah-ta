@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 36,
+  "translation": "எலிஹூ மேலும் சேர்த்துச் சொன்னான்:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "மேலும் சேர்த்து"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "எலிஹூ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:35:23.526998995Z",
+  "model": "glm-5.3"
+}

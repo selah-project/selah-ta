@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "யோவேல், யோஷிப்யாவின் மகன் யெகூ — யோஷிப்யா ஸ்ராயாவின் மகன், ஸ்ராயா அஸியேலின் மகன் —",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "யோவேல்"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "யெகூ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "யோஷிப்யா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ஸ்ராயா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "அஸியேல்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:16.296166066Z",
+  "model": "glm-5.3"
+}

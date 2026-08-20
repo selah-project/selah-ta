@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "சல்லாய்க்கு கல்லாய்; அமோக்குக்கு ஏவேர்.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "சல்லாய்க்கு"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "கல்லாய்"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "அமோக்குக்கு"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ஏவேர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:22:42.824703084Z",
+  "model": "glm-5.3"
+}

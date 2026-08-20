@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 35,
+  "translation": "ராகேலின் குமாரர்: யோசேப், பின்யாமின்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "குமாரர்"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ராகேலின்"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "யோசேப்"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "பின்யாமின்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:18:15.409434260Z",
+  "model": "glm-5.3"
+}

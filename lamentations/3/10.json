@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஒரு கரடி பதுங்கியிருப்பவர் அவர் எனக்கு; ஒரு சிங்கம் மறைவிடங்களில்.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "கரடி"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "பதுங்கியிருப்பவர்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவர்"
+    },
+    {
+      "surface": "לי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "சிங்கம்"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "மறைவிடங்களில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:17.570767341Z",
+  "model": "glm-5.3"
+}

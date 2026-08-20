@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 27,
+  "translation": "ஆட்டுக்கடாக்கள் உன் உடைக்கு ⟨are⟩, வயலின் விலையாக வெள்ளாடுகள் ⟨are⟩.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "ஆட்டுக்கடாக்கள்"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "உன் உடைக்கு"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "விலையாக"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "வயலின்"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "வெள்ளாடுகள்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:15:59.999353227Z",
+  "model": "glm-5.3"
+}

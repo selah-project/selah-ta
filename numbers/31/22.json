@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "ஆனால் ⟨את⟩ தங்கம், ⟨את⟩ வெள்ளி, ⟨את⟩ செம்பு, ⟨את⟩ இரும்பு, ⟨את⟩ ஈயம், ⟨את⟩ தகரம் —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ஆனால்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "தங்கத்தை"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "தங்கம்"
+    },
+    {
+      "surface": "கת",
+      "gloss": "⟨את⟩",
+      "marks": "வெள்ளியை"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "வெள்ளி"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "செம்பை"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "செம்பு"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "இரும்பை"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "இரும்பு"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஈயத்தை"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ஈயம்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "தகரத்தை"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "தகரம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:13:20.159776558Z",
+  "model": "glm-5.3"
+}

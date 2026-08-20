@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 26,
+  "translation": "ஆனாலும் கோரகின் புத்திரர் மாண்டுபோகவில்லை.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மற்றும் புத்திரர்"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "கோரகின்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "மாண்டனர்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:11:22.056606008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "ஷெபேலாவில்: எஷ்தாவோல், சோரா, அஷ்னா.",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "ஷெபேலாவில்"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "எஷ்தாவோல்"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "சோரா"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "அஷ்னா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:45.097476328Z",
+  "model": "glm-5.3"
+}

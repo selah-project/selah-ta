@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "அமர்யா, மல்லூக், சத்தூஷ்.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "அமர்யா"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "மல்லூக்"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "சத்தூஷ்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:22:37.815299537Z",
+  "model": "glm-5.3"
+}

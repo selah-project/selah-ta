@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "அனாத்தோத் மனிதர் — நூற்றிருபத்தெட்டு.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "மனிதர்"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "அனாத்தோத்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபத்து"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "எட்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:27.942406366Z",
+  "model": "glm-5.3"
+}

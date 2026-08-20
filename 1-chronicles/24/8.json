@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "மூன்றாவது ஹாரீமுக்கு; நான்காவது சியோரீமுக்கு.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ஹாரீமுக்கு"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "மூன்றாவது"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "சியோரீமுக்கு"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "நான்காவது"
+    }
+  ],
+  "timestamp": "2026-08-20T03:40:14.122922484Z",
+  "model": "glm-5.3"
+}

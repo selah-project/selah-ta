@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "கநான் ⟨את⟩ சீதோனைத் தன் தலைமகனையும் ⟨את⟩ ஏத்தையும் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "கநான்"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "சீதோனை"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "சீதோன்"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "தலைமகன்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ஏத்தை"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ஏத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:19.824026451Z",
+  "model": "glm-5.3"
+}

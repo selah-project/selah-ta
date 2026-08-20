@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "மோஷே பெஸஹைச் செய்யும்படி இஸ்ரவேல் புத்திரரிடம் பேசினார்.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்\/கிட்ட"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேல்"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "செய்யும்படி"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "பெஸஹை"
+    }
+  ],
+  "timestamp": "2026-08-20T04:09:03.012927188Z",
+  "model": "glm-5.3"
+}

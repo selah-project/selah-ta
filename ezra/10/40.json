@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மக்நதெபாய், ஷஷாய், ஷாராய்,",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "மக்நதெபாய்"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ஷஷாய்"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ஷாராய்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:13:54.416777337Z",
+  "model": "glm-5.3"
+}

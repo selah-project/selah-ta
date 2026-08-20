@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "இந்த நாற்பது ஆண்டுகளில் உன் ஆடை உன்மேல் பழையதாகவில்லை, உன் பாதம் வீங்கவும் இல்லை.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "உன் ஆடை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "பழையதாகவில்லை"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "உன்மேல்"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "உன் பாதம்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "வீங்கவும்"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இந்த"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "நாற்பது"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ஆண்டுகளில்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:20:56.006059044Z",
+  "model": "glm-5.3"
+}

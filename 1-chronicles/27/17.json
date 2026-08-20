@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 27,
+  "translation": "லேவியருக்கு கஷப்யா கெமுவேலின் மகன்; அஹரோனுக்கு சாதோக்.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "லேவியருக்கு"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "கஷப்யா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "கெமுவேலின்"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "அஹரோனுக்கு"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "சாதோக்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:41:01.698421668Z",
+  "model": "glm-5.3"
+}

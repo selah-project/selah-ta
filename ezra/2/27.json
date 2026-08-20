@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "மிக்மாஸின் மனிதர் — நூற்று இருபத்து இரண்டு பேர்.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "மனிதர்"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "மிக்மாஸ்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "மற்றும் இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:38.224974Z",
+  "model": "glm-5.3"
+}

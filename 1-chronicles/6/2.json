@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "கெர்ஷோமின் புத்திரரின் பெயர்கள் ⟨the⟩ இவை: லிப்னி மற்றும் ஷிம்இ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "மற்றும் இவை"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "பெயர்கள்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புத்திரரின்"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "கெர்ஷோமின்"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "லிப்னி"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "மற்றும் ஷிம்இ"
+    }
+  ],
+  "timestamp": "2026-08-20T04:45:18.797771720Z",
+  "model": "glm-5.3"
+}

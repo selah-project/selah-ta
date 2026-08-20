@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "அர்பக்ஷத் ⟨את⟩ செலாவைப் பெற்றார்; செலா ⟨את⟩ ஏபெரைப் பெற்றார்.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "அர்பக்ஷத்"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "செலாவை"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "செலா"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "செலா"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஏபெரை"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ஏபெர்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:09.916216134Z",
+  "model": "glm-5.3"
+}

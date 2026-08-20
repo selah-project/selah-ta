@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "எல்கானாவின் மக்கள்: அமாசாய், மற்றும் அஹிமோத்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மற்றும் ...-இன் மக்கள்"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "எல்கானா"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "அமாசாய்"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "மற்றும் அஹிமோத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:49.825893427Z",
+  "model": "glm-5.3"
+}

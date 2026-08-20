@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "இப்ஹார், எலீஷுவா, நெபெக், யாபியா.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "இப்ஹார்"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "எலீஷுவா"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "நெபெக்"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "யாபியா"
+    }
+  ],
+  "timestamp": "2026-08-19T23:10:12.385938039Z",
+  "model": "glm-5.3"
+}

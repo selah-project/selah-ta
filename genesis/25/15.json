@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "ஹதத், தேமா, யெதூர், நாபீஷ், கேதேமா.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ஹதத்"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "மற்றும் தேமா"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "யெதூர்"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "நாபீஷ்"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "மற்றும் கேதேமா"
+    }
+  ],
+  "timestamp": "2026-08-19T21:11:39.496160407Z",
+  "model": "glm-5.3"
+}

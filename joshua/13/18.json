@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "மற்றும் யாஹ்சா, கேதேமோத், மெபாத்.",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "மற்றும் யாஹ்சா"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "கேதேமோத்"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "மெபாத்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:37:32.252962496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "ஒரு கேடு உண்டு, சூரியனுக்குக் கீழே நான் கண்டது, அது மனிதன்மேல் பெரியது.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "உண்டு"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "கேடு"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அதை"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "நான் கண்டேன்"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "கீழே"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "சூரியனுக்கு"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "மற்றும் பெரியது"
+    },
+    {
+      "surface": "היא",
+      "gloss": "அது"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "மனிதன்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:51:53.416750055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "யிஸ்ரெயேல், யோக்தெயாம், ஸனோவா",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "யிஸ்ரெயேல்"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "யோக்தெயாம்"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "ஸனோவா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:14.162054666Z",
+  "model": "glm-5.3"
+}

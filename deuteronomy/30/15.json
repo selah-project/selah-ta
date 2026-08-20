@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 30,
+  "translation": "பார் — இன்று நான் உன் முன்னே வைத்தேன் ⟨את⟩ ஜீவனையும் ⟨את⟩ நன்மையையும், ⟨את⟩ மரணத்தையும் ⟨את⟩ தீமையையும்.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "பார்"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "நான் வைத்தேன்"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "உன் முன்னே"
+    },
+    {
+      "surface": "היום",
+      "gloss": "இன்று"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஜீவன்"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ஜீவன்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "நன்மை"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "நன்மை"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "மரணம்"
+    },
+    {
+      "surface": "המות",
+      "gloss": "மரணம்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "தீமை"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "தீமை"
+    }
+  ],
+  "timestamp": "2026-08-19T22:30:07.028691096Z",
+  "model": "glm-5.3"
+}

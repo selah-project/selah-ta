@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "பேத்-அரபா, செமரயிம், மற்றும் பேத்-ஏல்.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "மற்றும் பேத்"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "அரபா"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "செமரயிம்"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "மற்றும் பேத்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ஏல்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:06.487854978Z",
+  "model": "glm-5.3"
+}

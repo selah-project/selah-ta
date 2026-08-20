@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஓத்ஸெம் ஆறாமவன், தாவீத் ஏழாமவன்.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ஓத்ஸெம்"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ஆறாமவன்"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "தாவீத்"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ஏழாமவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:25:06.934895490Z",
+  "model": "glm-5.3"
+}

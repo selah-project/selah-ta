@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 16,
+  "translation": "மோஷே கொராக்கிடம் சொன்னார்: லேவியராகிய மக்களே, இப்போது கேளுங்கள்.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடத்தில்"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "கொராக்கிடம்"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "கேளுங்கள்"
+    },
+    {
+      "surface": "נא",
+      "gloss": "இப்போது"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்களாகிய"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "லேவி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:06:06.682473360Z",
+  "model": "glm-5.3"
+}

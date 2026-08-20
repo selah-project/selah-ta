@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "மஹ்லியின் மகன், மூஷியின் மகன், மேராரியின் மகன், லேவியின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "மஹ்லி"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "மூஷி"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "மேராரி"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "லேவி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:22.633789763Z",
+  "model": "glm-5.3"
+}

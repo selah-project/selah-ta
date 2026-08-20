@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "தச்சத்தின் மகன், அசீரின் மகன், எப்யாசாப்பின் மகன், கோரக்கின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "தச்சத்தின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "அசீரின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "எப்யாசாப்பின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "கோரக்கின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:24.607340951Z",
+  "model": "glm-5.3"
+}

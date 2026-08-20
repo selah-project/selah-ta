@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "அதைப் புசிக்கவேண்டாம்; தண்ணீரைப் போல அதை நிலத்தின்மேல் ஊற்றிவிடு.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "வேண்டாம்"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "அதைப் புசிக்க"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "நிலத்தின்"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "அதை ஊற்று"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "தண்ணீரைப் போல"
+    }
+  ],
+  "timestamp": "2026-08-19T22:22:14.398856181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "தானியேல், கின்னெத்தோன், பரூக்,",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "தானியேல்"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "கின்னெத்தோன்"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "பரூக்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:50.505955420Z",
+  "model": "glm-5.3"
+}

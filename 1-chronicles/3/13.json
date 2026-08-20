@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "அகாஸ் அவர் மகன், ஹிஸ்கியாஹு அவர் மகன், மனஷ்ஷே அவர் மகன்,",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "அகாஸ்"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவர் மகன்"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ஹிஸ்கியாஹு"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவர் மகன்"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "மனஷ்ஷே"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவர் மகன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:18.933421178Z",
+  "model": "glm-5.3"
+}

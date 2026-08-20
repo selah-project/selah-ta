@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "கிப்யோன், உம் ராமா, உம் பெயெரோத்",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "கிப்யோன்"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "உம் ராமா"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "உம் பெயெரோத்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:06.342384776Z",
+  "model": "glm-5.3"
+}

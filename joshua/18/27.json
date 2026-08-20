@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "உம் ரெகெம், உம் யிர்பெயெல், உம் தராலா",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "உம் ரெகெம்"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "உம் யிர்பெயெல்"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "உம் தராலா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:06.342845367Z",
+  "model": "glm-5.3"
+}

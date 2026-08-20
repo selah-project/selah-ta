@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 108,
+  "translation": "பாடல், தவில் இசைப்பாடல், தாவீதுக்கு உரியது.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "பாடல்"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "தவில் இசைப்பாடல்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதுக்கு உரியது"
+    }
+  ],
+  "timestamp": "2026-08-20T01:53:54.196922562Z",
+  "model": "glm-5.3"
+}

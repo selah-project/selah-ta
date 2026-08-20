@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "மாடுகள் முப்பத்தாறாயிரம்.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "மாடுகள்"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:14:01.067194966Z",
+  "model": "glm-5.3"
+}

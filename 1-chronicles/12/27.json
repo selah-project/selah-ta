@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "லேவியின் புத்திரரில் நாலாயிரத்து ஆறுநூறு.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "இல்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "லேவியின்"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "நான்கு"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூறு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:32:59.444641392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "அரசனும் சகல ஜனங்களும் யாவேவின் சந்நிதியில் பலிகளைச் செலுத்தினர்.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "அரசனும்"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ஜனங்களும்"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "செலுத்தினர்"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "பலியை"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "சந்நிதியில்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:46:34.317978464Z",
+  "model": "glm-5.3"
+}

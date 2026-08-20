@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "அமோன் அவர் மகன், யோஷியாஹு அவர் மகன்.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "அமோன்"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவர் மகன்"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "யோஷியாஹு"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவர் மகன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:18.933846020Z",
+  "model": "glm-5.3"
+}

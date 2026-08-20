@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "உஸ்ஸியேலின் புதல்கள் — மீகா; மீகாவின் புதல்களுக்கு ஷாமூர்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "உஸ்ஸியேல்"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "மீகா"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "புதல்களுக்கு"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "மீகா"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ஷாமூர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:38:46.395254015Z",
+  "model": "glm-5.3"
+}

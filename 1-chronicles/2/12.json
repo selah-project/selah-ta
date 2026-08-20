@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "போவஸ் ⟨את⟩ ஓபேதைப் பெற்றான்; ஓபேத் ⟨את⟩ ஈஷையைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "போவஸ்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஓபேத்"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ஓபேத்"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ஓபேத்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஈஷை"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ஈஷை"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:36.884054190Z",
+  "model": "glm-5.3"
+}

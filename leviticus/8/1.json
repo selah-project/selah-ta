@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "யாவே மோஷேவுக்கு உரைத்தார், கூறுவது என்று:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "உரைத்தார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இதற்கு"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேவுக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவது என்று"
+    }
+  ],
+  "timestamp": "2026-08-19T21:47:31.011839674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "தந்தையற்றவர்களாய் ⟨ஆனோம்⟩; தந்தை இல்லை; நம் தாயர் விதவையரைப் போல.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "தந்தையற்றவர்களாய்"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ஆனோம்"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "אב",
+      "gloss": "தந்தை"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "நம் தாயர்"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "விதவையரைப் போல"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:15.689741130Z",
+  "model": "glm-5.3"
+}

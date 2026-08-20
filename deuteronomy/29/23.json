@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 29,
+  "translation": "சகல ஜாதிகளும் சொல்லும்: யாவே இந்த நிலத்துக்கு இப்படிச் செய்தது ஏன்? இந்தப் பெரிய கோபத்தின் சுடர் என்ன?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "சொல்லும்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ஜாதிகளும்"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ஏன்"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "செய்தது"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "இப்படி"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "நிலத்துக்கு"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "இந்த"
+    },
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "கோபத்தின் சுடர்"
+    },
+    {
+      "surface": "האף",
+      "gloss": "கோபம்"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "பெரிய"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "இந்த"
+    }
+  ],
+  "timestamp": "2026-08-19T22:29:57.270936081Z",
+  "model": "glm-5.3"
+}

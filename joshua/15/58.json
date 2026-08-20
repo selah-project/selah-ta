@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "ஹல்ஹுல், பேத்-த்சூர், மற்றும் கதோர்.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ஹல்ஹுல்"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "த்சூர்"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "மற்றும் கதோர்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:22.427979287Z",
+  "model": "glm-5.3"
+}

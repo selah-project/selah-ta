@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஹானான் மாக்காவின் மகன், மித்னியனாகிய யோஷபாத்தும்,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ஹானான்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "மாக்கா"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "யோஷபாத்தும்"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "அந்த மித்னியன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:02.873744604Z",
+  "model": "glm-5.3"
+}

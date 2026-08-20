@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "யெப்பத்தின் குமாரர்: கோமர், மாகோக், மாதாய், யாவான், துபால், மெஷெக், தீராஸ்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "குமாரர்"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "யெப்பத்"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "கோமர்"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "மாகோக்"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "மாதாய்"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "யாவான்"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "துபால்"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "மெஷெக்"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "தீராஸ்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:13.139623113Z",
+  "model": "glm-5.3"
+}

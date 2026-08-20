@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 26,
+  "translation": "இவர்கள் சூத்லாவின் மக்கள்: ஏரானின் குடும்பம் ஏரானியர்.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "இவர்கள்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "சூத்லாவின்"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "ஏரானின்"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "குடும்பம்"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "ஏரானியர்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:11:55.651660025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 102,
+  "translation": "ஆனால் நீ ⟨அதே⟩ ⟨ஆவாய்⟩, உமது ஆண்டுகள் முடியாது.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ஆனால் நீ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அதே ஆவாய்"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "உமது ஆண்டுகள்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "முடியாது"
+    }
+  ],
+  "timestamp": "2026-08-20T01:49:48.602019031Z",
+  "model": "glm-5.3"
+}

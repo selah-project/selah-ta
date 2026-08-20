@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "இஸ்ரவேலே, கேள் — யாவே நம் தேவன், யாவே ⟨is⟩ ஒருவரே.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "கேள்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேலே"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "நம் தேவன்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவரே"
+    }
+  ],
+  "timestamp": "2026-08-19T22:19:47.020510147Z",
+  "model": "glm-5.3"
+}

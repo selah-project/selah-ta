@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "மாடுகள் — எழுபத்திரண்டு ஆயிரம்.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "மாடுகள்"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "இரண்டு"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "எழுபது"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:13:40.290698875Z",
+  "model": "glm-5.3"
+}

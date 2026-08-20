@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "ஓடு, என் காதலனே; சுகந்த மலைகளின்மேல் நீ மானைப்போல அல்லது மான்களின் குட்டியைப்போல மாறு.",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "ஓடு"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "என் காதலனே"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "மாறு"
+    },
+    {
+      "surface": "לך",
+      "gloss": "நீ"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "மானைப்போல"
+    },
+    {
+      "surface": "או",
+      "gloss": "அல்லது"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "குட்டியைப்போல"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "மான்களின்"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "மலைகளின்"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "சுகந்த"
+    }
+  ],
+  "timestamp": "2026-08-20T02:40:50.273315094Z",
+  "model": "glm-5.3"
+}

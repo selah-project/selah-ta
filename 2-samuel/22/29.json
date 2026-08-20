@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "நீரே என் விளக்கு, யாவே; யாவே என் இருளை ஒளிரச் செய்வார்.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "நீரே"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "என் விளக்கு"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "ஒளிரச் செய்வார்"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "என் இருளை"
+    }
+  ],
+  "timestamp": "2026-08-19T23:18:16.290566597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "யாவே மோஷேயுடன் பேசினார், கூறி:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறி"
+    }
+  ],
+  "timestamp": "2026-08-19T21:56:39.526130444Z",
+  "model": "glm-5.3"
+}

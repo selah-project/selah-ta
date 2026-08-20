@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "நோகா, நெபெக், யாபியா.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "நோகா"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "நெபெக்"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "யாபியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:15.984928695Z",
+  "model": "glm-5.3"
+}

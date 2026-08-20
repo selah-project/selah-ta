@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 50,
+  "translation": "நாட்டில் போரின் சத்தம், மற்றும் மகா அழிவு.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "சத்தம்"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "போர்"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "நாட்டில்"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "மற்றும் அழிவு"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "மகா"
+    }
+  ],
+  "timestamp": "2026-08-20T00:33:40.397640930Z",
+  "model": "glm-5.3"
+}

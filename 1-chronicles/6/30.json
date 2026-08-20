@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "ஹஷப்யாவின் மகன், அமத்சியாவின் மகன், ஹில்கியாவின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ஹஷப்யா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "அமத்சியா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ஹில்கியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:22.633535896Z",
+  "model": "glm-5.3"
+}

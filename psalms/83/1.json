@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 83,
+  "translation": "பாடல், மஸ்மோர், அசாபுக்கு",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "பாடல்"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "மஸ்மோர்"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "அசாபுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T01:44:37.796959084Z",
+  "model": "glm-5.3"
+}

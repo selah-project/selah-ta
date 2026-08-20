@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "செருக், நாகோர், தேரக்.",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "செருக்"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "நாகோர்"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "தேரக்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:06.199116372Z",
+  "model": "glm-5.3"
+}

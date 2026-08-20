@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "ஆதியிலே எலோஹீம் ⟨את⟩ வானங்களையும் ⟨את⟩ பூமியையும் படைத்தார்.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ஆதியிலே"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "படைத்தார்"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "எலோஹீம்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "வானங்களை"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "வானங்களை"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "பூமியை"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "பூமியை"
+    }
+  ],
+  "timestamp": "2026-08-19T21:02:02.444370844Z",
+  "model": "glm-5.3"
+}

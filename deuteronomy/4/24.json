@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "உன் தேவனாகிய யாவே பட்சிக்கிற அக்கினி; அவர் பொறாமையுள்ள ஏல்.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "என்றே"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "உன் தேவனாகிய"
+    },
+    {
+      "surface": "אש",
+      "gloss": "அக்கினி"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "பட்சிக்கிற"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவர்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ஏல்"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "பொறாமையுள்ள"
+    }
+  ],
+  "timestamp": "2026-08-19T22:19:08.780492395Z",
+  "model": "glm-5.3"
+}

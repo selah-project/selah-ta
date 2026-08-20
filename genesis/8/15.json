@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "எலோஹீம் நோவாஹை நோக்கி பேசினார், சொல்லுவது என்னவென்றால் —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "எலோஹீம்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "நோக்கி"
+    },
+    {
+      "surface": "נח",
+      "gloss": "நோவாஹை"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லுவது என்றால்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:05:00.632851504Z",
+  "model": "glm-5.3"
+}

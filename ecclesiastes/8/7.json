@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "ஏனெனில் என்ன நேரிடும் என்று அவன் அறிவதில்லை; ஏனெனில் அது நேரிடும்போது அவனுக்கு யார் அறிவிப்பார்?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "அறிகிறான்"
+    },
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "நேரிடும்"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "எப்போது"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "நேரிடும்"
+    },
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "அறிவிப்பார்"
+    },
+    {
+      "surface": "לו",
+      "gloss": "அவனுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T04:41:42.154298218Z",
+  "model": "glm-5.3"
+}

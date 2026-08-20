@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "கம்பளியும் சணலும் சேர்ந்த நெய்த புடவையை உடுத்தாதே.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "வேண்டாம்"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "உடுத்துவாய்"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "கலந்து நெய்த துணி"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "கம்பளி"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "மற்றும் சணல்"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "சேர்ந்து"
+    }
+  ],
+  "timestamp": "2026-08-19T22:25:21.054630697Z",
+  "model": "glm-5.3"
+}

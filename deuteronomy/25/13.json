@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "உன் பையில் கல்லும் கல்லும் — பெரியதும் சிறியதும் — இருக்கக் கூடாது.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "இருக்கக்கூடாது"
+    },
+    {
+      "surface": "לך",
+      "gloss": "உனக்கு"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "உன் பையில்"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "கல்"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "மற்றும் கல்"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "பெரியது"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "மற்றும் சிறியது"
+    }
+  ],
+  "timestamp": "2026-08-19T22:26:58.938410022Z",
+  "model": "glm-5.3"
+}

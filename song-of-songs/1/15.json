@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "இதோ, நீ அழகுள்ளவள், என் தோழி; இதோ, நீ அழகுள்ளவள்; உன் கண்கள் புறாக்கள்.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "இதோ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "அழகுள்ளவள்"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "என் தோழி"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "இதோ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "அழகுள்ளவள்"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "உன் கண்கள்"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "புறாக்கள்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:38:24.940382800Z",
+  "model": "glm-5.3"
+}

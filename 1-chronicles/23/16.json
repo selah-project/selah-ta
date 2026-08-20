@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "கேர்ஷோமின் மக்கள்: ஷெபுவேல் ⟨தலைவன்⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "கேர்ஷோமின்"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "ஷெபுவேல்"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "தலைவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:39:17.482491007Z",
+  "model": "glm-5.3"
+}

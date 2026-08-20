@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "ஹட்சர்-ஷூவால், பாலா, எட்செம்.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "மற்றும் ஹட்சர்"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ஷூவால்"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "மற்றும் பாலா"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "மற்றும் எட்செம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:13.168730183Z",
+  "model": "glm-5.3"
+}

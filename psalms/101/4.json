@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 101,
+  "translation": "கோணலான இருதயம் என்னை விட்டு விலகும்; தீமையை நான் அறிய மாட்டேன்.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "இருதயம்"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "கோணலான"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "விலகும்"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "என்னை விட்டு"
+    },
+    {
+      "surface": "רע",
+      "gloss": "தீமையை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "மாட்டேன்"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "அறிய"
+    }
+  ],
+  "timestamp": "2026-08-20T01:49:33.091924908Z",
+  "model": "glm-5.3"
+}

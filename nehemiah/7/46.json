@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "நத்தீனிகள்: சிஹாவின் மக்கள், ஹஷுபாவின் மக்கள், தப்பாவோத்தின் மக்கள்.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "நத்தீனிகள்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "சிஹா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ஹஷுபா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "தப்பாவோத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:41.888780121Z",
+  "model": "glm-5.3"
+}

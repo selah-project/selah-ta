@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஒரு மனிதனை அவன் வழக்கில் கோணலாக்குவதை அதோனாய் அங்கீகரிக்கவில்லை.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "கோணலாக்குவதை"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ஒரு மனிதனை"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "அவன் வழக்கில்"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாய்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "அங்கீகரித்தார்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:04.755396384Z",
+  "model": "glm-5.3"
+}

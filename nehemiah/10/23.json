@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "பெலத்யா, சானான், அனாயா,",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "பெலத்யா"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "சானான்"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "அனாயா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:20:59.892981898Z",
+  "model": "glm-5.3"
+}

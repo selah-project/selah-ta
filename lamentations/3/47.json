@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "பயமும் கண்ணியும் எங்களுக்கு உண்டாயிற்று — அழிவும் நொறிவும்.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "பயம்"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "கண்ணியும்"
+    },
+    {
+      "surface": "היה",
+      "gloss": "உண்டாயிற்று"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "எங்களுக்கு"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "அழிவு"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "நொறிவும்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:08.670572064Z",
+  "model": "glm-5.3"
+}

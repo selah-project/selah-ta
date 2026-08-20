@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "கோணலானதை நேராக்க முடியாது; குறைந்ததை எண்ணி முடிக்க முடியாது.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "கோணலானது"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "முடியும்"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "நேராக்க"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "குறைந்தது"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "முடியும்"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "எண்ணி முடிக்க"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:59.946936448Z",
+  "model": "glm-5.3"
+}

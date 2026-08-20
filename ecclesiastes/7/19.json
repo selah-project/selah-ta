@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஞானம் ஞானிக்கு வலிமை தருகிறது — நகரில் இருந்த ⟨பத்து⟩ அதிகாரிகளைவிட மேலான வலிமை.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ஞானம்"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "வலிமை தருகிறது"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ஞானிக்கு"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "பத்தைவிட"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "அதிகாரிகள்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "எவர்கள்"
+    },
+    {
+      "surface": "היו",
+      "gloss": "இருந்த"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "நகரில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:27.648472350Z",
+  "model": "glm-5.3"
+}

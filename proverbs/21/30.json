@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "ஞானம் இல்லை, புரிதலும் இல்லை, யாவேவுக்கு எதிராக ஆலோசனையும் இல்லை.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ஞானம்"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "புரிதல்"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ஆலோசனை"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "எதிராக"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-20T02:11:55.142237790Z",
+  "model": "glm-5.3"
+}

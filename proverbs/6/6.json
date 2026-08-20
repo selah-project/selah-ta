@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "சோம்பேறியே, எறும்பிடம் செல்; அதின் வழிகளைக் கவனி, ஞானம் பெறு",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "செல்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "எறும்பிடம்"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "சோம்பேறியே"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "கவனி"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "அதின் வழிகளைக்"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ஞானம் பெறு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:05:42.262548203Z",
+  "model": "glm-5.3"
+}

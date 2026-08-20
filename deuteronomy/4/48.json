@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "அர்னோன் நதியின் கரையிலிருந்த அரோவேரிலிருந்து, சியோன் மலைவரை — அதுவே ஹெர்மோன்.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "அரோவேரிலிருந்து"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அது"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "கரையில்"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "நதியின்"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "அர்னோன்"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "வரை"
+    },
+    {
+      "surface": "הר",
+      "gloss": "மலை"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "சியோன்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அதுவே"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ஹெர்மோன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:18:09.496303585Z",
+  "model": "glm-5.3"
+}

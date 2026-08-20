@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 17,
+  "translation": "அமலேக் வந்தது, இஸ்ரவேலுடன் ரெபிதீமில் போரிட்டது.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "வந்தது"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "அமலேக்"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "போரிட்டது"
+    },
+    {
+      "surface": "עם",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேலுடன்"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "ரெபிதீமில்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:33:57.205071057Z",
+  "model": "glm-5.3"
+}

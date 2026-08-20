@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "அப்ராஹாமின் புதல்வர்: யித்சாக்கும் யிஷ்மாவேலும்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "அப்ராஹாமின்"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "யித்சாக்"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "யிஷ்மாவேல்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:06.199373655Z",
+  "model": "glm-5.3"
+}

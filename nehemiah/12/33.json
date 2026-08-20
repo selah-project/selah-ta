@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "அஜர்யா, எஸ்ரா, மஷுல்லாம்",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "அஜர்யா"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "எஸ்ரா"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "மஷுல்லாம்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:44:50.146459892Z",
+  "model": "glm-5.3"
+}

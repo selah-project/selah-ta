@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "அவர் சூப்பின் மகன், அவர் எல்க்கானாவின் மகன், அவர் மகாத்தின் மகன், அவர் அமாசாயின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "சூப்பின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "எல்க்கானாவின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "மகாத்தின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "அமாசாயின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:30.488212211Z",
+  "model": "glm-5.3"
+}

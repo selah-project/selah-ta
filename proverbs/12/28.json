@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "நீதியின் பாதையில் ஜீவன் உண்டு, அதன் நெறிப்பாதையில் மரணம் இல்லை.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "பாதையில்"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "நீதியின்"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ஜீவன்"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "அதன் நெறியில்"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "நெறிப்பாதை"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "מות",
+      "gloss": "மரணம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:09:23.369964644Z",
+  "model": "glm-5.3"
+}

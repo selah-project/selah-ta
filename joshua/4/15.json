@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "யாவே யிஹோஷுவாவிடம் பேசி, இவ்வாறு சொன்னார்:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "யிஹோஷுவாவிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "இவ்வாறு சொல்லும்படி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:33:16.876415258Z",
+  "model": "glm-5.3"
+}

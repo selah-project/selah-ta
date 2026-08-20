@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "காமின் மக்கள்: கூஷ், மிஸ்ரயிம், பூட், கநான்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மற்றும் மக்கள்"
+    },
+    {
+      "surface": "חם",
+      "gloss": "காம்"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "கூஷ்"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "மற்றும் மிஸ்ரயிம்"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "மற்றும் பூட்"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "மற்றும் கநான்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:05:56.615088912Z",
+  "model": "glm-5.3"
+}

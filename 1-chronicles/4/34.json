@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "மெஷோபாப், யம்லேக், அமத்சியாவின் மகன் யோஷா —",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "மெஷோபாப்"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "யம்லேக்"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "யோஷா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "அமத்சியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:16.296047373Z",
+  "model": "glm-5.3"
+}

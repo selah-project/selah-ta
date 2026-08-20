@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "லோத், மற்றும் ஓனோ, சிற்பிகளின் பள்ளத்தாக்கு —",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "லோத்"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "மற்றும் ஓனோ"
+    },
+    {
+      "surface": "גי",
+      "gloss": "பள்ளத்தாக்கு"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "சிற்பிகளின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:50.282810513Z",
+  "model": "glm-5.3"
+}

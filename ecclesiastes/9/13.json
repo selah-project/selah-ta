@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "இதையும் நான் கண்டேன் — சூரியனின் கீழ் ஞானம்; அது எனக்குப் பெரியதாக இருக்கிறது.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "இதையும்"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இது"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "நான் கண்டேன்"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ஞானம்"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "கீழ்"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "சூரியனின்"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "மற்றும் பெரியது"
+    },
+    {
+      "surface": "היא",
+      "gloss": "அது"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:51:29.894008065Z",
+  "model": "glm-5.3"
+}

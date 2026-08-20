@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "பில்காவுக்கு ஷம்முவா; ஷெமய்யாவுக்கு யிஹோநாதன்.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "பில்காவுக்கு"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ஷம்முவா"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "ஷெமய்யாவுக்கு"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "யிஹோநாதன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:22:42.824452664Z",
+  "model": "glm-5.3"
+}

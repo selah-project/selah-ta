@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "அதோனிகாமின் புத்திரர் — அறுநூற்று அறுபத்தேழு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "அதோனிகாம்"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "அறுபது"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ஏழு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:15.491448129Z",
+  "model": "glm-5.3"
+}

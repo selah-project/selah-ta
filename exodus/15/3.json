@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "யாவே போர்வீரன்; யாவே ⟨அவருடைய⟩ நாமம்.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "איש",
+      "gloss": "போர்வீரன்"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "போரின்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "அவருடைய நாமம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:32:25.724387485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "மோஷே பர்வோனிடமிருந்து வெளியே போய் யாவேயிடம் வேண்டினார்.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "வெளியே போனார்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "இடமிருந்து"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "பர்வோன்"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "வேண்டினார்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-19T21:30:55.719901173Z",
+  "model": "glm-5.3"
+}

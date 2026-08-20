@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "யிஸ்ரயேல் அடிமையா? வீட்டில் பிறந்த அடிமையா ⟨அவன்⟩? ஏன் அவன் கொள்ளைப்பொருளானான்?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "அடிமை"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "யிஸ்ரயேல்"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ஆ?"
+    },
+    {
+      "surface": "யליד",
+      "gloss": "பிறந்த"
+    },
+    {
+      "surface": "בית",
+      "gloss": "வீட்டில்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவன்"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ஏன்"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ஆனான்"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "கொள்ளைப்பொருள்"
+    }
+  ],
+  "timestamp": "2026-08-20T00:10:52.363518131Z",
+  "model": "glm-5.3"
+}

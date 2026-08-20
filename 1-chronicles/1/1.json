@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "ஆதாம், ஷேத், எனோஷ்.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ஆதாம்"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ஷேத்"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "எனோஷ்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:00.127722306Z",
+  "model": "glm-5.3"
+}

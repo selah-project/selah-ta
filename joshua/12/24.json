@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "திர்சாவின் அரசன் ஒருவன்; எல்லா அரசரும் முப்பத்தொருவர்.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "திர்சாவின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எல்லா"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "அரசரும்"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "முப்பத்தொரு"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-19T22:36:37.882158886Z",
+  "model": "glm-5.3"
+}

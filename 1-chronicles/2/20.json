@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஊர் ⟨את⟩ ஊரியைப் பெற்றான்; ஊரி ⟨את⟩ பெசலேலைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ஊர்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஊரியை"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ஊரி"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ஊரி"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "பெசலேலை"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "பெசலேல்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:25:17.181274733Z",
+  "model": "glm-5.3"
+}

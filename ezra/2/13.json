@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "அதோனிகாமின் புதல்கள் அறுநூற்று அறுபத்தாறு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "அதோனிகாமின்"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "அறுபது"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "மற்றும் ஆறு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:58.557467321Z",
+  "model": "glm-5.3"
+}

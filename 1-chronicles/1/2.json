@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "கேய்னான், மஹலலேல், யெரேத்.",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "கேய்னான்"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "மஹலலேல்"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "யெரேத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:00.127936675Z",
+  "model": "glm-5.3"
+}

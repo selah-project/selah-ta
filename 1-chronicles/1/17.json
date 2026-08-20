@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "சேமின் மக்கள் — ஏலாம், அஷ்ஷூர், அர்பக்ஷத், லூத், அராம், ஊட்ஸ், ஊல், கேத்தேர், மெஷேக்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "שם",
+      "gloss": "சேம்"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ஏலாம்"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "அஷ்ஷூர்"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "அர்பக்ஷத்"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "லூத்"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "அராம்"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "ஊட்ஸ்"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ஊல்"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "கேத்தேர்"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "மெஷேக்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:25:12.115205088Z",
+  "model": "glm-5.3"
+}

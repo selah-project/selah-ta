@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "யாவேவின் நாமம் பலமுள்ள கோபுரம்; நீதிமான் அதில் ஓடி அடைக்கலம் பெறுகிறான்.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "கோபுரம்"
+    },
+    {
+      "surface": "עז",
+      "gloss": "பலம்"
+    },
+    {
+      "surface": "שם",
+      "gloss": "நாமம்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "בו",
+      "gloss": "அதில்"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ஓடுவான்"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "நீதிமான்"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "உயர்த்தப்படுவான்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:11:28.997391802Z",
+  "model": "glm-5.3"
+}

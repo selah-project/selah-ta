@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "செலெஸ் பல்தியன், இரா இக்கேசின் மகன், தெக்கோவன்.",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "செலெஸ்"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "பல்தியன்"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "இரா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "இக்கேசின்"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "தெக்கோவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T23:18:53.701047788Z",
+  "model": "glm-5.3"
+}

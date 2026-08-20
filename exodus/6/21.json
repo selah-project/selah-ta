@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "யித்சஹரின் புதல்கள்: கோராக்கு, நெபெக்கு, சிக்ரீ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "யித்சஹர்"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "கோராக்கு"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "நெபெக்கு"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "சிக்ரீ"
+    }
+  ],
+  "timestamp": "2026-08-19T21:27:26.968330538Z",
+  "model": "glm-5.3"
+}

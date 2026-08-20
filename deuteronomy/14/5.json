@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "மான், வெள்ளிமான், யாக்கமான், காட்டு ஆடு, தீஷோன், காட்டு எருது, மலைமான்.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "மான்"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "வெள்ளிமான்"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "யாக்கமான்"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "காட்டு ஆடு"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "தீஷோன்"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "காட்டு எருது"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "மலைமான்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:22:55.035613286Z",
+  "model": "glm-5.3"
+}

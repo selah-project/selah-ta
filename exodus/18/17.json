@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "மோஷேவின் மாமனார் அவனுக்குச் சொன்னான்: நீ செய்யும் ⟨the⟩ காரியம் நல்லதல்ல.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "மாமனார்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேவின்"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "அவனுக்கு"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "நல்லது"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "காரியம்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "எதை"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "நீ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "செய்கிறாய்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:34:50.686449773Z",
+  "model": "glm-5.3"
+}

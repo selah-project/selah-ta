@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "நீ முழுவதும் அழகு, என் காதலி; உன்னில் குற்றம் இல்லை.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "நீ முழுவதும்"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "அழகு"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "என் காதலி"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "குற்றம்"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "בך",
+      "gloss": "உன்னில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:40:04.999456142Z",
+  "model": "glm-5.3"
+}

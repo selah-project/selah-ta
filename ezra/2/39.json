@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஹாரிமின் புதல்கள் — ஆயிரத்தில் பதினேழு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ஹாரிம்"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:56.225562635Z",
+  "model": "glm-5.3"
+}

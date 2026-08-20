@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 26,
+  "translation": "அவன் அங்கிருந்து பெயர்-ஷெபாவுக்குச் சென்றான்.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "அவன் சென்றான்"
+    },
+    {
+      "surface": "משם",
+      "gloss": "அங்கிருந்து"
+    },
+    {
+      "surface": "באר",
+      "gloss": "பெயர்-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ஷெபா"
+    }
+  ],
+  "timestamp": "2026-08-19T21:13:02.550725999Z",
+  "model": "glm-5.3"
+}

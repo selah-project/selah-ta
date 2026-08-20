@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "சுவர் இல்லாத இடிந்த நகரம் ⟨போல⟩ — தன் உள்ளத்திற்குத் தடையில்லாத மனிதன்.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "நகரம்"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "இடிந்த"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லாத"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "சுவர்"
+    },
+    {
+      "surface": "איש",
+      "gloss": "மனிதன்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அவன்"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லாத"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "தடை"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "தன் உள்ளத்திற்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:15:37.392970598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "நான் சொன்னேன்: ஆகா, அதோனாய் யாவே, இதோ, நான் பேசத் தெரியாதேன், ஏனெனில் நான் சிறுவன்.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "சொன்னேன்"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ஆகா"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாய்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "இதோ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "தெரியாதேன்"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "பேச"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "נער",
+      "gloss": "சிறுவன்"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "நான்"
+    }
+  ],
+  "timestamp": "2026-08-20T00:10:04.277816913Z",
+  "model": "glm-5.3"
+}

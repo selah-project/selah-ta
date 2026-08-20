@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மக்களின் தலைவர்கள்: பர்ஓஷ், பாசத்-மோஆப், ஏலாம், சத்தூ, பானி.",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "தலைவர்கள்"
+    },
+    {
+      "surface": "העם",
+      "gloss": "மக்களின்"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "பர்ஓஷ்"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "பாசத்-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "மோஆப்"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ஏலாம்"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "சத்தூ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "பானி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:44.862291456Z",
+  "model": "glm-5.3"
+}

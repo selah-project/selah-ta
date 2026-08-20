@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "யாகோவ் ஒரு கல்லை எடுத்து, அதைத் தூணாக நிறுத்தினான்.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "எடுத்தான்"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "யாகோவ்"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ஒரு கல்"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "அதை நிறுத்தினான்"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "தூணாக"
+    }
+  ],
+  "timestamp": "2026-08-19T21:15:42.379036582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "நப்தாலிக்கு — அசீரா, எனானின் மகன்.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "நப்தாலிக்கு"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "அசீரா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "எனானின்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:08:56.431872309Z",
+  "model": "glm-5.3"
+}

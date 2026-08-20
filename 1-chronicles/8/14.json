@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "மற்றும் அக்கியோ, ஷாஷாக், மற்றும் யெரேமோத்.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "மற்றும் அக்கியோ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ஷாஷாக்"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "மற்றும் யெரேமோத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:00.634035054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஹராரியனாகிய சாகரின் மகன் அஹியாம், ஊரின் மகன் எலிபால்,",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "அஹியாம்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "சாகர்"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ஹராரியன்"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "எலிபால்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ஊர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:26.210479542Z",
+  "model": "glm-5.3"
+}

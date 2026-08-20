@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மேலும் அஹியா, ஹானான், அனான்.",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "மேலும் அஹியா"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ஹானான்"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "அனான்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:39.266152466Z",
+  "model": "glm-5.3"
+}

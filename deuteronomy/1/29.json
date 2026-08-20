@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "நான் உங்களுக்குச் சொன்னேன்: நடுங்காதே, அவர்களுக்குப் பயப்படாதே.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "சொன்னேன்"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "உங்களுக்கு"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "நடுங்காதே"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "மற்றும் இல்லை"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "பயப்படாதே"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "அவர்களுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T22:16:18.869308280Z",
+  "model": "glm-5.3"
+}

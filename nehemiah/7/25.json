@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "கிப்யோனின் புத்திரர் — தொண்ணூற்றைந்து.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "கிப்யோனின்"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "தொண்ணூற்று"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ஐந்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:27.942004710Z",
+  "model": "glm-5.3"
+}

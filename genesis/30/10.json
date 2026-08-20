@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 30,
+  "translation": "லேயாவின் அடிமைப் பெண் சில்பா யாகோவுக்கு ஒரு மகனைப் பெற்றாள்.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "பெற்றாள்"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "சில்பா"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "அடிமைப் பெண்"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "லேயாவின்"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "யாகோவுக்கு"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:14:33.529161598Z",
+  "model": "glm-5.3"
+}

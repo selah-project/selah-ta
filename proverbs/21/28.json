@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "பொய்ச் சாட்சி அழிவான்; செவி கொடுக்கும் மனிதனோ என்றும் பேசுவான்.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "சாட்சி"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "பொய்"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "அழிவான்"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "மனிதனோ"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "செவி கொடுக்கும்"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "என்றும்"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "பேசுவான்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:12:31.816427971Z",
+  "model": "glm-5.3"
+}

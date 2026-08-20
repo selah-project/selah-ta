@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 94,
+  "translation": "யாவே மனிதனுடைய சிந்தனைகளை அறிகிறார் — அவை வீணென்று",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "அறிகிறார்"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "சிந்தனைகளை"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "மனிதனுடைய"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "המה",
+      "gloss": "அவை"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "வீண்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:47:22.021702731Z",
+  "model": "glm-5.3"
+}

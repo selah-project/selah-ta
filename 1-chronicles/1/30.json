@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "மிஷ்மா, தூமா, மாசா, ஹதத், தேமா.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "மிஷ்மா"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "தூமா"
+    },
+    {
+      "surface": "משא",
+      "gloss": "மாசா"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ஹதத்"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "தேமா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:05.977100728Z",
+  "model": "glm-5.3"
+}

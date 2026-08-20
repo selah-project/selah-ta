@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "அப்ராம் — அவரே ⟨அவர்⟩ அப்ராஹாம்.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "அப்ராம்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவரே"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "அப்ராஹாம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:06.199245775Z",
+  "model": "glm-5.3"
+}

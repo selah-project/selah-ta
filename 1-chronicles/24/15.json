@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "ஹெசீருக்கு பதினேழாமது, ஹப்பிச்சேசுக்கு பதினெட்டாமது.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "ஹெசீருக்கு"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "ஹப்பிச்சேசுக்கு"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "எட்டு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:39:35.745436081Z",
+  "model": "glm-5.3"
+}

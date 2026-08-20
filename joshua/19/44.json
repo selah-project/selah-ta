@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "எல்தெக்கே, கிப்பெத்தோன், பாலாத்.",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "எல்தெக்கே"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "கிப்பெத்தோன்"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "பாலாத்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:38.377260061Z",
+  "model": "glm-5.3"
+}

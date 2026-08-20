@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "யாவேயுடைய வார்த்தை எனக்கு வந்தது, கூறுவதாவது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆனது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேயுடைய"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவதாவது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:47:48.599245875Z",
+  "model": "glm-5.3"
+}

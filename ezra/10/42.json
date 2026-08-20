@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "ஷல்லூம், அமர்யா, யோசேப்.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ஷல்லூம்"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "அமர்யா"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "யோசேப்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:14:32.214965826Z",
+  "model": "glm-5.3"
+}

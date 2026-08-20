@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "யாவேயே, நமக்கு என்ன நேர்ந்ததை நினைவுகூர்வாயாக; உற்றுநோக்கி ⟨את⟩ நம் இழிவைக் காணாயாக.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "நினைவுகூர்வாயாக"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "היה",
+      "gloss": "நேர்ந்தது"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "நமக்கு"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "உற்றுநோக்கி"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "காணாயாக"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "நம் இழிவை"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "நம் இழிவு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:15.686351128Z",
+  "model": "glm-5.3"
+}

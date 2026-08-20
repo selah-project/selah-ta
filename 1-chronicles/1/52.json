@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "தலைவர் ஒஹோலிபாமா, தலைவர் எலா, தலைவர் பினோன்.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "தலைவர்"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ஒஹோலிபாமா"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "தலைவர்"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "எலா"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "தலைவர்"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "பினோன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:15.053248862Z",
+  "model": "glm-5.3"
+}

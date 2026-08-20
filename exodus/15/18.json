@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "யாவே என்றென்றும் ஆராய்ச்சியின்றி அரசாள்வார்.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "அரசாள்வார்"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "என்றென்றும்"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ஆனாளும்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:33:10.167124772Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 28,
+  "translation": "நீ காண்பதைக் கண்ணால் காண்பதால் பித்தனாய் ஆகிவிடுவாய்.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "நீ ஆகிவிடுவாய்"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "பித்தனாய்"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "காண்பதால் (காட்சியால்)"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "உன் கண்ணால்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "எதை"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "நீ காண்பதை"
+    }
+  ],
+  "timestamp": "2026-08-19T22:28:20.408306691Z",
+  "model": "glm-5.3"
+}

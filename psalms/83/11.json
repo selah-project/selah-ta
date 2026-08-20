@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 83,
+  "translation": "அழிந்தனர் எய்ன்-தோரில்; நிலத்திற்கு உரம் ஆனார்கள்.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "அழிந்தனர்"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "எய்னில்"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "தோர்"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ஆனார்கள்"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "உரம்"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "நிலத்திற்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T04:36:43.854079440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "யாகோவின் வீட்டாரே, வாருங்கள்; யாவேயின் ஒளியில் நடப்போம்.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "வீட்டாரே"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "யாகோவின்"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "வாருங்கள்"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "நடப்போம்"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ஒளியில்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேயின்"
+    }
+  ],
+  "timestamp": "2026-08-19T23:45:37.505796581Z",
+  "model": "glm-5.3"
+}

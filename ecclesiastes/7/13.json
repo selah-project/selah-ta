@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "எலோஹீமின் கிரியையைப் பார்; ஏனெனில் அவர் கோணலாக்கியதை நேராக்குவதற்கு யார் வல்லவன்?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "பார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "கிரியையை"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "கிரியை"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "எலோஹீமின்"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "வல்லவன்"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "நேராக்குவதற்கு"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "அதை"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அதை"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "கோணலாக்கியதை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:49:44.845977883Z",
+  "model": "glm-5.3"
+}

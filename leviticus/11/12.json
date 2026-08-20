@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "நீரில் சிறகும் செதிலும் இல்லாதது எதுவோ, அது உங்களுக்கு அருவருப்பானது.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "எல்லா"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "எது"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லாத"
+    },
+    {
+      "surface": "לו",
+      "gloss": "அதற்கு"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "சிறகு"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "மற்றும் செதில்"
+    },
+    {
+      "surface": "במים",
+      "gloss": "நீரில்"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "அருவருப்பு"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அது"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "உங்களுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T21:49:05.845315193Z",
+  "model": "glm-5.3"
+}

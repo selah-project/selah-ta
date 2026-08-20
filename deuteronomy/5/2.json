@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "யாவே எங்கள் எலோஹீம் ஹோரேபில் எங்களுடன் உடன்படிக்கையைச் செய்தார்.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "எங்கள் எலோஹீம்"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "செய்தார்"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "எங்களுடன்"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "உடன்படிக்கை"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ஹோரேபில்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:18:26.851715580Z",
+  "model": "glm-5.3"
+}

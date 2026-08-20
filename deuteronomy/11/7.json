@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஏனெனில் யாவே செய்த சகல ⟨את⟩ மகா பெரிய கிரியைகளை உங்கள் கண்களே கண்டன.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "உங்கள் கண்கள்"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "கண்டன"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "சகல மகா பெரிய கிரியைகளை"
+    },
+    {
+      "surface": "כל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "கிரியை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "மகா பெரிய"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அதை"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "செய்த"
+    }
+  ],
+  "timestamp": "2026-08-19T22:21:24.643059672Z",
+  "model": "glm-5.3"
+}

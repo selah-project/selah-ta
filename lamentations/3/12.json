@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "தன் வில்லை நாணேற்றினார், என்னை நிறுத்தினார் அம்புக்கு இலக்காக.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "நாணேற்றினார்"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "தன் வில்லை"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "என்னை நிறுத்தினார்"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "இலக்காக"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "அம்புக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:17.571260757Z",
+  "model": "glm-5.3"
+}

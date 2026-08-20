@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "யாவே மோஷேவுக்குப் பேசி, சொல்லக்கடவது என்றார்.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடத்தில்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லக்கடவது"
+    }
+  ],
+  "timestamp": "2026-08-19T21:55:14.822569607Z",
+  "model": "glm-5.3"
+}

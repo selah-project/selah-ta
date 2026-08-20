@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பொன் கரண்டி ஒன்று, பத்து சேக்கல், தூபத்தால் நிரப்பப்பட்டது.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "கரண்டி"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ஒன்று"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "பொன்"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "நிரப்பப்பட்டது"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "தூபத்தால்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:09:04.054264547Z",
+  "model": "glm-5.3"
+}

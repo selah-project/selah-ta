@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "ஏசேர் முதலாமவன், ஒபத்யா இரண்டாமவன், எலியாப் மூன்றாமவன்.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "ஏசேர்"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "முதலாமவன்"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ஒபத்யா"
+    },
+    {
+      "surface": "השני",
+      "gloss": "இரண்டாமவன்"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "எலியாப்"
+    },
+    {
+      "surface": "ஹஷלשי",
+      "gloss": "மூன்றாமவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:41.852918594Z",
+  "model": "glm-5.3"
+}

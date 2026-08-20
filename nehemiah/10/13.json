@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 10:13",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "சக்கூர், ஷேரெப்யா, ஷெபன்யா.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "சக்கூர்"
+    },
+    {
+      "surface": "שרביה",
+      "gloss": "ஷேரெப்யா"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ஷெபன்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:44.861945068Z",
+  "model": "glm-5.3"
+}

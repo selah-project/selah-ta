@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பதினொன்றாம் நாளில் அசேர் புதல்வருக்கு நாயகனாகிய ஓக்ரானின் மகன் பகியேல்.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "நாளில்"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "பதினொன்றாம்"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "நாள்"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "நாயகன்"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "புதல்வருக்கு"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அசேர்"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "பகியேல்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ஓக்ரான்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:02:49.151838408Z",
+  "model": "glm-5.3"
+}

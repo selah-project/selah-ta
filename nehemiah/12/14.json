@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "மல்லூக்கிற்கு — யோனதான்; ஷெபன்யாவுக்கு — யோசேப்.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "மல்லூக்கிற்கு"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "யோனதான்"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "ஷெபன்யாவுக்கு"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "யோசேப்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:57.028937771Z",
+  "model": "glm-5.3"
+}

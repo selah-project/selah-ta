@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "கண்களின் காட்சி உயிரின் அலைச்சலைவிட நல்லது; இதுவும் வீணும் ஆவிக்கு எரிச்சலும் ஆகும்.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "நல்லது"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "காட்சி"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "கண்களின்"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "அலைச்சல்"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "உயிரின்"
+    },
+    {
+      "surface": "גם",
+      "gloss": "கூட"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இது"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "வீண்"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "மற்றும் எரிச்சல்"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ஆவிக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:06.178391141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "ஊஸியேலின் புதல்கள்: மீஷாயேல், யெல்சாபான், சித்ரீ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ஊஸியேல்"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "மீஷாயேல்"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "யெல்சாபான்"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "சித்ரீ"
+    }
+  ],
+  "timestamp": "2026-08-19T21:27:26.968626424Z",
+  "model": "glm-5.3"
+}

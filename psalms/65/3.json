@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 65,
+  "translation": "பிரார்த்தனையைச் செவிக்கிறவரே, உம்மிடம் சகல சதையும் வரும்.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "செவிக்கிறவரே"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "பிரார்த்தனையை"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "உம்மிடம்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "சதை"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "வரும்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:38:05.791266943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "அசரேல், ஷெலெம்யாஹு, ஷெமர்யா.",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "அசரேல்"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "மற்றும் ஷெலெம்யாஹு"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ஷெமர்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:14:32.214726628Z",
+  "model": "glm-5.3"
+}

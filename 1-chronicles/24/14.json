@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "பில்காவுக்கு பதினைந்தாமது, இம்மேருக்கு பதினாறாமது.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "பில்காவுக்கு"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ஐந்து"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "இம்மேருக்கு"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:39:35.745134992Z",
+  "model": "glm-5.3"
+}

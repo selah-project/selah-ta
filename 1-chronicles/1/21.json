@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "மேலும் ⟨את⟩ ஹதோராம், ⟨את⟩ உசால், ⟨את⟩ திக்லா.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "மேலும் ⟨את⟩",
+      "marks": "ஹதோராம்"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ஹதோராம்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "உசால்"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "உசால்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "திக்லா"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "திக்லா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:23:58.616074645Z",
+  "model": "glm-5.3"
+}

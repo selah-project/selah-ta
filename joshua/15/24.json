@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "ஸீப், தேலெம், பெய்லோத்.",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "ஸீப்"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "தேலெம்"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "பெய்லோத்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:57.590120502Z",
+  "model": "glm-5.3"
+}

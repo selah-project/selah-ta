@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 30,
+  "translation": "கோவில் அர்ப்பணிப்புக்கான இசைப்பாடல் — தாவீதுடையது.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "இசைப்பாடல்"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "பாடல்"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "அர்ப்பணிப்பு"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "கோவில்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதுடையது"
+    }
+  ],
+  "timestamp": "2026-08-20T01:28:34.681582639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "மிக்மாஸின் புருஷர் — நூற்று இருபத்து இரண்டு.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "புருஷர்"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "மிக்மாஸ்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:15.327675567Z",
+  "model": "glm-5.3"
+}

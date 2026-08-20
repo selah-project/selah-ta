@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 37,
+  "translation": "ஹிஸ்கிய்யாஹு யாவேவிடம் ஜெபம் செய்தார், சொன்னது:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "ஜெபம் செய்தார்"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ஹிஸ்கிய்யாஹு"
+    },
+    {
+      "surface": "אל",
+      "gloss": "விடம்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொன்னது"
+    }
+  ],
+  "timestamp": "2026-08-19T23:57:42.313309047Z",
+  "model": "glm-5.3"
+}

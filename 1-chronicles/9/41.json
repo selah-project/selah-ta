@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "மீகாவின் புத்திரர்: பித்தோன், மெலெக், தஹ்ரேயா.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "மீகாவின்"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "பித்தோன்"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "மெலெக்"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "தஹ்ரேயா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:14.231886920Z",
+  "model": "glm-5.3"
+}

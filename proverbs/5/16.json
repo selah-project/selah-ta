@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "உன் ஊற்றுகள் வெளியே சிதறட்டுமா? தெருக்களில் நீரோடைகள்?",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "சிதறட்டுமா"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "உன் ஊற்றுகள்"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "வெளியே"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "தெருக்களில்"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "நீரோடைகள்"
+    },
+    {
+      "surface": "מים",
+      "gloss": "நீர்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:03:58.050237896Z",
+  "model": "glm-5.3"
+}

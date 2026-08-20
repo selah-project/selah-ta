@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 32,
+  "translation": "யாவே தனியாக அவனை நடத்தினார்; அவருடன் அந்நிய ஏல் இல்லை.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "தனியாக"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "நடத்தினார் அவனை"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "மற்றும் இல்லை"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "அவருடன்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ஏல்"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "அந்நிய"
+    }
+  ],
+  "timestamp": "2026-08-19T22:30:13.454413301Z",
+  "model": "glm-5.3"
+}

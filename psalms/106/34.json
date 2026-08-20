@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 106,
+  "translation": "யாவே தங்களுக்குச் சொன்ன ⟨த⟩ ஜாதிகளை அவர்கள் அழிக்கவில்லை.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "השמிஓ",
+      "gloss": "அழிக்கவில்லை"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஜாதிகளை"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ஜாதிகள்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨என்று⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "சொன்ன"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "להם",
+      "gloss": "தங்களுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T01:51:39.199949768Z",
+  "model": "glm-5.3"
+}

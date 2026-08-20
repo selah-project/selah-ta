@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "தண்ணீர் என் தலைமேல் பொங்கியது; நான் வெட்டப்பட்டுவிட்டேன் என்று சொன்னேன்.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "பொங்கியது"
+    },
+    {
+      "surface": "מים",
+      "gloss": "தண்ணீர்"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "என் தலை"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "சொன்னேன்"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "வெட்டப்பட்டுவிட்டேன்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:53.678540935Z",
+  "model": "glm-5.3"
+}

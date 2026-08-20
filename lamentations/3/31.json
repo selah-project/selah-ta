@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஏனெனில் அதோனாய் என்றென்றும் தள்ளி விட மாட்டார்.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "மாட்டார்"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "தள்ளி விடுவார்"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "என்றென்றும்"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:07.084924302Z",
+  "model": "glm-5.3"
+}

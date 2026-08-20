@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 36,
+  "translation": "இவர்கள் திஷானின் புத்திரர்: உட்ஸ், அரான்.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "இவர்கள்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…புத்திரர்"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "திஷானின்"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "உட்ஸ்"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "மற்றும் அரான்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:17:41.261827665Z",
+  "model": "glm-5.3"
+}

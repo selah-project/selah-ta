@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "சுமை — அதை கவித்துவம் கண்டான் அவ்வாறு செய்தவன்; ஹவக்கூக் தீர்க்கதரிசி ⟨the⟩ கண்டார்.",
+  "tokens": [],
+  "timestamp": "2026-08-20T01:12:47.759623457Z",
+  "model": "glm-5.3"
+}

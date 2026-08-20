@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "யெதியாவேல் சிம்ரியின் மகன், மற்றும் அவன் சகோதரன் யோஹா ⟨ה⟩திசியன்,",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "யெதியாவேல்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "சிம்ரி"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "மற்றும் யோஹா"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "அவன் சகோதரன்"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "திசியன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:27.200959720Z",
+  "model": "glm-5.3"
+}

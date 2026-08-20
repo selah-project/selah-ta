@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பின்னூவின் புதல்கள் அறுநூற்று நாற்பத்தெட்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "பின்னூ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூறுகள்"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "நாற்பது"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "மற்றும் எட்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:18:56.739426869Z",
+  "model": "glm-5.3"
+}

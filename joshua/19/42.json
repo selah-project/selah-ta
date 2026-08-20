@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "ஷாலப்பீன், அய்யாலோன், யித்லா.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ஷாலப்பீன்"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "அய்யாலோன்"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "யித்லா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:38.377043968Z",
+  "model": "glm-5.3"
+}

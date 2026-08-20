@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "ஞானம் கூவவில்லையா? புத்தியும் தன் குரலைத் தரவில்லையா?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "இல்லையா"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ஞானம்"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "கூவுகிறது"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "மற்றும் புத்தியும்"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "தருகிறது"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "தன் குரலை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:06:36.241659643Z",
+  "model": "glm-5.3"
+}

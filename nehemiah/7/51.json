@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "கஸ்ஸாமின் புதல்வர், உஸ்ஸாவின் புதல்வர், பாசேயாச்சின் புதல்வர்,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "கஸ்ஸாம்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "உஸ்ஸா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "பாசேயாச்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:37.752072581Z",
+  "model": "glm-5.3"
+}

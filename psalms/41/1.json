@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 41,
+  "translation": "இசைத்தலைவனுக்கு — ஒரு மசமோர் — தாவீதுக்கு.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத்தலைவனுக்கு"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "மசமோர்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T01:31:44.342730906Z",
+  "model": "glm-5.3"
+}

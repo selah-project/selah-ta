@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஏனெனில் கும்பத்தின் கீழ் முள்ளெல்லாம் சிதறும் ஒலிபோல, மூடனுடைய சிரிப்பு அப்படியே; இதுவும் வீணே.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ஒலிபோல"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "முள்ளெல்லாம்"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "கீழ்"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "கும்பத்தின்"
+    },
+    {
+      "surface": "כן",
+      "gloss": "அப்படியே"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "சிரிப்பு"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "மூடனுடைய"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "இதுவும்"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இது"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "வீணே"
+    }
+  ],
+  "timestamp": "2026-08-20T02:49:22.161027692Z",
+  "model": "glm-5.3"
+}

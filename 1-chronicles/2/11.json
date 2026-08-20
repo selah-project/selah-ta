@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "நச்சோன் ⟨את⟩ சல்மாவைப் பெற்றான்; சல்மா ⟨את⟩ போவஸைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "நச்சோன்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "சல்மா"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "சல்மா"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "சல்மா"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "போவஸ்"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "போவஸ்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:36.883906671Z",
+  "model": "glm-5.3"
+}

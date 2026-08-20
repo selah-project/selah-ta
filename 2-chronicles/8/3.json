@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "ஷெலோமோ கமாத்-சோவாவுக்குச் சென்று அதன்மேல் வல்லமை பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "சென்றான்"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ஷெலோமோ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "கமாத்"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "சோவா"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "வல்லமை பெற்றான்"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "அதன்மேல்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:47:16.119807762Z",
+  "model": "glm-5.3"
+}

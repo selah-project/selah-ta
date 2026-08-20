@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "கழுதைகள் — அறுபத்தொன்று ஆயிரம்.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "கழுதைகள்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒன்று"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "அறுபது"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:13:40.290913455Z",
+  "model": "glm-5.3"
+}

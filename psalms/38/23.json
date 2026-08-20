@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 38,
+  "translation": "என் உதவிக்கு விரைந்து வா, அதோனாயே, என் மீட்பே.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "விரைந்து வா"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "என் உதவிக்கு"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாயே"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "என் மீட்பே"
+    }
+  ],
+  "timestamp": "2026-08-20T01:31:49.919317911Z",
+  "model": "glm-5.3"
+}

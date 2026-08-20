@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "யெஹூதா, பின்யாமின், ஷெமயா, யிர்மெயா",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "யெஹூதா"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "பின்யாமின்"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "ஷெமயா"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "யிர்மெயா"
+    }
+  ],
+  "timestamp": "2026-08-20T04:44:50.146868392Z",
+  "model": "glm-5.3"
+}

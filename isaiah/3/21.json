@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "மோதிரங்கள், மூக்குத்துளை மோதிரங்கள்,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "மோதிரங்கள்"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "மூக்குத்துளை மோதிரங்கள்"
+    },
+    {
+      "surface": "האף",
+      "gloss": "மூக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T23:47:10.161358694Z",
+  "model": "glm-5.3"
+}

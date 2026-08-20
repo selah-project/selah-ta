@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "இசைத் தலைவனுக்கு; தாவீதின் மஜ்மூர்.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத் தலைவனுக்கு"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "மஜ்மூர்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:26:58.552566421Z",
+  "model": "glm-5.3"
+}

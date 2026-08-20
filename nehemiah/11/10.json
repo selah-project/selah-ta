@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "காஹன்களில் இருந்து: யெதாயா யோயாரிபின் மகன், யாக்கின்.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "இருந்து"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "காஹன்கள்"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "யெதாயா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "யோயாரிப்"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "யாக்கின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:22:28.343963817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "மோஷே சபையிடம் சொன்னார்: இது அவர் செய்யும்படி யாவே கட்டளையிட்ட ⟨את⟩ வார்த்தை.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "சபை"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இது"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அது"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "கட்டளையிட்ட"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "செய்யும்படி"
+    }
+  ],
+  "timestamp": "2026-08-19T21:47:36.708524750Z",
+  "model": "glm-5.3"
+}

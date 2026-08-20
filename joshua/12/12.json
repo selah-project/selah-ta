@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "எக்லோனின் அரசன் ஒருவன்; கெசெரின் அரசன் ஒருவன்;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "எக்லோனின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "கெசெரின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:36:28.860153354Z",
+  "model": "glm-5.3"
+}

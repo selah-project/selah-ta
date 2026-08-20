@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "ஆரோனில் ⟨את⟩ சாட்சியை வைப்பாய் — நான் உனக்குத் தரப்போகும் சாட்சியை.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "வைப்பாய்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இல்"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ஆரோன்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "சாட்சியை"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "சாட்சி"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அதை"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "தரப்போகிறேன்"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "உனக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T21:36:58.573158401Z",
+  "model": "glm-5.3"
+}

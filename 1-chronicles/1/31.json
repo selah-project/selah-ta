@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "யித்தூர், நாபீஷ், கேதேமா — இவர்களே யிஷ்மாவேலின் மக்கள்.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "யித்தூர்"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "நாபீஷ்"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "கேதேமா"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "இவர்கள்"
+    },
+    {
+      "surface": "הם",
+      "gloss": "அவர்களே"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "யிஷ்மாவேலின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:05.977267755Z",
+  "model": "glm-5.3"
+}

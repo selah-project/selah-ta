@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "மேகத்தால் உன்னை மூடிக்கொண்டாய், ஜெபம் கடந்து செல்லாதபடி.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "மூடிக்கொண்டாய்"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "மேகத்தால்"
+    },
+    {
+      "surface": "לך",
+      "gloss": "உன்னை"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "கடந்து செல்ல"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ஜெபம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:50.233398483Z",
+  "model": "glm-5.3"
+}

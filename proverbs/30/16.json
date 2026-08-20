@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 30,
+  "translation": "ஷிஓல், மலடான கர்ப்பம், தண்ணீரால் நிறையாத நிலம், 'போதும்' என்று சொல்லாத நெருப்பு.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ஷிஓல்"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "மலடான"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "கர்ப்பம்"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "நிலம்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "ஷபஎஹ",
+      "gloss": "நிறையாத"
+    },
+    {
+      "surface": "מים",
+      "gloss": "தண்ணீரால்"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "நெருப்பு"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "சொல்லாத"
+    },
+    {
+      "surface": "הון",
+      "gloss": "போதும்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:18:18.049243664Z",
+  "model": "glm-5.3"
+}

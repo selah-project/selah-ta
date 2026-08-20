@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "யாவே மோஷேவிடம் பேசி, இவ்வாறு சொல்லக் கூறினார்:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "இவ்வாறு சொல்ல"
+    }
+  ],
+  "timestamp": "2026-08-19T21:55:59.019408133Z",
+  "model": "glm-5.3"
+}

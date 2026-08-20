@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 16,
+  "translation": "அவரே நம் தேவனாகிய யாவே; ⟨the⟩ சகல பூமியிலும் அவருடைய நியாயங்கள்.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "அவரே"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "நம் தேவன்"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "பூமியிலும்"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "அவருடைய நியாயங்கள்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:34:34.957712203Z",
+  "model": "glm-5.3"
+}

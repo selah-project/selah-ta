@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 41,
+  "translation": "இதோ, ஏழு ஆண்டுகள் வருகின்றன — எகிப்து தேசம் முழுவதிலும் பெரிய செழிப்பு.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "இதோ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ஆண்டுகள்"
+    },
+    {
+      "surface": "באות",
+      "gloss": "வருகின்றன"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "செழிப்பு"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "பெரிய"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "முழுவதிலும்"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "தேசம்"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "எகிப்து"
+    }
+  ],
+  "timestamp": "2026-08-19T21:20:41.587474318Z",
+  "model": "glm-5.3"
+}

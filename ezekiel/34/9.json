@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 34,
+  "translation": "ஆகவே, இடையர்களே, கேளுங்கள் யாவேவின் வார்த்தையை",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ஆகவே"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "இடையர்களே"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "கேளுங்கள்"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தையை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-20T00:50:46.030484411Z",
+  "model": "glm-5.3"
+}

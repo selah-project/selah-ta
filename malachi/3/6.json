@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஏனெனில் நான் யாவே; நான் மாறவில்லை; யாகோவின் புதல்லரே, நீங்கள் அழியவில்லை.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "மாறவில்லை"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "நீங்கள்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்லர்"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "யாகோவின்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "அழியவில்லை"
+    }
+  ],
+  "timestamp": "2026-08-20T04:34:53.535810275Z",
+  "model": "glm-5.3"
+}

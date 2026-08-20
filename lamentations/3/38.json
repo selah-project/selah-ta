@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "உன்னதமானவருடைய வாயிலிருந்து தீமைகளும் நன்மையும் புறப்படாதா ⟨புறப்படுமா⟩?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "வாயிலிருந்து"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "உன்னதமானவர்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "புறப்படாதா"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "தீமைகள்"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "மற்றும் நன்மை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:21.101615433Z",
+  "model": "glm-5.3"
+}

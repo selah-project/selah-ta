@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "ரெமெத், என்-கன்னிம், என்-சத்தா, பெத்-பத்செசு.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "ரெமெத்"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "என்"
+    },
+    {
+      "surface": "ஒנים",
+      "gloss": "கன்னிம்"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "என்"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "சத்தா"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "பெத்"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "பத்செசு"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:56.387417914Z",
+  "model": "glm-5.3"
+}

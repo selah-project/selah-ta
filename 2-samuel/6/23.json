@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "சவுலின் மகளாகிய மீக்காலுக்கு அவள் மரணநாள் வரை பிள்ளை ⟨was⟩ இல்லை.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "மற்றும் மீக்காலுக்கு"
+    },
+    {
+      "surface": "בת",
+      "gloss": "மகளாகிய"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "சவுலின்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ஆயிற்று"
+    },
+    {
+      "surface": "לה",
+      "gloss": "அவளுக்கு"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பிள்ளை"
+    },
+    {
+      "surface": "עד",
+      "gloss": "வரை"
+    },
+    {
+      "surface": "יום",
+      "gloss": "நாள்"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "அவள் மரண"
+    }
+  ],
+  "timestamp": "2026-08-19T23:09:56.413823305Z",
+  "model": "glm-5.3"
+}

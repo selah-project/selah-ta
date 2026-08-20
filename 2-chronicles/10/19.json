@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "இஸ்ரவேல் தாவீது வம்சத்திற்கு எதிராகக் கலகம் செய்தது — இந்த நாள் வரை.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "கலகம் செய்தது"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேல்"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "வம்சத்திற்கு எதிராக"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "தாவீது"
+    },
+    {
+      "surface": "עד",
+      "gloss": "வரை"
+    },
+    {
+      "surface": "היום",
+      "gloss": "நாள்"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "இந்த"
+    }
+  ],
+  "timestamp": "2026-08-20T03:46:48.636443331Z",
+  "model": "glm-5.3"
+}

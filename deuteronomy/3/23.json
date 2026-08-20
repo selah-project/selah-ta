@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "அந்த நேரத்திலே யாவைய நோக்கி இரஞ்சினேன், கூறி:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "இரஞ்சினேன்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "நோக்கி"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவைய"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "நேரத்திலே"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "அந்த"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:17:37.306413481Z",
+  "model": "glm-5.3"
+}

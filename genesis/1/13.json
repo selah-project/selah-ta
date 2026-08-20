@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "மாலை ஆயிற்று, காலை ஆயிற்று — மூன்றாம் நாள்.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆயிற்று"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "மாலை"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ஆயிற்று"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "காலை"
+    },
+    {
+      "surface": "יום",
+      "gloss": "நாள்"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "மூன்றாம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:02:38.795115584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 26,
+  "translation": "அசேரின் மகளின் பெயர் சாரா.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "மற்றும் பெயர்"
+    },
+    {
+      "surface": "בת",
+      "gloss": "மகள்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அசேரின்"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "சாரா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:12:15.466268341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 46,
+  "translation": "லேவியின் மக்கள்: கெர்ஷோன், கெகாத், மெராரி.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "லேவியின்"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "கெர்ஷோன்"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "கெகாத்"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "மெராரி"
+    }
+  ],
+  "timestamp": "2026-08-19T21:22:54.402893966Z",
+  "model": "glm-5.3"
+}

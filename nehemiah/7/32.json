@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பெய்த்-ஏல் மற்றும் ஹாய்யின் புருஷர் — நூற்று இருபத்து மூன்று.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "புருஷர்"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பெய்த்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ஏல்"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "மற்றும் ஹாய்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "மூன்று"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:15.327878565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "காத் யாவேவின் நாமத்தில் பேசிய வார்த்தைப்படி தாவீது ஏறிப்போனார்.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ஏறிப்போனார்"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "தாவீது"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "வார்த்தைப்படி"
+    },
+    {
+      "surface": "גד",
+      "gloss": "காத்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அவர்"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "பேசிய"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "நாமத்தில்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:37:18.387091397Z",
+  "model": "glm-5.3"
+}

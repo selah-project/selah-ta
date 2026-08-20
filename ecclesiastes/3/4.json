@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "அழ ஒரு காலம், சிரிக்க ஒரு காலம்; புலம்ப ஒரு காலம், ஆட ஒரு காலம்.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ஒரு காலம்"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "அழ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "மற்றும் ஒரு காலம்"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "சிரிக்க"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ஒரு காலம்"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "புலம்ப"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "மற்றும் ஒரு காலம்"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "ஆட"
+    }
+  ],
+  "timestamp": "2026-08-20T02:48:40.042141758Z",
+  "model": "glm-5.3"
+}

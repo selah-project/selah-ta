@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "இப்போது ஆசாரியரே, உங்களுக்கு ⟨is⟩ இந்தக் கட்டளை.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "இப்போது"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "உங்களுக்கு"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "கட்டளை"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "இந்த"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ஆசாரியரே"
+    }
+  ],
+  "timestamp": "2026-08-20T01:20:55.330520415Z",
+  "model": "glm-5.3"
+}

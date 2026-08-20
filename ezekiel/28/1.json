@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 28:1",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 28,
+  "translation": "மேலும் யாவேவின் வார்த்தை எனக்கு வந்தது, சொல்லும்:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "மேலும் ஆனது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லும்"
+    }
+  ],
+  "timestamp": "2026-08-20T00:50:00.275232842Z",
+  "model": "glm-5.3"
+}

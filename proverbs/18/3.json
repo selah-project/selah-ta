@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "தீயவன் வரும்போது இகழ்ச்சியும் வரும்; அவமானத்துடன் நிந்தனையும் ⟨வரும்⟩.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "வரும்போது"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "தீயவன்"
+    },
+    {
+      "surface": "בא",
+      "gloss": "வரும்"
+    },
+    {
+      "surface": "גם",
+      "gloss": "கூட"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "இகழ்ச்சி"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "அவமானத்துடன்"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "நிந்தனை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:11:35.631460494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "லெபானாவின் மக்கள், ஹகாபாவின் மக்கள், ஷல்மாயின் மக்கள்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "லெபானா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ஹகாபா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ஷல்மாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:41.889064407Z",
+  "model": "glm-5.3"
+}

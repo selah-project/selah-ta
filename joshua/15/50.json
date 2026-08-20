@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "அனாபையும், எஷ்தெமோவையும், அனீமையும்.",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "அனாப்"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "எஷ்தெமோ"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "அனீம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:27.515030388Z",
+  "model": "glm-5.3"
+}

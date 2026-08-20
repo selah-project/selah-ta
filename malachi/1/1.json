@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "மலாக்கியின் கைவழியாக இஸ்ரவேலுக்கு யாவேயின் வார்த்தையின் சுமை.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "சுமை"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேலுக்கு"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "கைவழியாக"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "மலாக்கியின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:20:48.273252764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 29,
+  "translation": "யாவேவின் வார்த்தை யிர்மெயாவுக்கு வந்தது, கூறி:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "வந்தது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "க்கு"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "யிர்மெயாவு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறி"
+    }
+  ],
+  "timestamp": "2026-08-20T00:23:45.400545561Z",
+  "model": "glm-5.3"
+}

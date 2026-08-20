@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "மிகாயேலின் மகன், பஆசேயாவின் மகன், மல்கியாவின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "மிகாயேல்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "பஆசேயா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "மல்கியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:38.342025370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "செருக் முப்பது ஆண்டுகள் வாழ்ந்து நாகோரைப் பெற்றார்.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "வாழ்ந்தார்"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "செருக்"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ஆண்டுகள்"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "நாகோரை"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "நாகோர்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:16.691971368Z",
+  "model": "glm-5.3"
+}

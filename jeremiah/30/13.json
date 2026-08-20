@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 30:13",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 30,
+  "translation": "உன் வழக்கை ⟨the⟩ நடத்துபவர் இல்லை, ⟨the⟩ கட்டுதலுக்கு; ஆற்றும் மருந்துகள் உனக்கு இல்லை.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "דן",
+      "gloss": "நடத்துபவர்"
+    },
+    {
+      "surface": "דינך",
+      "gloss": "உன் வழக்கை"
+    },
+    {
+      "surface": "למזור",
+      "gloss": "கட்டுதலுக்கு"
+    },
+    {
+      "surface": "רפאות",
+      "gloss": "மருந்துகள்"
+    },
+    {
+      "surface": "תעלale",
+      "gloss": "ஆற்றும்"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "לך",
+      "gloss": "உனக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T00:25:25.562633479Z",
+  "model": "glm-5.3"
+}

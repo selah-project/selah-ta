@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "பிள்ளைகள் — சிம்யோன்: நெமுவேல், யாமீன், யாரீவ், ஸேராக், சவுல்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "பிள்ளைகள்"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "சிம்யோன்"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "நெமுவேல்"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "யாமீன்"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "யாரீவ்"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ஸேராக்"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "சவுல்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:51.672993088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "யாவே மோஷேயிடம் பேசினார், கூறி:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேயிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறி"
+    }
+  ],
+  "timestamp": "2026-08-20T04:08:17.817126130Z",
+  "model": "glm-5.3"
+}

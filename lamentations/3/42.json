@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "நாம் குற்றம் செய்தோம், கலகம் செய்தோம் — நீ மன்னிக்கவில்லை.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "நாம்"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "குற்றம் செய்தோம்"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "கலகம் செய்தோம்"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "நீ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "மன்னித்தாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:50.232872223Z",
+  "model": "glm-5.3"
+}

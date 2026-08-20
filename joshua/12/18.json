@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "அபேக் அரசன் — ஒருவன்; லஷ்ஷாரோன் அரசன் — ஒருவன்;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "அபேக்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "லஷ்ஷாரோன்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:37:14.464870347Z",
+  "model": "glm-5.3"
+}

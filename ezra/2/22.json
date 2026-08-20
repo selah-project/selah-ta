@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "நெத்தோப்பா மனிதர்கள் — ஐம்பத்து ஆறு.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "மனிதர்கள்"
+    },
+    {
+      "surface": "நטפה",
+      "gloss": "நெத்தோப்பா"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ஆறு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:07:59.127026116Z",
+  "model": "glm-5.3"
+}

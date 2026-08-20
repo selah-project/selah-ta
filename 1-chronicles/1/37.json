@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "ரெவூவேலின் மக்கள்: நாஹத், சேராஹ், ஷம்மா, மிஸ்ஸா.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ரெவூவேலின்"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "நாஹத்"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "சேராஹ்"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ஷம்மா"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "மிஸ்ஸா"
+    }
+  ],
+  "timestamp": "2026-08-20T04:45:07.597722459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "கொல்ல ஒரு காலம், குணமாக்க ஒரு காலம்; இடிக்க ஒரு காலம், கட்ட ஒரு காலம்.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ஒரு காலம்"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "கொல்ல"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "மற்றும் ஒரு காலம்"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "குணமாக்க"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ஒரு காலம்"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "இடிக்க"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "மற்றும் ஒரு காலம்"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "கட்ட"
+    }
+  ],
+  "timestamp": "2026-08-20T02:48:40.040761758Z",
+  "model": "glm-5.3"
+}

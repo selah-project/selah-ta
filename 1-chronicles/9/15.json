@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "பக்பக்கர், சேரெஷ், கலால், மத்தன்யா — மீகாவின் மகன், ஸிக்ரியின் மகன், ஆசாபின் மகன்.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "பக்பக்கர்"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "சேரெஷ்"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "கலால்"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "மத்தன்யா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "மீகாவின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ஸிக்ரியின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ஆசாபின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:30:23.365059659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "செனான், மற்றும் ஹதாஷா, மற்றும் மிக்தல்-காத்,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "செனான்"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "மற்றும் ஹதாஷா"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "மற்றும் மிக்தல்"
+    },
+    {
+      "surface": "גד",
+      "gloss": "-காத்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:27.204947980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "சாராயோ மலடாக இருந்தாள்; அவளுக்குச் சேய் ⟨இல்லை⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ஆனாள்"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "சாராய்"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "மலடாக"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "לה",
+      "gloss": "அவளுக்கு"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "சேய்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:07:03.167515853Z",
+  "model": "glm-5.3"
+}

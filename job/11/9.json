@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "அதன் அளவு நிலத்தினும் நீளமானது, கடலினும் அகலமானது.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "நீளமானது"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "நிலத்தினும்"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "அளவு"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "அகலமானது"
+    },
+    {
+      "surface": "מני",
+      "gloss": "விட"
+    },
+    {
+      "surface": "ים",
+      "gloss": "கடல்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:23:19.183405788Z",
+  "model": "glm-5.3"
+}

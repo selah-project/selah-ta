@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "அறுபது அரசிகள் இருக்கிறார்கள், எண்பது வைப்பாட்டிகள், எண்ணற்ற கன்னிகள்.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "அறுபது"
+    },
+    {
+      "surface": "המה",
+      "gloss": "அவர்கள்"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "அரசிகள்"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "எண்பது"
+    },
+    {
+      "surface": "தילגשים",
+      "gloss": "வைப்பாட்டிகள்"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "கன்னிகள்"
+    },
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "எண்ணம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:39:28.864849876Z",
+  "model": "glm-5.3"
+}

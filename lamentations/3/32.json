@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஏனெனில் துன்புறுத்தினாலும், தம் கிருபையின் மிகுதிக்கேற்ப இரங்குவார்.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ஆனாலும்"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "துன்புறுத்தினார்"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "இரங்குவார்"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "மிகுதிக்கேற்ப"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "தம் கிருபை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:07.085075478Z",
+  "model": "glm-5.3"
+}

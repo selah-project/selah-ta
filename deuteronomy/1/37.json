@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "என்னிடமும் கூட யாவே உங்கள் காரணத்தால் கோபம் கொண்டார், கூறி: நீயும் கூட அங்கே வரமாட்டாய்.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "கூட"
+    },
+    {
+      "surface": "בי",
+      "gloss": "என்னிடம்"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "கோபம் கொண்டார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "உங்கள் காரணத்தால்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறி"
+    },
+    {
+      "surface": "גם",
+      "gloss": "கூட"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "நீயும்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "மாட்டாய்"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "வர"
+    },
+    {
+      "surface": "שם",
+      "gloss": "அங்கே"
+    }
+  ],
+  "timestamp": "2026-08-19T22:16:23.597992946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஒரு மனிதனுடன் காரணமின்றி வழக்காடாதே, அவன் உனக்குத் தீமை செய்யாதவிடத்து.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "வேண்டாம்"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "வழக்காடாதே"
+    },
+    {
+      "surface": "עם",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "மனிதனுடன்"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "காரணமின்றி"
+    },
+    {
+      "surface": "אם",
+      "gloss": "எப்போது"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "உனக்குச் செய்த"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "தீமை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:04:24.879333480Z",
+  "model": "glm-5.3"
+}

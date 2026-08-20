@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "அமாம், வஷெமா, வமோலாதா.",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "அமாம்"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "வஷெமா"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "வமோலாதா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:28.032459772Z",
+  "model": "glm-5.3"
+}

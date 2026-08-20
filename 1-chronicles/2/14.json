@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "நதனேல் நான்காமவன், ரத்தாய் ஐந்தாமவன்.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "நதனேல்"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "நான்காமவன்"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ரத்தாய்"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ஐந்தாமவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:25:06.934785946Z",
+  "model": "glm-5.3"
+}

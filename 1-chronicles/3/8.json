@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "எலிஷாமா, எலியாதா, எலிப்பேலெத் — ஒன்பது பேர்.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "எலிஷாமா"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "எலியாதா"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "எலிப்பேலெத்"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ஒன்பது"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:15.985051846Z",
+  "model": "glm-5.3"
+}

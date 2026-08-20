@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "அவன் ⟨את⟩ பேத்லெசெம்மையும் ⟨את⟩ ஏத்தாமையும் ⟨את⟩ தெக்கோவாவையும் கட்டினான்.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "கட்டினான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "பேத்லெசெம்"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "லெசெம்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ஏத்தாம்"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ஏத்தாம்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "தெக்கோவா"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "தெக்கோவா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:46:52.522163654Z",
+  "model": "glm-5.3"
+}

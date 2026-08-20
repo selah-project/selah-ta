@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 129,
+  "translation": "யாவே ⟨is⟩ நீதியுள்ளவர்; தீயவர்களின் கயிறுகளை அறுத்தார்.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "நீதியுள்ளவர்"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "அறுத்தார்"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "கயிறுகளை"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "தீயவர்களின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:57:39.415556759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "என் முகத்திற்கு மேலாக உனக்கு வேறு தெய்வங்கள் இருக்கக் கூடாது.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "இருக்கக் கூடாது"
+    },
+    {
+      "surface": "לך",
+      "gloss": "உனக்கு"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "தெய்வங்கள்"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "வேறு"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேலாக"
+    },
+    {
+      "surface": "פני",
+      "gloss": "முகத்திற்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T22:19:00.931664746Z",
+  "model": "glm-5.3"
+}

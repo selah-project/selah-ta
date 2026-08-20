@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "சூரியனையும் கூட ⟨הוא⟩ காணவில்லை, அறியவுமில்லை; இதற்கு அதைவிட ஓய்வு உண்டு.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "கூட"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "சூரியனை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "காணவில்லை"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "மற்றும்-இல்லை"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "அறியவில்லை"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ஓய்வு"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "இதற்கு"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "அதைவிட"
+    }
+  ],
+  "timestamp": "2026-08-20T02:51:05.461272549Z",
+  "model": "glm-5.3"
+}

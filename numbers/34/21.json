@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 34,
+  "translation": "பின்யாமின் கோத்திரத்திற்கு எலிதாத், கிஸ்லோனின் மகன்.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "கோத்திரத்திற்கு"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "பின்யாமின்"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "எலிதாத்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "கிஸ்லோன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:14:57.332051533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "ஆனன்யா, ஏலாம், அந்தோத்தியா.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "ஆனன்யா"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "ஏலாம்"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "அந்தோத்தியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:47.368346995Z",
+  "model": "glm-5.3"
+}

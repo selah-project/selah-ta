@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "சாதீத், த்செபோயிம், நெவல்லாத் —",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "சாதீத்"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "த்செபோயிம்"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "நெவல்லாத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:50.282626393Z",
+  "model": "glm-5.3"
+}

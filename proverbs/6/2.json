@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "வலையில் அகப்பட்டாய்"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "வார்த்தைகளால்"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "உன் வாயின்"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "பிடிபட்டாய்"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "வார்த்தைகளால்"
+    },
+    {
+      "surface": "தיך",
+      "gloss": "உன் வாயின்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:05:11.175387381Z",
+  "model": "glm-5.3"
+}

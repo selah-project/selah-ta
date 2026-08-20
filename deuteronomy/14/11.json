@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "சுத்தமான எல்லாப் பறவைகளையும் நீங்கள் சாப்பிடலாம்.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "எல்லா"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "பறவை"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "சுத்தமான"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "நீங்கள் சாப்பிடலாம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:22:37.245726703Z",
+  "model": "glm-5.3"
+}

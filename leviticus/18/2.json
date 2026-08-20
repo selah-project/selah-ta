@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "இஸ்ரவேல் புத்திரரிடம் பேசு, அவர்களிடம் சொல்: நான் யாவே உங்கள் எலோஹீம்.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "பேசு"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடத்தில்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேல்"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "சொல்"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "அவர்களிடம்"
+    },
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "உங்கள் எலோஹீம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:53:33.526061462Z",
+  "model": "glm-5.3"
+}

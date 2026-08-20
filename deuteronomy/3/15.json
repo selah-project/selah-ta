@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "மாக்கீருக்கு ⟨את⟩ கில்யாதை நான் கொடுத்தேன்.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "மாக்கீருக்கு"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "நான் கொடுத்தேன்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "கில்யாதை"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "கில்யாதை"
+    }
+  ],
+  "timestamp": "2026-08-19T22:17:53.324708735Z",
+  "model": "glm-5.3"
+}

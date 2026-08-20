@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 33,
+  "translation": "மோஷே எங்களுக்கு ஒரு தோராவைக் கட்டளையிட்டார் — யாகோவின் சபையின் சொத்தாகிய தோரா.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "தோராவை"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "கட்டளையிட்டார்"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "எங்களுக்கு"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "சொத்தாகிய"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "சபையின்"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "யாகோவின்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:31:37.842134818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "பின்யாமின், மல்லூக், ஷெமர்யா.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "பின்யாமின்"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "மல்லூக்"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ஷெமர்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:13:33.936114639Z",
+  "model": "glm-5.3"
+}

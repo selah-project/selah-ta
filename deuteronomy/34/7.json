@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 34,
+  "translation": "மோஷே மரிக்கும்போது நூற்றிருபது வயதனாக இருந்தான்; அவன் கண் மங்கவில்லை, அவன் பசுமை மறையவில்லை.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகனாக"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "வயது"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "மரிக்கும்போது"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "மங்கியது"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "அவன் கண்"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "נס",
+      "gloss": "மறைந்தது"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "பசுமை"
+    }
+  ],
+  "timestamp": "2026-08-19T22:31:51.676777326Z",
+  "model": "glm-5.3"
+}

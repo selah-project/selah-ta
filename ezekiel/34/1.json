@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 34,
+  "translation": "யாவேவின் வார்த்தை எனக்கு வந்தது, கூறுவதாவது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆகியது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவதாவது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:52:03.155254369Z",
+  "model": "glm-5.3"
+}

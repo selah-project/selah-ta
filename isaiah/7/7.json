@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "இப்படிச் சொன்னார் அதோனாய் யாவே: அது நிற்காது, ஆகவும் இராது.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "இப்படி"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாய்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "நிற்காது"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "மற்றும் இல்லை"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ஆகவும் இராது"
+    }
+  ],
+  "timestamp": "2026-08-19T23:48:07.139263477Z",
+  "model": "glm-5.3"
+}

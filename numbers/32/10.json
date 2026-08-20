@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 32,
+  "translation": "அன்று யாவேவுக்குச் சினம் மூண்டது, அவர் ஆணையிட்டுச் சொன்னார்:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "மூண்டது"
+    },
+    {
+      "surface": "אף",
+      "gloss": "சினம்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "அன்று"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "அந்த"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ஆணையிட்டார்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:14:21.064427958Z",
+  "model": "glm-5.3"
+}

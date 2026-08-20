@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "ஏனெனில் வேசி ஒரு ஆழ்ந்த குழி; அந்நிய ஸ்திரீ ஒரு நெருங்கிய கிணறு.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "குழி"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ஆழ்ந்த"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "வேசி"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "மற்றும் கிணறு"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "நெருங்கிய"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "அந்நிய ஸ்திரீ"
+    }
+  ],
+  "timestamp": "2026-08-20T02:14:15.679495537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "இஷ்பான், ஏவெர், எலியேல்.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "இஷ்பான்"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ஏவெர்"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "எலியேல்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:47.368077658Z",
+  "model": "glm-5.3"
+}

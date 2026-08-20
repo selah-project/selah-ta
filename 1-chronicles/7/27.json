@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "நூன் அவன் மகன், யெஹோசுவா அவன் மகன்.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "நூன்"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "யெஹோசுவா"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "அவன் மகன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:28.648432901Z",
+  "model": "glm-5.3"
+}

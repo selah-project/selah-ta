@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "மூடனுடைய வழி அவன் கண்களில் நேரானது; ஆனால் ஆலோசனையைக் கேட்பவன் ஞானி.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "வழி"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "மூடனுடைய"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "நேரானது"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "அவன் கண்களில்"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "கேட்பவன்"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "ஆலோசனையை"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ஞானி"
+    }
+  ],
+  "timestamp": "2026-08-20T02:08:33.731337112Z",
+  "model": "glm-5.3"
+}

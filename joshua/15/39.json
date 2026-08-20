@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "லாகீஷ், மற்றும் போஸ்கத், மற்றும் எக்லோன்,",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "லாகீஷ்"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "மற்றும் போஸ்கத்"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "மற்றும் எக்லோன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:27.205238909Z",
+  "model": "glm-5.3"
+}

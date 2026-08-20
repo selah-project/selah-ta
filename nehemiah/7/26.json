@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பேத்லெகேம் மற்றும் நெத்தோபா மனிதர் — நூற்று எண்பத்தெட்டு.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "மனிதர்"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "லெகேம்"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "மற்றும் நெத்தோபா"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "எண்பத்து"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "எட்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:27.942256263Z",
+  "model": "glm-5.3"
+}

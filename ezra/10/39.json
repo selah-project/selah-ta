@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "ஷெலெம்யா, நாத்தான், அதாயா,",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "ஷெலெம்யா"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "நாத்தான்"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "அதாயா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:13:54.416571415Z",
+  "model": "glm-5.3"
+}

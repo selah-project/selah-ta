@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "இசாக்காருக்கு — சூவாரின் மகன் நெத்தனேல்.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "இசாக்காருக்கு"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "நெத்தனேல்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "சூவார்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:58:05.888695820Z",
+  "model": "glm-5.3"
+}

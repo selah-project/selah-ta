@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "சராயா, அஸர்யா, யிர்மியா,",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "சராயா"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "அஸர்யா"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "யிர்மியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:20:45.783927017Z",
+  "model": "glm-5.3"
+}

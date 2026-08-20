@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "அவர்களுடைய எண்ணப்பட்டோர் எண்ணாயிரத்த ஐந்நூற்று எண்பது.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ஆயினும்"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "எண்ணப்பட்டோர்"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "எண்மரித்த"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ஐந்து"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "எண்பது"
+    }
+  ],
+  "timestamp": "2026-08-19T22:01:01.680072921Z",
+  "model": "glm-5.3"
+}

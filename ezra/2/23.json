@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "அனாத்தோத் மனிதர்கள் — நூற்றிருபத்து எட்டு.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "மனிதர்கள்"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "அனாத்தோத்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "எட்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:07:59.127160248Z",
+  "model": "glm-5.3"
+}

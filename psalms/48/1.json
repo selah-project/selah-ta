@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 48,
+  "translation": "பாடல்; இசைப் பாடல்; கோராக்கின் மக்களுக்கு.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "பாடல்"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "இசைப் பாடல்"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "மக்களுக்கு"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "கோராக்கின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:34:02.466270540Z",
+  "model": "glm-5.3"
+}

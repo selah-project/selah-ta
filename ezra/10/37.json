@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மத்தன்யா, மத்தெனாய், யாசாவ்,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "மத்தன்யா"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "மத்தெனாய்"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "யாசாவ்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:13:54.416084231Z",
+  "model": "glm-5.3"
+}

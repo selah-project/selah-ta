@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "மெகெராத்தியனாகிய ஹெப்பேர், பெலோனியனாகிய அஹியா,",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ஹெப்பேர்"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "மெகெராத்தியன்"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "அஹியா"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "பெலோனியன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:26.210614235Z",
+  "model": "glm-5.3"
+}

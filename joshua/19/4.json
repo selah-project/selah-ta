@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "எல்தோலத், பெத்தூல், ஹோர்மா.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "மற்றும் எல்தோலத்"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "மற்றும் பெத்தூல்"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "மற்றும் ஹோர்மா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:13.168856230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "ஏனெனில் வீணை பெருக்கும் வார்த்தைகள் பல உள்ளன; மனிதனுக்கு என்ன மிகுதி இருக்கிறது?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "יש",
+      "gloss": "உள்ளன"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "வார்த்தைகள்"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "பல"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "பெருக்கும்"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "வீணை"
+    },
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "மிகுதி"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "மனிதனுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:06.178854859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "சாலொமோவின் மொழிகள் — தாவீதின் மகன், இஸ்ரவேலின் அரசன்.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "மொழிகள்"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "சாலொமோவின்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "தாவீதின்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேலின்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:02:43.503922650Z",
+  "model": "glm-5.3"
+}

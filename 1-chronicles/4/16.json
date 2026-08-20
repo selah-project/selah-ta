@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "யெஹல்லேலேலின் புதல்கள்: சீப், சீபா, திர்யா, அசரேல்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "யெஹல்லேலேலின்"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "சீப்"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "சீபா"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "திர்யா"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "அசரேல்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:29.348673654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "மாக்லீக்கு எலவ்ஸார்; அவனுக்கு மக்கள் ⟨இல்லை⟩.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "மாக்லீக்கு"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "எலவ்ஸார்"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "மற்றும் இல்லை"
+    },
+    {
+      "surface": "היה",
+      "gloss": "இருந்தான்"
+    },
+    {
+      "surface": "לו",
+      "gloss": "அவனுக்கு"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "மக்கள்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:38:42.083198969Z",
+  "model": "glm-5.3"
+}

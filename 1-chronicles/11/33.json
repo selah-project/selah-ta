@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "அஸ்மாவெத் பகரூமியன், எல்யாஹ்பா ஷால்போனியன்,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "அஸ்மாவெத்"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "பகரூமியன்"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "எல்யாஹ்பா"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ஷால்போனியன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:26.210128575Z",
+  "model": "glm-5.3"
+}

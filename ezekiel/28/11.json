@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 28,
+  "translation": "யாவேவின் வார்த்தை எனக்கு உண்டாகி, ⟨இவ்வாறு⟩ சொன்னது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "உண்டாகி"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லும்படி"
+    }
+  ],
+  "timestamp": "2026-08-20T00:48:42.000040776Z",
+  "model": "glm-5.3"
+}

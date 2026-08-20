@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 27,
+  "translation": "மனிதனே, நீ சோர் மேல் ஒரு இரங்கற்பாவை எடுத்துக்கொள்.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "நீ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகனே"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "மனித"
+    },
+    {
+      "surface": "שא",
+      "gloss": "எடுத்துக்கொள்"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "צר",
+      "gloss": "சோர்"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "இரங்கற்பா"
+    }
+  ],
+  "timestamp": "2026-08-20T00:49:14.340412948Z",
+  "model": "glm-5.3"
+}

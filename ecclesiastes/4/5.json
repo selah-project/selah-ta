@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "மூடன் ⟨את⟩ தன் கைகளைக் கட்டிக்கொண்டு ⟨את⟩ தன் சதையைச் சாப்பிடுகிறான்.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "மூடன்"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "கட்டிக்கொள்கிறான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "தன் கைகளை"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "தன் கைகளை"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "மற்றும் சாப்பிடுகிறான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "தன் சதையை"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "தன் சதையை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:49:40.744833279Z",
+  "model": "glm-5.3"
+}

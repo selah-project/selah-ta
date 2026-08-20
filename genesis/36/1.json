@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 36,
+  "translation": "வாழ்க்கை வரலாறு இதோ — ஏசவினுடையது; அவனே எதோம்.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "இவை"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "சந்ததி வரலாறு"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ஏசவின்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவனே"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "எதோம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:17:13.192783001Z",
+  "model": "glm-5.3"
+}

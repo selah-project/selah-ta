@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "சாரீமுக்கு — அத்னா; மெராயோத்துக்கு — செல்காய்.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "சாரீமுக்கு"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "அத்னா"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "மெராயோத்துக்கு"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "செல்காய்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:57.029132231Z",
+  "model": "glm-5.3"
+}

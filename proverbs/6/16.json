@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "இவை ஆறு — யாவே வெறுக்கிறவை; ஏழு — அவர் நெஞ்சத்திற்கு அருவருப்பானவை.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "இவை"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "வெறுக்கிறவை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "அருவருப்பானவை"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "அவர் நெஞ்சத்திற்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:06:39.856581689Z",
+  "model": "glm-5.3"
+}

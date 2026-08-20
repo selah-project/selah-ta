@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "சாபாத் ⟨את⟩ எப்லாலைப் பெற்றான், எப்லால் ⟨את⟩ ஒவேதைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "சாபாத்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "எப்லாலை"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "எப்லால்"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "எப்லால்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஒவேதை"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ஒவேத்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:51.995217760Z",
+  "model": "glm-5.3"
+}

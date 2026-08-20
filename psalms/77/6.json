@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 77,
+  "translation": "முன்னாள் நாட்களை நினைத்தேன்; நித்திய ஆண்டுகளை.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "நினைத்தேன்"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "நாட்களை"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "முன்னாள்"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ஆண்டுகளை"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "நித்திய"
+    }
+  ],
+  "timestamp": "2026-08-20T01:41:52.730575040Z",
+  "model": "glm-5.3"
+}

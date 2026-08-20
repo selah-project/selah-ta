@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "யாவே மோஷேயிடம் பேசினார், சொல்லக் கூறுவது:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேயிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லக் கூறுவது"
+    }
+  ],
+  "timestamp": "2026-08-19T21:55:35.153435741Z",
+  "model": "glm-5.3"
+}

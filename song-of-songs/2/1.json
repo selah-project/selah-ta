@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "நான் சாரோனின் மலர், பள்ளத்தாக்குகளின் லில்லி.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "மலர்"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "சாரோனின்"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "லில்லி"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "பள்ளத்தாக்குகளின்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:38:42.286835311Z",
+  "model": "glm-5.3"
+}

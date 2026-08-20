@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "மல்லூக், ஹாரிம், பானா.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "மல்லூக்"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ஹாரிம்"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "பானா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:39.266278001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "யாவே உன் எலோஹீமுடன் நீ முழுமையானவனாய் இருப்பாய்.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "முழுமையானவனாய்"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "இருப்பாய்"
+    },
+    {
+      "surface": "עם",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "உன் எலோஹீம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:24:29.042237336Z",
+  "model": "glm-5.3"
+}

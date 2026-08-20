@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஒவேத் ⟨את⟩ யெகூவைப் பெற்றான், யெகூ ⟨את⟩ அசர்யாவைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ஒவேத்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "யெகூவை"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "யெகூ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "யெகூ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "அசர்யாவை"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "அசர்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:51.995438963Z",
+  "model": "glm-5.3"
+}

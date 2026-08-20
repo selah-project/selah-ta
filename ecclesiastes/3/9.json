@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "அவன் உழைக்கிறதில் செய்பவனுக்கு என்ன இலாபம்?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "இலாபம்"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "செய்பவனுக்கு"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "அதில்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவன்"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "உழைக்கிறான்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:48:49.851407549Z",
+  "model": "glm-5.3"
+}

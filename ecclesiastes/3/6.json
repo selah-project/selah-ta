@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "தேடக் காலம், அழிக்கக் காலம்; காக்கக் காலம், எறிந்துவிடக் காலம்.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "காலம்"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "தேட"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "மற்றும் காலம்"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "அழிக்க"
+    },
+    {
+      "surface": "עת",
+      "gloss": "காலம்"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "காக்க"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "மற்றும் காலம்"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "எறிந்துவிட"
+    }
+  ],
+  "timestamp": "2026-08-20T02:48:06.926387715Z",
+  "model": "glm-5.3"
+}

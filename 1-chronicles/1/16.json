@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "⟨את⟩ அர்வாதியையும் ⟨את⟩ செமாரியையும் ⟨את⟩ ஏமாத்தியையும்",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "அர்வாதியை"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "அர்வாதி"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "செமாரியை"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "செமாரி"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ஏமாத்தியை"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ஏமாத்தி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:19.824486171Z",
+  "model": "glm-5.3"
+}

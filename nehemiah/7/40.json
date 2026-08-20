@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "இம்மேரின் புத்திரர் — ஆயிரத்து ஐம்பத்து இரண்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "இம்மேர்"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "மற்றும் இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:19.885951259Z",
+  "model": "glm-5.3"
+}

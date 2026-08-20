@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "தன் இளமையில் நுகத்தைச் சுமப்பது மனிதனுக்கு நன்மை.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "நன்மை"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "மனிதனுக்கு"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…என்றால்"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "சுமப்பது"
+    },
+    {
+      "surface": "על",
+      "gloss": "நுகத்தை"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "தன் இளமையில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:42.785735864Z",
+  "model": "glm-5.3"
+}

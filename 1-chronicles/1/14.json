@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "⟨את⟩ எபூசியையும் ⟨את⟩ எமோரியையும் ⟨את⟩ கிர்காசியையும்",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "எபூசியை"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "எபூசி"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "எமோரியை"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "எமோரி"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "கிர்காசியை"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "கிர்காசி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:19.824236342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "சிரிப்பை விடக் கவலை சிறந்தது, ஏனெனில் முகத்தின் சோகத்தால் இருதயம் ⟨நன்மை⟩ அடையும்.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "சிறந்தது"
+    },
+    {
+      "surface": "கעס",
+      "gloss": "கவலை"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "சிரிப்பை விட"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "சோகத்தால்"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "முகத்தின்"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "நன்மை அடையும்"
+    },
+    {
+      "surface": "לב",
+      "gloss": "இருதயம்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:07.313975135Z",
+  "model": "glm-5.3"
+}

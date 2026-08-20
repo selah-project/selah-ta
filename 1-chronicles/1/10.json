@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "கூஷ் ⟨את⟩ நிம்ரோதைப் பெற்றெடுத்தான்; அவனே பூமியில் வீரனாகத் தொடங்கினான்.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "கூஷ்"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பெற்றெடுத்தான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "நிம்ரோது"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "நிம்ரோது"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவனே"
+    },
+    {
+      "surface": "החל",
+      "gloss": "தொடங்கினான்"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ஆக"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "வீரன்"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "பூமியில்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:34.441520782Z",
+  "model": "glm-5.3"
+}

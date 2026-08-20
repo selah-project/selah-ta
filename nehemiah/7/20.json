@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஆதினின் புத்திரர் — அறுநூற்று ஐம்பத்தைந்து.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ஆதின்"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ஆறு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ஐம்பது"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ஐந்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:15.491838512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "மாட்டினாலும் கழுதையினாலும் கூடி உழாதே.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "வேண்டாம்"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "உழாதே"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "மாட்டினால்"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "மற்றும் கழுதையினால்"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "கூடி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:25:21.054458631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "அவன் தன் வாயைப் பொடியில் வைப்பான் — ஒருவேளை நம்பிக்கை இருக்கலாம்.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "வைப்பான்"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "பொடியில்"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "அவன் வாயை"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ஒருவேளை"
+    },
+    {
+      "surface": "יש",
+      "gloss": "இருக்கிறது"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "நம்பிக்கை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:07.084496926Z",
+  "model": "glm-5.3"
+}

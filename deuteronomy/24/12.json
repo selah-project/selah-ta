@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "அவன் ஏழையாயிருந்தால், அவனுடைய அடைமானத்துடன் படுக்காதே.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "மேலும் ஒருவேளை"
+    },
+    {
+      "surface": "איש",
+      "gloss": "மனிதன்"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ஏழை"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவன்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "வேண்டாம்"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "படுப்பாய்"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "அவனுடைய அடைமானத்துடன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:26:29.599024555Z",
+  "model": "glm-5.3"
+}

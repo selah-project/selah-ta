@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "யோவேல் நாத்தானின் சகோதரன், மிப்சார் ஹாக்ரியின் மகன்,",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "யோவேல்"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "சகோதரன்"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "நாத்தான்"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "மிப்சார்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ஹாக்ரி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:30:49.097167454Z",
+  "model": "glm-5.3"
+}

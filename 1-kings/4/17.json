@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "யிசாஸ்கரில் பரூவாக்கின் மகன் யிஹோஷபாத்",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "யிஹோஷபாத்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "பரூவாக்"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "யிசாஸ்கரில்"
+    }
+  ],
+  "timestamp": "2026-08-19T23:21:57.083191058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 95,
+  "translation": "ஏனெனில் யாவே ⟨ஆம்⟩ பெரிய ஏல்; எல்லா தேவர்களுக்கும் மேலான பெரிய அரசர்.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ஏல்"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "பெரிய"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "அரசர்"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "பெரிய"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேலான"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எல்லா"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "தேவர்களுக்கும்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:47:29.347417238Z",
+  "model": "glm-5.3"
+}

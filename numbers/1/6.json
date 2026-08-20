@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "சிமியோனுக்கு — சூரிஷத்தாயின் மகன் ஷெலுமியேல்.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "சிமியோனுக்கு"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ஷெலுமியேல்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "சூரிஷத்தாய்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:58:05.888403058Z",
+  "model": "glm-5.3"
+}

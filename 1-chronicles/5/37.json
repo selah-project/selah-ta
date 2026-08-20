@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "அசர்யா ⟨את⟩ அமர்யாவைப் பெற்றார்; அமர்யா ⟨את⟩ அஹித்தூபைப் பெற்றார்.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "அசர்யா"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "அமர்யா"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "அமர்யா"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "அமர்யா"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "அஹித்தூப்"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "அஹித்தூப்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:07.432115919Z",
+  "model": "glm-5.3"
+}

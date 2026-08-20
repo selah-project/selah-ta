@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "ஏனெனில் ஞானிக்கு மூடனைவிட என்ன மிகுதி? வாழ்வோருக்கு முன் நடப்பதை அறிகின்ற ஏழைக்கு என்ன?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "மிகுதி"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ஞானிக்கு"
+    },
+    {
+      "surface": "מן",
+      "gloss": "விட"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "மூடனை"
+    },
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ஏழைக்கு"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "அறிகின்ற"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "நடப்பதை"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "முன்"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "வாழ்வோருக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:51:05.462095098Z",
+  "model": "glm-5.3"
+}

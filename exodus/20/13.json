@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 20,
+  "translation": "கொலை செய்யாதே.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "கொலை செய்வாய்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:34:31.952178725Z",
+  "model": "glm-5.3"
+}

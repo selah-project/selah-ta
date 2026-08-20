@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "⟨את⟩ காத்தையும் ⟨את⟩ மாரேசாவையும் ⟨את⟩ சீப்பையும்.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "காத்து"
+    },
+    {
+      "surface": "גת",
+      "gloss": "காத்து"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "மாரேசா"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "மாரேசா"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "சீப்"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "சீப்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:46:52.522412239Z",
+  "model": "glm-5.3"
+}

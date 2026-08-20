@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "யஹோநதனின் மகன் மெரிப்-பால்; மெரிப்-பால் ⟨את⟩ மீகாவைப் பெற்றார்.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "யஹோநதனின்"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "மெரிப்-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "பால்"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "மெரிப்-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "பால்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "மீகா"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "மீகா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:30:17.016964950Z",
+  "model": "glm-5.3"
+}

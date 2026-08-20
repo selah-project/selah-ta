@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "அறியேன்; என் உயிர் என்னை என் மக்களின் நதீபின் தேர்களில் வைத்தது.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "அல்ல"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "அறிந்தேன்"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "என் உயிர்"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "என்னை வைத்தது"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "தேர்களில்"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "என் மக்களின்"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "நதீபு"
+    }
+  ],
+  "timestamp": "2026-08-20T04:40:04.760852476Z",
+  "model": "glm-5.3"
+}

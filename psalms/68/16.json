@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 68,
+  "translation": "எலோஹீமின் மலை — பாஷான் மலை; சிகரங்கள் நிறைந்த மலை — பாஷான் மலை.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "மலை"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "எலோஹீமின்"
+    },
+    {
+      "surface": "הר",
+      "gloss": "மலை"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "பாஷான்"
+    },
+    {
+      "surface": "הר",
+      "gloss": "மலை"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "சிகரங்கள் நிறைந்த"
+    },
+    {
+      "surface": "הר",
+      "gloss": "மலை"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "பாஷான்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:36:01.381350258Z",
+  "model": "glm-5.3"
+}

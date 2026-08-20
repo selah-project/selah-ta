@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "இத்தோ, கின்னெத்தோன், அபியா.",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "இத்தோ"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "கின்னெத்தோன்"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "அபியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:22:37.815528224Z",
+  "model": "glm-5.3"
+}

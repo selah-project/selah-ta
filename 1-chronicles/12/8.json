@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "கெதோரைச் சேர்ந்த யெரோகாமின் மக்களாகிய யோவேலா, ஸெபத்யா;",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "யோவேலா"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ஸெபத்யா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "யெரோகாம்"
+    },
+    {
+      "surface": "מן",
+      "gloss": "இருந்து"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "கெதோர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:59.888895909Z",
+  "model": "glm-5.3"
+}

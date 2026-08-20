@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "கோவியர் அவளை அணுக அழைத்து, யாவேயின் முன் அவளை நிறுத்துவார்.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "அணுக அழைத்து"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "அவளை"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "கோவியர்"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "நிறுத்துவார்"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "முன்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-19T22:01:42.852519102Z",
+  "model": "glm-5.3"
+}

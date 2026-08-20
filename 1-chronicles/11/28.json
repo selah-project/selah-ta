@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஈரா இக்கேஷின் மகன் தெகோவியன், அபியேசேர் அனாதோத்தியன்.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ஈரா"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "இக்கேஷின்"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "தெகோவியன்"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "அபியேசேர்"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "அனாதோத்தியன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:40.283907267Z",
+  "model": "glm-5.3"
+}

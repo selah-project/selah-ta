@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "யாவே சொன்னார்: உன் வார்த்தைப்படி மன்னித்தேன்.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "மன்னித்தேன்"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "உன் வார்த்தைப்படி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:05:29.664269384Z",
+  "model": "glm-5.3"
+}

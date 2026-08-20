@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 41,
+  "translation": "நல்ல ஏழு பசுக்கள் — அவை ஏழு ஆண்டுகள்; நல்ல ஏழு கதிர்களும் ஏழு ஆண்டுகள்; கனவு ஒன்றே.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "பசுக்கள்"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "நல்ல"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ஆண்டுகள்"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "அவை"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "மற்றும் ஏழு"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "கதிர்கள்"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "நல்ல"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ஆண்டுகள்"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "அவை"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "கனவு"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒன்றே"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அது"
+    }
+  ],
+  "timestamp": "2026-08-19T21:20:17.292059769Z",
+  "model": "glm-5.3"
+}

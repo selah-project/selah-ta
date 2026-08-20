@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 92,
+  "translation": "ஆனாலும் நீ மேட்டில் என்றும் இருக்கிறாய், யாவே.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ஆனாலும் நீ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "மேட்டில்"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "என்றும்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-20T01:47:16.512864051Z",
+  "model": "glm-5.3"
+}

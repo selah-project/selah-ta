@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "பாடல்களின் பாடல், அது ஷ்லோமோவுடையது.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "பாடல்"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "பாடல்களின்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அது"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ஷ்லோமோவுடையது"
+    }
+  ],
+  "timestamp": "2026-08-20T02:38:38.857855281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "பெனாயா, பெதாயா, கெலுஹாய்.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "பெனாயா"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "பெதாயா"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "கெலுஹாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:14:21.030110287Z",
+  "model": "glm-5.3"
+}

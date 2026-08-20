@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "நிகழ்ந்தது ⟨இவ்வாறு⟩ — சகல பூமியும் ஒரே பேச்சு, ஒரே சொற்கள்.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "நிகழ்ந்தது"
+    },
+    {
+      "surface": "כל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "பூமியும்"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "பேச்சு"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ஒரே ஒன்று"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "சொற்கள்"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ஒரே ஒன்றான"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:38.252738158Z",
+  "model": "glm-5.3"
+}

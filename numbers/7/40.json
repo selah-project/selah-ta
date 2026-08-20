@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "வெள்ளாட்டுக்கடா ஒன்று பாவநிவாரணப் பலிக்கு.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "வெள்ளாட்டுக்கடா"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ஆடுகளின்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒன்று"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "பாவநிவாரணப் பலிக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T22:02:04.429776262Z",
+  "model": "glm-5.3"
+}

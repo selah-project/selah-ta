@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "அவன் ⟨את⟩ பறவைகளில் ஒன்றை, உயிருள்ள நீரின் மேல், களிமண் பாத்திரத்தில் அறுப்பான்.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "அறுப்பான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "பறவையை"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "பறவையை"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ஒன்றை"
+    },
+    {
+      "surface": "אל",
+      "gloss": "உள்ளே"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "பாத்திரத்தில்"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "களிமண்"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "מים",
+      "gloss": "நீரின்"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "உயிருள்ள"
+    }
+  ],
+  "timestamp": "2026-08-19T21:51:29.621943913Z",
+  "model": "glm-5.3"
+}

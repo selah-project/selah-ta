@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "எல்தோலத், கெசில், ஹோர்மா",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "எல்தோலத்"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "கெசில்"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ஹோர்மா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:13.902306490Z",
+  "model": "glm-5.3"
+}

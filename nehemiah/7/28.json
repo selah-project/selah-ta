@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பேத்-அஸ்மாவெத் மனிதர் — நாற்பத்திரண்டு.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "மனிதர்"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "அஸ்மாவெத்"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "நாற்பத்து"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:27.942665624Z",
+  "model": "glm-5.3"
+}

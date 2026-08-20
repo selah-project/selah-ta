@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "இதற்காக மனம் வருந்தினார் யாவே; \"அது நிகழாது\" என்றார் யாவே.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "மனம் வருந்தினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "על",
+      "gloss": "இதற்காக"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "இது"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "அது நிகழும்"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "என்றார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-20T04:32:28.318369007Z",
+  "model": "glm-5.3"
+}

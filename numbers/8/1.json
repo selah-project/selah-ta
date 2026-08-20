@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "யாவே மோஷேயிடம் பேசி, சொல்லக்கருதினார்.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேயிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லக்கருதி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:02:50.217502733Z",
+  "model": "glm-5.3"
+}

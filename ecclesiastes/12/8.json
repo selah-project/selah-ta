@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "வீண், வீண்களின் வீண், கோஹெலெத் சொல்கிறார்; மற்றதெல்லாம் வீண்.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "வீண்"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "வீண்களின் வீண்"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "சொல்கிறார்"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "கோஹெலெத்"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "மற்றதெல்லாம்"
+    },
+    {
+      "surface": "ஹבל",
+      "gloss": "வீண்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:52:57.457766699Z",
+  "model": "glm-5.3"
+}

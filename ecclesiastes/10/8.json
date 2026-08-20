@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "குழி வெட்டுகிறவன் அதில் விழுவான், சுவரைப் பிளக்கிறவனைப் பாம்பு கடிக்கும்.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "வெட்டுகிறவன்"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "குழி"
+    },
+    {
+      "surface": "בו",
+      "gloss": "அதில்"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "விழுவான்"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "பிளக்கிறவனை"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "சுவரை"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "கடிக்கும்"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "பாம்பு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:51:01.888893913Z",
+  "model": "glm-5.3"
+}

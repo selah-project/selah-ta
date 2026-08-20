@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 48,
+  "translation": "தீபோன்மேலும் நெபோவின்மேலும் பேத்-திப்லாத்தாயிம்மேலும்.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "மேலும்"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "தீபோன்"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "மேலும்"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "நெபோவின்"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "மேலும்"
+    },
+    {
+      "surface": "בית",
+      "gloss": "பேத்"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "திப்லாத்தாயிம்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:28:10.107148478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "யோப் பதிலளித்து சொன்னான்.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "பதிலளித்து"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "யோப்"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:19:11.971279842Z",
+  "model": "glm-5.3"
+}

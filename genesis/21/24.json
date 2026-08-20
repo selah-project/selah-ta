@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "அவ்ராஹாம் சொன்னான்: நான் ஆணையிடுவேன்.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "அவ்ராஹாம்"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ஆணையிடுவேன்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:09:55.847118327Z",
+  "model": "glm-5.3"
+}

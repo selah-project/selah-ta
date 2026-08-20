@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "சத்தூவின் புத்திரர் — தொள்ளாற்று நாற்பத்தைந்து.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "சத்தூ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "தொள்"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "நாற்பது"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ஐந்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:15.069494239Z",
+  "model": "glm-5.3"
+}

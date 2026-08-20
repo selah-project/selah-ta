@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "யாவேவின் வார்த்தை இரண்டாம் முறையாக எனக்கு வந்தது, சொல்லும்:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "வந்தது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "இரண்டாம் முறையாக"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லும்"
+    }
+  ],
+  "timestamp": "2026-08-20T00:17:12.976400763Z",
+  "model": "glm-5.3"
+}

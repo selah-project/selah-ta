@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 30,
+  "translation": "யாவே மோஷேயிடம் பேசினார், கூறுவது:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவது"
+    }
+  ],
+  "timestamp": "2026-08-20T04:06:08.193525639Z",
+  "model": "glm-5.3"
+}

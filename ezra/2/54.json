@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "நெத்சியாக்கின் மக்கள், கத்தீபாவின் மக்கள்,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "நெத்சியாக்கின்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "கத்தீபாவின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:10:17.217568400Z",
+  "model": "glm-5.3"
+}

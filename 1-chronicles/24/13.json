@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "ஹுப்பாவுக்கு பதிமூன்றாமது, யிஷெபெஆவுக்கு பதினான்காமது.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "ஹுப்பாவுக்கு"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "மூன்று"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "யிஷெபெஆவுக்கு"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "நான்கு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பத்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:39:35.744723817Z",
+  "model": "glm-5.3"
+}

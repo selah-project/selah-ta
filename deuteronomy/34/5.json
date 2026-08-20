@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 34,
+  "translation": "யாவேவின் ஊழியனாகிய மோஷே அங்கே மோவாப் தேசத்திலே யாவேவின் வாய்மொழிப்படி மரித்தான்.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "மரித்தான்"
+    },
+    {
+      "surface": "שם",
+      "gloss": "அங்கே"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ஊழியன்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "தேசத்திலே"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "மோவாப்"
+    },
+    {
+      "surface": "על",
+      "gloss": "ப்படி"
+    },
+    {
+      "surface": "פי",
+      "gloss": "வாய்மொழி"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:31:51.676165668Z",
+  "model": "glm-5.3"
+}

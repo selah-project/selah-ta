@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "அதோனாய் யாவே இவ்வாறு சொன்னார்: தீமை, ஒரே தீமை, இதோ, வருகிறது.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "இவ்வாறு"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாய்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "தீமை"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ஒரே"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "தீமை"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "இதோ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "வருகிறது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:38:23.073961382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 48,
+  "translation": "யாவே சொல்கிறார்: தீயவர்களுக்கு சாந்தி இல்லை.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "சாந்தி"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "சொல்கிறார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "தீயவர்களுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T00:01:46.756251923Z",
+  "model": "glm-5.3"
+}

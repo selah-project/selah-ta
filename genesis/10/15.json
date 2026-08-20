@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "கனான் சீதோனையும் ⟨את⟩ தன் தலைமகனையும் ஹேத்தையும் ⟨את⟩ பெறுத்தான்.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "கனான்"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "பெறுத்தான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "சீதோன்"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "சீதோன்"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "தன் தலைமகன்"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ஹேத்"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ஹேத்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:02.936126171Z",
+  "model": "glm-5.3"
+}

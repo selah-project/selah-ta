@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "இசைத்தலைவனுக்கு, கித்தித் இசைமேல்; தாவீதின் மஜமூர்.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத்தலைவனுக்கு"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "கித்தித் இசை"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "மஜமூர்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:23:42.411568614Z",
+  "model": "glm-5.3"
+}

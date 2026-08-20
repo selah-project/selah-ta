@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "யாவே மோஷேயிடம் பேசினார், கூறி:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேயிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:01:44.114867105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "வசாஸர்-ஷூவால், வெத்-ஷெபா ஊற்று, வபிஸ்யோத்யா.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "வசாஸர்"
+    },
+    {
+      "surface": "שועல",
+      "gloss": "ஷூவால்"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "வெத்-ஷெபா ஊற்று"
+    },
+    {
+      "surface": "שבע",
+      "gloss": ""
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "வபிஸ்யோத்யா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:28.032794607Z",
+  "model": "glm-5.3"
+}

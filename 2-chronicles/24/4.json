@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 24,
+  "translation": "இதற்குப் பின், யாவேவின் ஆலயத்தைப் ⟨את⟩ புதுப்பிக்க யோவாஷின் இருதயத்தில் எழுந்தது.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆயிற்று"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "பின்"
+    },
+    {
+      "surface": "כן",
+      "gloss": "இதற்கு"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ஆயிற்று"
+    },
+    {
+      "surface": "עם",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "לב",
+      "gloss": "இருதயத்தில்"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "யோவாஷின்"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "புதுப்பிக்க"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஆலயத்தை"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ஆலயம்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:54:20.071293140Z",
+  "model": "glm-5.3"
+}

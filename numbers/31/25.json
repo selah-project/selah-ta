@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "யாவே மோஷேயிடம் பேசினார், கூறியது:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்\/பேசினார்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேயிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறியது:"
+    }
+  ],
+  "timestamp": "2026-08-19T22:13:09.228442238Z",
+  "model": "glm-5.3"
+}

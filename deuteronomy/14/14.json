@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "மற்றும் ⟨את⟩ எல்லா காகமும் அதன் வகைக்கேற்ப",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "மற்றும் ⟨את⟩",
+      "marks": "எல்லா காகமும்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எல்லா"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "காகம்"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "அதன் வகைக்கேற்ப"
+    }
+  ],
+  "timestamp": "2026-08-20T04:10:56.071116186Z",
+  "model": "glm-5.3"
+}

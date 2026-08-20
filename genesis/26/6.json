@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 26,
+  "translation": "யித்சாக் கெராரில் குடியிருந்தார்.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "குடியிருந்தார்"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "யித்சாக்"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "கெராரில்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:12:28.171162606Z",
+  "model": "glm-5.3"
+}

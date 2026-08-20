@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "குடித்துத் தன் வறுமையை மறந்து, தன் கஷ்டத்தை இனி நினையாதிருப்பான்.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "குடித்து"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "மறந்து"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "தன் வறுமையை"
+    },
+    {
+      "surface": "ועמலו",
+      "gloss": "தன் கஷ்டத்தை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "நினைப்பான்"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "இனி"
+    }
+  ],
+  "timestamp": "2026-08-20T02:18:24.715040374Z",
+  "model": "glm-5.3"
+}

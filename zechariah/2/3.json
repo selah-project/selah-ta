@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "யாவே எனக்கு நான்கு கைவினைஞர்களைக் காட்டினார்.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "காட்டினார் எனக்கு"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "நான்கு"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "கைவினைஞர்கள்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:18:43.864464794Z",
+  "model": "glm-5.3"
+}

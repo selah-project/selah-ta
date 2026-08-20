@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "⟨את⟩ எல்லா காகத்தையும் அதன் இனத்திற்கேற்ப",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "எல்லா காகம்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எல்லா"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "காகம்"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "அதன் இனத்திற்கேற்ப"
+    }
+  ],
+  "timestamp": "2026-08-20T04:08:19.940207613Z",
+  "model": "glm-5.3"
+}

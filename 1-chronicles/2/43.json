@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "ஹெப்ரோனின் மக்கள்: கோரக், தப்புவா, ரெக்கேம், ஷெமா.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ஹெப்ரோனின்"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "கோரக்"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "தப்புவா"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ரெக்கேம்"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ஷெமா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:38.807264551Z",
+  "model": "glm-5.3"
+}

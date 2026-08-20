@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "காத் தாவீதிடம் வந்து அவனுக்குச் சொன்னான்: யாவே இவ்வாறு சொல்கிறார் — நீ ஏற்றுக்கொள்",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "வந்து"
+    },
+    {
+      "surface": "גד",
+      "gloss": "காத்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…யிடம்"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "தாவீது"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "לו",
+      "gloss": "அவனுக்கு"
+    },
+    {
+      "surface": "כה",
+      "gloss": "இவ்வாறு"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "சொல்கிறார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ஏற்றுக்கொள்"
+    },
+    {
+      "surface": "לך",
+      "gloss": "நீ"
+    }
+  ],
+  "timestamp": "2026-08-20T04:46:47.120287825Z",
+  "model": "glm-5.3"
+}

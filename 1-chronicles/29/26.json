@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 29,
+  "translation": "ஈசாயின் மகனாகிய தாவீது சகல இஸ்ரவேலின் மேல் அரசாண்டான்.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "தாவீது"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ஈசாய்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசாண்டான்"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேலின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:42:28.187675306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "இப்தெயாவும் பெனுவேலும் — ஷஷாக்கின் புதல்லர்கள்.",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "மற்றும் இப்தெயா"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "மற்றும் பெனுவேல்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்லர்கள்"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ஷஷாக்கின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:01.133527546Z",
+  "model": "glm-5.3"
+}

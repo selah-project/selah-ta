@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 16,
+  "translation": "நரைமுடி அழகின் கிரீடம்; நீதியின் வழியில் அது ⟨காணப்படும்⟩.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "கிரீடம்"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "அழகின்"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "நரைமுடி"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "வழியில்"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "நீதியின்"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "காணப்படும்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:10:27.435732113Z",
+  "model": "glm-5.3"
+}

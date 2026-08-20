@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "மோஷே சென்றார், இந்த வார்த்தைகளை சகல இஸ்ரவேலரிடமும் பேசினார்.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "சென்றார்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "இந்த வார்த்தைகளை"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "வார்த்தைகளை"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "இந்த"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…இடம்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "சகல"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேலரிடமும்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:12:11.471283001Z",
+  "model": "glm-5.3"
+}

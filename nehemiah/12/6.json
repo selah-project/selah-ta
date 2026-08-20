@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "ஷெமஆயா, யோயாரீப், யெதஆயா.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "ஷெமஆயா"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "மற்றும் யோயாரீப்"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "யெதஆயா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:22:57.429425206Z",
+  "model": "glm-5.3"
+}

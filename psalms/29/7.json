@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 29,
+  "translation": "யாவேயின் குரல் அக்கினிச் சுவால்களைப் பிளக்கிறது.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "குரல்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேயின்"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "பிளக்கிறது"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "சுவால்களை"
+    },
+    {
+      "surface": "אש",
+      "gloss": "அக்கினி"
+    }
+  ],
+  "timestamp": "2026-08-20T01:27:53.656666587Z",
+  "model": "glm-5.3"
+}

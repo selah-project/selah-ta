@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "ஹரப்பீத், கிஷ்யோன், ஏவெஸ் ஆகியவையும்.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ஹரப்பீத்"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "கிஷ்யோன்"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "ஏவெஸ்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:51.418036183Z",
+  "model": "glm-5.3"
+}

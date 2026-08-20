@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "மேலும் கழுதைகள் முப்பதாயிரம், ஐந்நூறும்;",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "மேலும் கழுதைகள்"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ஐந்து"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூறு"
+    }
+  ],
+  "timestamp": "2026-08-20T04:10:31.320978640Z",
+  "model": "glm-5.3"
+}

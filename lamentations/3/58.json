@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "அதோனாயே, நீ என் ஆத்துமாவின் வழக்குகளை நடத்தினீர்; என் ஜீவனை மீட்டீர்.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "வழக்கு நடத்தினீர்"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாயே"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "வழக்குகளை"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "என் ஆத்துமாவின்"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "மீட்டீர்"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "என் ஜீவனை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:49.648972900Z",
+  "model": "glm-5.3"
+}

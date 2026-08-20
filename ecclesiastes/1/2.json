@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "புகை, புகைகளின் புகை, கோஹெலெத் சொன்னார்; புகை, புகைகளின் புகை; முழுவதும் புகை.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "புகை"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "புகைகளின்"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "கோஹெலெத்"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "புகை"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "புகைகளின்"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "முழுவதும்"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "புகை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:49.837069146Z",
+  "model": "glm-5.3"
+}

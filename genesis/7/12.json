@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "மழை பூமியின் மேல் நாற்பது நாட்களும் நாற்பது இரவுகளும் பெய்தது.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "நிகழ்ந்தது"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "மழை"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "பூமி"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "நாற்பது"
+    },
+    {
+      "surface": "יום",
+      "gloss": "நாட்கள்"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "மற்றும் நாற்பது"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "இரவுகள்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:04:41.538645860Z",
+  "model": "glm-5.3"
+}

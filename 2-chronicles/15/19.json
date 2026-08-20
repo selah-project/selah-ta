@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "அசாவின் அரசாட்சியின் முப்பத்தைந்தாம் ஆண்டுவரை போர் இல்லை.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "போர்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "இருந்தது"
+    },
+    {
+      "surface": "עד",
+      "gloss": "வரை"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ஆண்டு"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ஐந்து"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "அரசாட்சியின்"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "அசாவின்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:49:45.520578280Z",
+  "model": "glm-5.3"
+}

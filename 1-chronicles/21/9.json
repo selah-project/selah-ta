@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "யாவே தாவீதின் காட்சிக்காரராகிய காதை நோக்கி பேசினார்; அவர் சொல்லக் கூறியது:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "நோக்கி"
+    },
+    {
+      "surface": "גד",
+      "gloss": "காதை"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "காட்சிக்காரர்"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "தாவீதின்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லக் கூறி"
+    }
+  ],
+  "timestamp": "2026-08-20T04:45:43.086174355Z",
+  "model": "glm-5.3"
+}

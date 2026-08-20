@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "எலோன், திம்னா, எக்ரோன்.",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "எலோன்"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "திம்னா"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "எக்ரோன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:39:38.377162259Z",
+  "model": "glm-5.3"
+}

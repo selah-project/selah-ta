@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "ஏழை வேண்டுதலாய் பேசுவான்; பணக்காரனோ கடுமையாய் பதிலளிப்பான்.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "வேண்டுதலாய்"
+    },
+    {
+      "surface": "ஙדבר",
+      "gloss": "பேசுவான்",
+      "note": "surface corrected in data"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ஏழை"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "பணக்காரனோ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "பதிலளிப்பான்"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "கடுமையாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:11:57.345893085Z",
+  "model": "glm-5.3"
+}

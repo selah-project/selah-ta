@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "சோம்பலால் ⟨the⟩ கூரை சரிந்து விழும்; கைகளின் சோம்பலால் ⟨the⟩ வீடு சொட்டும்.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "சோம்பலால்"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "சரிந்து விழும்"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "கூரை"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "சோம்பலால்"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "கைகளின்"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "சொட்டும்"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "வீடு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:51:08.048340533Z",
+  "model": "glm-5.3"
+}

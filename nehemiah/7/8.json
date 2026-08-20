@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "பரோஷின் மக்கள் — இரண்டாயிரத்து நூற்று எழுபத்து இரண்டு;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "பரோஷின்"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "இரண்டாயிரம்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "எழுபது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:18:27.944939490Z",
+  "model": "glm-5.3"
+}

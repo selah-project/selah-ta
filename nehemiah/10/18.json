@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "ஆதேர், கிஸ்கியா, அஸ்ஸூர்,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "ஆதேர்"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "கிஸ்கியா"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "அஸ்ஸூர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:32.554083288Z",
+  "model": "glm-5.3"
+}

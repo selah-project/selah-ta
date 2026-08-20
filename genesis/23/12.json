@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "அவ்ராஹாம் ⟨the⟩ நாட்டு மக்களுக்கு முன்பாக தலைவணங்கினான்.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "தலைவணங்கினான்"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "அவ்ராஹாம்"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "முன்பாக"
+    },
+    {
+      "surface": "עם",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "நாட்டு"
+    }
+  ],
+  "timestamp": "2026-08-19T21:10:18.550534289Z",
+  "model": "glm-5.3"
+}

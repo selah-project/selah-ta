@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "யிஹூதாவின் புத்திரர்: பெரெட்ஸ், செட்சரோன், கர்மீ, சூர், ஷோவால்.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "யிஹூதாவின்"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "பெரெட்ஸ்"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "செட்சரோன்"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "கர்மீ"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "சூர்"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ஷோவால்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:27:23.533500337Z",
+  "model": "glm-5.3"
+}

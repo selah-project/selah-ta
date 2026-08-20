@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 32,
+  "translation": "அவன் அவனிடம், உன் பெயர் என்ன என்று கேட்டான்; அவன், யாகோவ் என்றான்.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "அவனிடம்"
+    },
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "உன் பெயர்"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "யாகோவ்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:16:42.522620746Z",
+  "model": "glm-5.3"
+}

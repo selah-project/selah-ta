@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "பலவான்மேல் அழிவை மின்னவிடுகிறவர், அழிவோ அரண் நகர்மேல் வரும்.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "மின்னவிடுகிறவர்"
+    },
+    {
+      "surface": "שד",
+      "gloss": "அழிவை"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "עז",
+      "gloss": "பலவான்"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "அழிவோ"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "அரண் நகர்"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "வரும்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:07:21.849767412Z",
+  "model": "glm-5.3"
+}

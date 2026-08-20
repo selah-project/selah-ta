@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 19,
+  "translation": "லோத்து அவர்களிடம் சொன்னான்: வேண்டா, ஆனாலும் அதோ, அதோனாயே.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "லோத்து"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "அவர்களிடம்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "வேண்டா"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ஆனாலும் அதோ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "அதோனாயே"
+    }
+  ],
+  "timestamp": "2026-08-19T21:09:47.201918707Z",
+  "model": "glm-5.3"
+}

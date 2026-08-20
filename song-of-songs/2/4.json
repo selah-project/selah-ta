@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "என்னை ஒயின் வீட்டுக்குள் அழைத்து வந்தான், அவன் கொடியோ என் மேல் அன்பு.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "என்னை அழைத்து வந்தான்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "உள்ளே"
+    },
+    {
+      "surface": "בית",
+      "gloss": "வீட்டுக்கு"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ஒயின்"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "அவன் கொடியோ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "என் மேல்"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "அன்பு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:38:42.287392441Z",
+  "model": "glm-5.3"
+}

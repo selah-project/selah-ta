@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஏழு நாட்கள் நிறைவேறின, யாவே ⟨את⟩ நதியை அடித்த பின்.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "நிறைவேறின"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "நாட்கள்"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "பின்"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "அடித்த"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "நதியை"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "நதி"
+    }
+  ],
+  "timestamp": "2026-08-19T21:30:44.426269865Z",
+  "model": "glm-5.3"
+}

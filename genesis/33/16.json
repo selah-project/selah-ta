@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 33,
+  "translation": "அந்த நாளிலே ஏசாவ் தன் வழியாக சேயிருக்குத் திரும்பினான்.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "திரும்பினான்"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "நாளிலே"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "அந்த"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ஏசாவ்"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "தன் வழியாக"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "சேயிருக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T21:17:28.231541604Z",
+  "model": "glm-5.3"
+}

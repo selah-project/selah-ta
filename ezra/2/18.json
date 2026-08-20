@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "யோராஹின் புதல்கள் — நூற்று பன்னிரண்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "யோராஹின்"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "நூற்று"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "இரண்டு"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "பன்னிரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:08:48.192863345Z",
+  "model": "glm-5.3"
+}

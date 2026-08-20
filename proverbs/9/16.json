@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "யார் மூடன்? அவன் இங்கே திரும்புக! உள்ளம் குறைந்தவனுக்கு அவள் சொல்கிறாள்:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "மூடன்"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "திரும்புக"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "இங்கே"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "குறைந்தவனுக்கு"
+    },
+    {
+      "surface": "לב",
+      "gloss": "உள்ளம்"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "சொல்கிறாள்"
+    },
+    {
+      "surface": "לו",
+      "gloss": "அவனுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:06:24.889536192Z",
+  "model": "glm-5.3"
+}

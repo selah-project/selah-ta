@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "ஷம்ஷெராய், ஷெஹர்யா, அதல்யா.",
+  "tokens": [
+    {
+      "surface": "வשמשרי ושמשרי",
+      "gloss": "மற்றும் ஷம்ஷெராய்"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "மற்றும் ஷெஹர்யா"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "மற்றும் அதல்யா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:01.133751664Z",
+  "model": "glm-5.3"
+}

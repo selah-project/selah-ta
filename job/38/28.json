@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 38,
+  "translation": "மழைக்கு ஒரு தந்தை உண்டோ? அல்லது பனித்துளிகளைப் பெற்றவர் யார்?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "உண்டோ"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "மழைக்கு"
+    },
+    {
+      "surface": "אב",
+      "gloss": "தந்தை"
+    },
+    {
+      "surface": "או",
+      "gloss": "அல்லது"
+    },
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றவர்"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "துளிகளை"
+    },
+    {
+      "surface": "טל",
+      "gloss": "பனி"
+    }
+  ],
+  "timestamp": "2026-08-20T02:36:51.719294416Z",
+  "model": "glm-5.3"
+}

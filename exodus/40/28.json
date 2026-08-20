@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 40,
+  "translation": "மிச்கானுக்கு ⟨את⟩ வாசலின் மூடுதிரையை வைத்தான்.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "வைத்தான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "மூடுதிரையை"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "மூடுதிரையை"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "வாசலின்"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "மிச்கானுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-19T21:44:10.283738633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "சக்காயின் புதல்கள் எழுநூற்று அறுபது.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்கள்"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "சக்காய்"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூறுகள்"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "மற்றும் அறுபது"
+    }
+  ],
+  "timestamp": "2026-08-20T03:18:56.739323637Z",
+  "model": "glm-5.3"
+}

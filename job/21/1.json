@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "அப்பொழுது ஐயோப் பதிலளித்து சொன்னான்:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "பதிலளித்து"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ஐயோப்"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "சொன்னான்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:38:57.675762947Z",
+  "model": "glm-5.3"
+}

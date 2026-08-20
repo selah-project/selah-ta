@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "ஒரு ஆடையில் கொப்புநோய் பிணி இருக்கும் போது — கம்பளி ஆடையிலோ அல்லது சணல் ஆடையிலோ —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "ஆடையில்"
+    },
+    {
+      "surface": "כי",
+      "gloss": "போது"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "இருக்கும்"
+    },
+    {
+      "surface": "בו",
+      "gloss": "அதில்"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "பிணி"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "கொப்புநோய்"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ஆடையில்"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "கம்பளி"
+    },
+    {
+      "surface": "או",
+      "gloss": "அல்லது"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ஆடையில்"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "சணல்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:49:40.002862887Z",
+  "model": "glm-5.3"
+}

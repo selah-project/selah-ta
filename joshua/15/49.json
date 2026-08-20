@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "தன்னாவையும், கிர்யத்-சன்னாவையும் — அதுவே தெபீர்.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "தன்னா"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "கிர்யத்"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "சன்னா"
+    },
+    {
+      "surface": "היא",
+      "gloss": "அதுவே"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "தெபீர்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:27.514840747Z",
+  "model": "glm-5.3"
+}

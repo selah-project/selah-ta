@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 31,
+  "translation": "யாவே மோஷேவுக்குச் சொன்னார், கூறுக:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "சொன்னார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடத்தில்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேவுக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுக"
+    }
+  ],
+  "timestamp": "2026-08-19T22:13:20.010470264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "கீழ் அடிப்படையிலிருந்து நான் உம் நாமத்தை, யாவே, கூப்பிட்டேன்.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "கூப்பிட்டேன்"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "உம் நாமத்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "குழியிலிருந்து"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "கீழான"
+    }
+  ],
+  "timestamp": "2026-08-20T02:44:53.678725176Z",
+  "model": "glm-5.3"
+}

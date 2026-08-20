@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "ஏழையைக் கொள்ளையிடாதே, ஏனெனில் அவன் ஏழை; வாசலில் எளியவனை நசுக்காதே.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "வேண்டாம்"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "கொள்ளையிடாதே"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ஏழையை"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ஏழை"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அவன்"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "மற்றும் வேண்டாம்"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "நசுக்காதே"
+    },
+    {
+      "surface": "עני",
+      "gloss": "எளியவனை"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "வாசலில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:14:22.558202053Z",
+  "model": "glm-5.3"
+}

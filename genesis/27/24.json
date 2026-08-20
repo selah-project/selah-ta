@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 27,
+  "translation": "அவர் சொன்னார்: நீ இதோ என் மகன் ஏசாவ்தானா? அவன் சொன்னான்: நான்தான்.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "அவர் சொன்னார்"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "நீ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இதோ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "என் மகன்"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ஏசாவ்"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "அவன் சொன்னான்"
+    },
+    {
+      "surface": "אני",
+      "gloss": "நான்தான்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:13:35.700876145Z",
+  "model": "glm-5.3"
+}

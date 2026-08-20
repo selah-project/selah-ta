@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "ஷிம்வோனின் புத்திரரில், படைக்கான வலிமையுள்ள வீரர்கள், ஏழாயிரத்து நூறு.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "இல்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ஷிம்வோனின்"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "வீரர்கள்"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "வலிமையுள்ள"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "படைக்கான"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ஏழு"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ஆயிரம்"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "நூறு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:32:59.444475828Z",
+  "model": "glm-5.3"
+}

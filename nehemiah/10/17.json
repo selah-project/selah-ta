@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "அதோனியா, பிக்வாய், அதீன்,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "அதோனியா"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "பிக்வாய்"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "அதீன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:32.553863518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 48,
+  "translation": "யிஸ்ராயேல் யோசேபின் குமாரர்களைக் கண்டு, இவர்கள் யார்? என்றார்.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "கண்டு"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "யிஸ்ராயேல்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "குமாரர்களை"
+    },
+    {
+      "surface": "בני",
+      "gloss": "குமாரர்களை"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "யோசேபின்"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "என்றார்"
+    },
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "இவர்கள்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:06:05.591919947Z",
+  "model": "glm-5.3"
+}

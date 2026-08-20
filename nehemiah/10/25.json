@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "ஹல்லோஹேஷ், பில்ஹா, ஷோவேக்.",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "ஹல்லோஹேஷ்"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "பில்ஹா"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "ஷோவேக்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:21:39.265808743Z",
+  "model": "glm-5.3"
+}

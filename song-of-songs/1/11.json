@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "பொன் வளையங்களை உனக்குச் செய்வோம் — வெள்ளிப் புள்ளிகளுடன்.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "வளையங்களை"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "பொன்"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "செய்வோம்"
+    },
+    {
+      "surface": "לך",
+      "gloss": "உனக்கு"
+    },
+    {
+      "surface": "עם",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "புள்ளிகள்"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "வெள்ளியின்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:38:25.863796227Z",
+  "model": "glm-5.3"
+}

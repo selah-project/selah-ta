@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஏழுபேருக்கும் ஒரு பங்கு கொடு, எட்டுபேருக்கும் கொடு; ஏனெனில் பூமியில் என்ன தீமை வரும் என்று நீ அறியமாட்டாய்.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "கொடு"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "பங்கு"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ஏழுக்கு"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "மற்றும்"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "எட்டுக்கு"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ஏனெனில்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "நீ அறிவாய்"
+    },
+    {
+      "surface": "מה",
+      "gloss": "என்ன"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "நேரிடும்"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "தீமை"
+    },
+    {
+      "surface": "על",
+      "gloss": "மேல்"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "பூமியில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:51:43.468925041Z",
+  "model": "glm-5.3"
+}

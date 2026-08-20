@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ரெஆயாவின் புதல்வர், ரெட்சினின் புதல்வர், நெகோதாவின் புதல்வர்,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ரெஆயா"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ரெட்சின்"
+    },
+    {
+      "surface": "בני",
+      "gloss": "புதல்வர்"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "நெகோதா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:37.751944901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 15,
+  "translation": "மாயோன், கர்மெல், ஸீப், யூத்தா",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "மாயோன்"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "கர்மெல்"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "ஸீப்"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "யூத்தா"
+    }
+  ],
+  "timestamp": "2026-08-19T22:38:14.161956714Z",
+  "model": "glm-5.3"
+}

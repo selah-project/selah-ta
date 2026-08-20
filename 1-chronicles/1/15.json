@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "⟨את⟩ ஏவியையும் ⟨את⟩ அர்கியையும் ⟨את⟩ சீனியையும்",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ஏவியை"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ஏவி"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "அர்கியை"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "அர்கி"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "சீனியை"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "சீனி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:24:19.824364052Z",
+  "model": "glm-5.3"
+}

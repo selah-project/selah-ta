@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "அவருடைய மூத்த மகன் அப்தோன், சூர், கிஷ், பால், நேர், நாதாப்.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "அவருடைய மகன்"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "மூத்த"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "அப்தோன்"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "சூர்"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "கிஷ்"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "பால்"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "நேர்"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "நாதாப்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:30:53.775234984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "நற்பெயர் நல்ல எண்ணெயை விடச் சிறந்தது, மற்றும் சாவின் நாள் பிறந்த நாளை விடச் சிறந்தது.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "சிறந்தது"
+    },
+    {
+      "surface": "שם",
+      "gloss": "நற்பெயர்"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "நல்ல எண்ணெயை விட"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "நல்ல"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "மற்றும் நாள்"
+    },
+    {
+      "surface": "המות",
+      "gloss": "சாவின்"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "நாளை விட"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "பிறந்த"
+    }
+  ],
+  "timestamp": "2026-08-20T02:50:07.313362686Z",
+  "model": "glm-5.3"
+}

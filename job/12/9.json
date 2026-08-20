@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "யார் அறியாதிருக்கிறார் — இவை அனைத்திலும் — யாவேயின் கை இதைச் செய்தது என்று?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "யார்"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "அறிவார்"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "அனைத்திலும்"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "இவை"
+    },
+    {
+      "surface": "כי",
+      "gloss": "என்று"
+    },
+    {
+      "surface": "יד",
+      "gloss": "கை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "செய்தது"
+    },
+    {
+      "surface": "஖את",
+      "gloss": "இதை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:23:59.310818937Z",
+  "model": "glm-5.3"
+}

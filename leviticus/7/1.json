@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "இதுவே ⟨the⟩ குற்றபலியின் தீர்மானம்; அது மிகவும் பரிசுத்தமானது.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "இதுவே"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "தீர்மானம்"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "குற்றபலியின்"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "பரிசுத்தம்"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "பரிசுத்தங்கள்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அது"
+    }
+  ],
+  "timestamp": "2026-08-19T21:46:52.323126911Z",
+  "model": "glm-5.3"
+}

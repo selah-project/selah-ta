@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "ஓவேத் ⟨את⟩ ஈஷையைப் பெற்றான், ஈஷை ⟨את⟩ தாவீதைப் பெற்றான்.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "ஓவேத்"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ஈஷை"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ஈஷை"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "ஈஷை"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "தாவீது"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "தாவீது"
+    }
+  ],
+  "timestamp": "2026-08-20T02:40:38.895655503Z",
+  "model": "glm-5.3"
+}

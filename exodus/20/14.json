@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 20,
+  "translation": "விபசாரம் செய்யாதே.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "விபசாரம் செய்வாய்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:34:31.952388445Z",
+  "model": "glm-5.3"
+}

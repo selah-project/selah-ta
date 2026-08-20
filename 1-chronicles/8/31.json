@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "மேலும் கெதோர், அக்கியோ, மற்றும் ழக்கர்.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "கெதோர்"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "அக்கியோ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "ழக்கர்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:29:32.880419266Z",
+  "model": "glm-5.3"
+}

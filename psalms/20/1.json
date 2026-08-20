@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 20,
+  "translation": "இசைத்தலைவனுக்கு, தாவீதின் மீட்டுப்பாடல்.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "இசைத்தலைவனுக்கு"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "மீட்டுப்பாடல்"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "தாவீதின்"
+    }
+  ],
+  "timestamp": "2026-08-20T01:26:06.978400333Z",
+  "model": "glm-5.3"
+}

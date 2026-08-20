@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 9,
+  "translation": "யாவே மோஷேயிடம் பேசினார், கூறி__சொல்லும்படி: \"",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறும்படி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:03:28.264576011Z",
+  "model": "glm-5.3"
+}

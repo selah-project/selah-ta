@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "அங்கிருந்து புறப்பட்டு, செரெத் நதியில் பாளயமிட்டனர்.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "அங்கிருந்து"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "புறப்பட்டு"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "பாளயமிட்டனர்"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "நதியில்"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "செரெத்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:09:07.630167206Z",
+  "model": "glm-5.3"
+}

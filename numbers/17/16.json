@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 17,
+  "translation": "யாவே மோஷேயுடன் பேசினார், கூறுவது:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவது"
+    }
+  ],
+  "timestamp": "2026-08-20T04:10:02.476015914Z",
+  "model": "glm-5.3"
+}

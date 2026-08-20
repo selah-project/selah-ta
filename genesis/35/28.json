@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 35,
+  "translation": "யித்சாக்கின் நாட்கள் நூறு ஆண்டும் எண்பது ஆண்டும் ஆயின.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ஆயின"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "நாட்கள்"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "யித்சாக்கின்"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ஆண்டு"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "மற்றும் எண்பது"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ஆண்டு"
+    }
+  ],
+  "timestamp": "2026-08-19T21:17:34.914394424Z",
+  "model": "glm-5.3"
+}

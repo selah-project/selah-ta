@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "அஸ்கத்தின் புத்திரர் — இரண்டாயிரம் முந்நூற்று இருபத்திரண்டு.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "புத்திரர்"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "அஸ்கத்"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "இரண்டாயிரம்"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "மூன்று"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "இருபது"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "இரண்டு"
+    }
+  ],
+  "timestamp": "2026-08-20T03:19:15.491153141Z",
+  "model": "glm-5.3"
+}

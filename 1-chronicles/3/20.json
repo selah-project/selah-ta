@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 3,
+  "translation": "ஹஷுபா, ஓஹேல், பெரெக்யா, ஹஸத்யா, யூஷப்-ஹெஸெத் — ஐந்து.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ஹஷுபா"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ஓஹேல்"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "பெரெக்யா"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ஹஸத்யா"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "யூஷப்"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ஹெஸெத்"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ஐந்து"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:55.580571131Z",
+  "model": "glm-5.3"
+}

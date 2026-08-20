@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "இதற்காக நம்முடைய இருதயம் சோர்ந்தது; இவற்றுக்காக நம்முடைய கண்கள் இருண்டன.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "காக"
+    },
+    {
+      "surface": "זה",
+      "gloss": "இதற்கு"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ஆயிற்று"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "சோர்ந்தது"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "நம்முடைய இருதயம்"
+    },
+    {
+      "surface": "על",
+      "gloss": "காக"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "இவற்றுக்கு"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "இருண்டன"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "நம்முடைய கண்கள்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:33.813220407Z",
+  "model": "glm-5.3"
+}

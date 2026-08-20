@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 2,
+  "translation": "யாவே என்னிடம் பேசினார், சொல்லக் கூறி:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "என்னிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லக் கூறி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:17:26.568196418Z",
+  "model": "glm-5.3"
+}

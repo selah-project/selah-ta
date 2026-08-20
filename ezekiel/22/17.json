@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 22,
+  "translation": "யாவேவின் வார்த்தை எனக்கு வந்தது, கூறுவதாவது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆனது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவதாவது"
+    }
+  ],
+  "timestamp": "2026-08-20T04:28:52.318371876Z",
+  "model": "glm-5.3"
+}

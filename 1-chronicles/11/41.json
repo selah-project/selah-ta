@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "ஊரியா ⟨அவ்வித்தியன்⟩, சாபாது அக்லாயின் மகன்,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ஊரியா"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "அவ்வித்தியன்"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "சாபாது"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "அக்லாய்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:02.873319071Z",
+  "model": "glm-5.3"
+}

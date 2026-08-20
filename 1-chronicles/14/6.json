@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "மற்றும் நோகா, மற்றும் நெபெக், மற்றும் யாபியா.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "மற்றும் நோகா"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "மற்றும் நெபெக்"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "மற்றும் யாபியா"
+    }
+  ],
+  "timestamp": "2026-08-20T04:45:30.667947943Z",
+  "model": "glm-5.3"
+}

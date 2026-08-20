@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ta",
+  "chapter": 13,
+  "translation": "பாபிலோனின் சுமை — அமோட்சின் மகனாகிய யெஷயாஹு கண்டது.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "சுமை"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "பாபிலோனின்"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "கண்டது"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "யெஷயாஹு"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகனாகிய"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "அமோட்சின்"
+    }
+  ],
+  "timestamp": "2026-08-19T23:49:43.512429549Z",
+  "model": "glm-5.3"
+}

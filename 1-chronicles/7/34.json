@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "ஷமேரின் புத்திரர்: அகி, ரோகா, யெகுப்பா, அராம்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மற்றும் புத்திரர்"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ஷமேர்"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "அகி"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "மற்றும் ரோகா"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "யெகுப்பா"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "மற்றும் அராம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:52.278892790Z",
+  "model": "glm-5.3"
+}

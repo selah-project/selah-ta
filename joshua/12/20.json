@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "ஷிம்ரோன்-மெரோன் அரசன் — ஒருவன்; அக்ஷாப் அரசன் — ஒருவன்;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ஷிம்ரோன்"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "மெரோன்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "அக்ஷாப்"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ஒருவன்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:37:14.465102982Z",
+  "model": "glm-5.3"
+}

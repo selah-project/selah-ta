@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "ta",
+  "chapter": 10,
+  "translation": "அராமர் தங்கள் முன் இஸ்ரவேலால் தோற்கடிக்கப்பட்டதைக் கண்டு, ஒன்றாகக் கூடினார்கள்.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "கண்டது"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "அராம்"
+    },
+    {
+      "surface": "כי",
+      "gloss": "என்று"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "தோற்கடிக்கப்பட்டது"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "முன்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேல்"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "கூடினார்கள்"
+    },
+    {
+      "surface": "ויאספו-placeholder",
+      "gloss": "",
+      "surface-duplicate": null,
+      "surface2": null
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ஒன்றாக"
+    }
+  ],
+  "timestamp": "2026-08-19T23:12:12.700239034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "காணுங்கள், இன்று நான் உங்கள் முன்னே ஆசியையும் சாபத்தையும் வைக்கிறேன்.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "காணுங்கள்"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "வைக்கிறேன்"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "உங்கள் முன்னே"
+    },
+    {
+      "surface": "היום",
+      "gloss": "இன்று"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ஆசி"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "மற்றும் சாபம்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:21:30.061247020Z",
+  "model": "glm-5.3"
+}

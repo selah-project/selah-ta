@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 25,
+  "translation": "யாவே மோஷேயிடம் பேசினார், கூறிேனவைத்து:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷே"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறும்படி"
+    }
+  ],
+  "timestamp": "2026-08-19T22:10:29.565317832Z",
+  "model": "glm-5.3"
+}

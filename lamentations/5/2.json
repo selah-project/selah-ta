@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "நம் சுதந்திரம் அந்நியருக்கு மாறியது; நம் வீடுகள் பரதேசிகளுக்கு.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "நம் சுதந்திரம்"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "மாறியது"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "அந்நியருக்கு"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "நம் வீடுகள்"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "பரதேசிகளுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:15.688216277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "ஹெலாவின் மக்கள்: செரெத், யிஸ்ஹர் மற்றும் எத்னான்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மற்றும் மக்கள்"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ஹெலாவின்"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "செரெத்"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "யிஸ்ஹர்"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "மற்றும் எத்னான்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:26:27.501035377Z",
+  "model": "glm-5.3"
+}

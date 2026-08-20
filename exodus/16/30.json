@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 16,
+  "translation": "ஆக மக்கள் ஏழாம் நாளில் ஓய்வெடுத்தார்கள்.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ஓய்வெடுத்தார்கள்"
+    },
+    {
+      "surface": "העם",
+      "gloss": "மக்கள்"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "நாளில்"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ஏழாம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:33:28.303531827Z",
+  "model": "glm-5.3"
+}

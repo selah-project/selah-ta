@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 35,
+  "translation": "உன் நகரங்களை பாழாக்குவேன், நீ தரிசாக இருப்பாய்; நானே யாவே என்று நீ அறிவாய்.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "உன் நகரங்களை"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "பாழாக"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ஆக்குவேன்"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "நீ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "தரிசாக"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "இருப்பாய்"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "அறிவாய்"
+    },
+    {
+      "surface": "כי",
+      "gloss": "என்று"
+    },
+    {
+      "surface": "אני",
+      "gloss": "நானே"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-20T00:52:29.534409053Z",
+  "model": "glm-5.3"
+}

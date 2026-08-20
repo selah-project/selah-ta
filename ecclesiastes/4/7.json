@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 4,
+  "translation": "நான் மீண்டும் திரும்பிச் சூரியனுக்குக் கீழே வீணைக் கண்டேன்.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "திரும்பினேன்"
+    },
+    {
+      "surface": "אני",
+      "gloss": "நான்"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "கண்டேன்"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "வீண்"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "கீழே"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "சூரியனுக்கு"
+    }
+  ],
+  "timestamp": "2026-08-20T02:49:40.745319961Z",
+  "model": "glm-5.3"
+}

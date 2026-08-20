@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 14,
+  "translation": "எந்த அருவருப்பானதையும் சாப்பிடலாகாது.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "சாப்பிடலாகாது"
+    },
+    {
+      "surface": "כל",
+      "gloss": "எந்த…ம்"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "அருவருப்பானதை"
+    }
+  ],
+  "timestamp": "2026-08-19T22:22:01.251310865Z",
+  "model": "glm-5.3"
+}

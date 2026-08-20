@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "கோஹெலெத்தின் வார்த்தைகள், தாவீதின் மகன், யெருஷாலயிமில் அரசன்.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "வார்த்தைகள்"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "கோஹெலெத்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "தாவீது"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "யெருஷாலயிமில்"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:49.835110524Z",
+  "model": "glm-5.3"
+}

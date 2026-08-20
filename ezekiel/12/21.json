@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 12:21",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "யாவேவிடமிருந்து எனக்கு ஒரு வார்த்தை உண்டாகி, சொல்லப்பட்டது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆகி"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "சொல்லப்பட்டது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:40:16.377147832Z",
+  "model": "glm-5.3"
+}

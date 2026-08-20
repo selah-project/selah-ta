@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 1,
+  "translation": "காதுக்கு — எல்யாசாப், தெஉவேலின் மகன்.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "காதுக்கு"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "எல்யாசாப்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "தெஉவேல்"
+    }
+  ],
+  "timestamp": "2026-08-20T04:09:08.362259179Z",
+  "model": "glm-5.3"
+}

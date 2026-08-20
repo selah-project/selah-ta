@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 26,
+  "translation": "பல்லூவின் புதல்கள்: எலியாப்.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மற்றும் புதல்கள்"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "பல்லூவின்"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "எலியாப்"
+    }
+  ],
+  "timestamp": "2026-08-19T22:10:52.153743050Z",
+  "model": "glm-5.3"
+}

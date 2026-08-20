@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 21,
+  "translation": "அவன் ஒரு பெண்ணை அவள் கன்னிமையிலேயே மணந்து கொள்ளலாம்.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "அவன்"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ஒரு பெண்ணை"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "அவள் கன்னிமையிலேயே"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "மணந்து கொள்ளலாம்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:54:41.307058853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "அத்தாய் ஆறாமவன், எலியேல் ஏழாமவன்.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "அத்தாய்"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ஆறாமவன்"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "எலியேல்"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ஏழாமவன்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:31:41.853114027Z",
+  "model": "glm-5.3"
+}

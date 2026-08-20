@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 23,
+  "translation": "ஏழையின் வழக்கில் அவன் நீதியை வளைக்க வேண்டாம்.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "வேண்டாம்"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "வளைக்க"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "நீதியை"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "உன் ஏழையின்"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "அவன் வழக்கில்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:36:22.244822971Z",
+  "model": "glm-5.3"
+}

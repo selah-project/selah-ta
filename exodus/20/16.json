@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ta",
+  "chapter": 20,
+  "translation": "உன் அயலானுக்கு எதிராகப் பொய்ச் சாட்சி சொல்லாதே.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "பதில் சொல்வாய்"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "உன் அயலானுக்கு எதிராக"
+    },
+    {
+      "surface": "עד",
+      "gloss": "சாட்சி"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "பொய்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:34:31.952675946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "யாவே மோஷேவுக்குப் பேசி, «இவ்வாறு சொல்» எ்ன அருளினார்.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இதற்கு"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேவுக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "இவ்வாறு சொல் எ்ன"
+    }
+  ],
+  "timestamp": "2026-08-20T04:09:21.505327073Z",
+  "model": "glm-5.3"
+}

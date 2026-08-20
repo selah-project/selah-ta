@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ta",
+  "chapter": 146,
+  "translation": "புகழுங்கள் ⟨את⟩ யா-வை; என் ஆவியே, புகழ் ⟨את⟩ யாவேயை.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "புகழுங்கள்"
+    },
+    {
+      "surface": "יה",
+      "gloss": "யா"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "புகழ்"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "என் ஆவியே"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "யாவேயை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-20T02:01:31.332193496Z",
+  "model": "glm-5.3"
+}

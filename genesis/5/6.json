@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "ஷேத் ஐந்து ஆண்டுகளும் நூறு ஆண்டுகளும் வாழ்ந்து ⟨את⟩ எனோஷைப் பெற்றார்.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "வாழ்ந்தார்"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ஷேத்"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ஐந்து"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ஆண்டுகள்"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "நூறு"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ஆண்டுகள்"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "பெற்றார்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "எனோஷை"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "எனோஷ்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:03:45.017480629Z",
+  "model": "glm-5.3"
+}

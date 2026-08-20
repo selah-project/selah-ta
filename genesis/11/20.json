@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ta",
+  "chapter": 11,
+  "translation": "வாழ்ந்தான் ரெவூ இரண்டு முப்பது ஆண்டு, பெற்றான் ⟨את⟩ செரூகை.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "வாழ்ந்தான்"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ரெவூ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "இரண்டு"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "முப்பது"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ஆண்டு"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "பெற்றான்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "செரூக்"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "செரூக்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:06:18.362541825Z",
+  "model": "glm-5.3"
+}

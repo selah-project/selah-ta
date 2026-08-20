@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "ta",
+  "chapter": 20,
+  "translation": "யாவே யிஹோஷுவாவிடம் பேசினார், கூறுவது:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடம்"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "யிஹோஷுவாவிடம்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுவது"
+    }
+  ],
+  "timestamp": "2026-08-19T22:40:19.691750950Z",
+  "model": "glm-5.3"
+}

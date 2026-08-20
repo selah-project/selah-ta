@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ta",
+  "chapter": 18,
+  "translation": "உன் இருதயத்தில் நீ சொல்லும்போது — எப்படி அறிவோம் யாவே பேசாத ⟨את⟩ வார்த்தையை?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "மற்றும் எப்போது"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "சொல்வாய்"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "உன் இருதயத்தில்"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "எப்படி"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "அறிவோம்"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "வார்த்தையை"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "அதை"
+    },
+    {
+      "surface": "לא",
+      "gloss": "இல்லை"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "பேசினார்"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    }
+  ],
+  "timestamp": "2026-08-19T22:23:56.682611424Z",
+  "model": "glm-5.3"
+}

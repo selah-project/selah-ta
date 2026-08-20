@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 8,
+  "translation": "அப்தோன், ஸிக்ரி, ஆனான்.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "அப்தோன்"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ஸிக்ரி"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "ஆனான்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:47.368202532Z",
+  "model": "glm-5.3"
+}

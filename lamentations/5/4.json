@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "நம் நீரை வெள்ளிக்குக் குடித்தோம்; நம் விறகு விலைக்கு வருகிறது.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "நம் நீரை"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "வெள்ளிக்கு"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "குடித்தோம்"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "நம் விறகு"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "விலைக்கு"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "வருகிறது"
+    }
+  ],
+  "timestamp": "2026-08-20T02:47:15.691383984Z",
+  "model": "glm-5.3"
+}

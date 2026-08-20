@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "சொத்துடன் ஞானம் நல்லது; சூரியனைக் காண்போருக்கு அது மிகுந்த பயனும் ஆகும்.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "நல்லது"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ஞானம்"
+    },
+    {
+      "surface": "עם",
+      "gloss": "உடன்"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "சொத்து"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "மிகுந்த பயன்"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "காண்போருக்கு"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "சூரியனை"
+    }
+  ],
+  "timestamp": "2026-08-20T02:49:28.628449037Z",
+  "model": "glm-5.3"
+}

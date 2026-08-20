@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ta",
+  "chapter": 5,
+  "translation": "இஸ்ரவேலர் அனைவரும் பண்டிகையில் — அது ஏழாம் மாதம் — அரசனிடத்தில் கூடினார்கள்.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "கூடினார்கள்"
+    },
+    {
+      "surface": "אל",
+      "gloss": "இடத்தில்"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "அரசன்"
+    },
+    {
+      "surface": "כל",
+      "gloss": "அனைவரும்"
+    },
+    {
+      "surface": "איש",
+      "gloss": "மனிதர்"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "இஸ்ரவேல்"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "பண்டிகையில்"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "அது"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "மாதம்"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ஏழாம்"
+    }
+  ],
+  "timestamp": "2026-08-20T03:45:07.825978388Z",
+  "model": "glm-5.3"
+}

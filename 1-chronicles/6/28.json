@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "யாகாத்தின் மகன், கெரெஷோமின் மகன், லேவியின் மகன்.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "யாகாத்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "கெரெஷோம்"
+    },
+    {
+      "surface": "בן",
+      "gloss": "மகன்"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "லேவி"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:38.342566830Z",
+  "model": "glm-5.3"
+}

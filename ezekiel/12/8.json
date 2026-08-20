@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "ta",
+  "chapter": 12,
+  "translation": "காலையில் எனக்கு யாவேவின் வார்த்தை உரைக்கப்பட்டது, கூறுகிறது:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ஆனது"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "வார்த்தை"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவேவின்"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "காலையில்"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "கூறுகிறது"
+    }
+  ],
+  "timestamp": "2026-08-20T00:40:01.890278396Z",
+  "model": "glm-5.3"
+}

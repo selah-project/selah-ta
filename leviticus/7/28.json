@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "ta",
+  "chapter": 7,
+  "translation": "யாவே மோஷேவுக்குப் பேசி, \"இப்படிச் சொல்\" என்றார்.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "பேசி"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "யாவே"
+    },
+    {
+      "surface": "אל",
+      "gloss": "க்கு"
+    },
+    {
+      "surface": "משה",
+      "gloss": "மோஷேவுக்கு"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "இப்படிச் சொல்"
+    }
+  ],
+  "timestamp": "2026-08-19T21:47:06.174050260Z",
+  "model": "glm-5.3"
+}

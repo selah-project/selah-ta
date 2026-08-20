@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "என் பலம் கற்களுடைய பலமோ? என் சதை வெண்கலமோ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "அல்லது"
+    },
+    {
+      "surface": "כח",
+      "gloss": "பலம்"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "கற்களுடைய"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "என் பலம்"
+    },
+    {
+      "surface": "אם",
+      "gloss": "அல்லது"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "என் சதை"
+    },
+    {
+      "surface": "஠חוש",
+      "gloss": "வெண்கலமோ"
+    }
+  ],
+  "timestamp": "2026-08-20T02:21:48.767378037Z",
+  "model": "glm-5.3"
+}

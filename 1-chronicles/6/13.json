@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "ta",
+  "chapter": 6,
+  "translation": "செமுவேலின் புதல்வர்: ⟨த⟩⟩மூத்தவன் வஷ்னி, மற்றும் அபியா.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "மற்றும் புதல்வர்"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "செமுவேலின்"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "மூத்தவன்"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "வஷ்னி"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "மற்றும் அபியா"
+    }
+  ],
+  "timestamp": "2026-08-20T03:28:29.176672361Z",
+  "model": "glm-5.3"
+}
