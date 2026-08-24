@@ -5,8 +5,41 @@
   "book": "jeremiah",
   "lang": "ta",
   "chapter": 17,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-20T00:18:41.631436317Z",
+  "translation": "எனக்கு அழிவாய் ⟨இருக்காதே⟩; தீமையின் நாளில் நீயே என் அடைக்கலம்.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "வேண்டாம்"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ஆகாதே"
+    },
+    {
+      "surface": "לי",
+      "gloss": "எனக்கு"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "அழிவாய்"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "என் அடைக்கலம்"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "நீயே"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "நாளில்"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "தீமையின்"
+    }
+  ],
+  "timestamp": "2026-08-24T18:36:45.356754055Z",
   "model": "glm-5.3"
 }
