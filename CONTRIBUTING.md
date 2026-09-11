@@ -68,3 +68,8 @@
 ஏற்கலாம், உங்களுடன் சேர்ந்து தீர்க்கலாம், மேலும் சான்றுக்குக்
 காத்திருக்கலாம், அல்லது காரணத்துடன் நிராகரிக்கலாம். உரையே
 மதிப்பிடப்படுகிறது, மனிதர் அல்ல.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
