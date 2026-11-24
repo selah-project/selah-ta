@@ -74,7 +74,7 @@
 இந்த ரெண்டரிங் CC BY-SA 4.0 உரிமத்தில் திறந்தது. இந்தப் பணி உங்களுக்குப்
 பயனுள்ளதாக இருந்து, மொழியாக்கம், திருத்தம், வெளியீடு, வளர்ச்சி
 ஆகியவற்றில் பங்களிக்க விரும்பினால்:
-[selahproject.com/support](https://selahproject.com/support).
+[s33k3r.com/learn/support](https://s33k3r.com/learn/support).
 
 ## திருத்தத்தில் பங்கேற்க
 
@@ -85,6 +85,6 @@
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
